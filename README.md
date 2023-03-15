@@ -1,15 +1,16 @@
-# Project3
+# Project4
 
 # Java Version Information
 
 This repository contains information about the Java version used to build this project.
 
-The project 2 file we will be using is directly from Bruce Montgomery, all credit for the project 2 code present in this goes to him.
+The original outline for the code is credited to Prof Montgomery. All future updates have been original (since project 2).
 
 #Team Members
 
 Matt Riopelle
 David Banda
+Mark Haley
 
 ## Version
 
@@ -36,7 +37,7 @@ This will display the version of Java that is currently installed.
 
 ## Contributors
 
-This project was created by David Banda and Matt Riopelle, students at CU Boulder.
+This project was created by David Banda, Mark Haley, and Matt Riopelle, students at CU Boulder.
 
 ## License
 
