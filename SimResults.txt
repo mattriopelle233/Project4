@@ -1,0 +1,3466 @@
+>>> Start Simulation Day 1 Thur
+The FNCD is opening...
+The intern Fred has been assigned the detailed wash method!
+Hired a new Intern named Fred
+The intern Ethel has been assigned the chemical wash method!
+Hired a new Intern named Ethel
+The intern Lucy has been assigned the elbow grease wash method!
+Hired a new Intern named Lucy
+Hired a new Mechanic named James
+Hired a new Mechanic named Scotty
+Hired a new Mechanic named Spock
+Hired a new Salesperson named Rachel
+Hired a new Salesperson named Monica
+Hired a new Salesperson named Phoebe
+Hired a new Driver named Eddie
+Hired a new Driver named Montez
+Hired a new Driver named Jessica
+Bought Probe, a Sparkling Broken Car for $7,741.00
+Bought Escort, a Clean Broken Car for $9,306.00
+Bought Taurus, a Dirty Broken Car for $7,159.50
+Bought Fiesta, a Dirty Used Car for $14,868.00
+Bought Europa, a Dirty LikeNew PerfCar for $22,470.00
+Bought Cayman, a Clean Used PerfCar for $23,257.60
+Bought Corvette, a Dirty Broken PerfCar for $12,001.50
+Bought Mustang, a Dirty LikeNew PerfCar for $22,167.00
+Bought Ranger, a Dirty Used Pickup for $8,464.80
+Bought F-250, a Dirty Broken Pickup for $14,917.00
+Bought Colorado, a Dirty LikeNew Pickup for $10,413.00
+Bought Tundra, a Sparkling Broken Pickup for $14,070.50
+Bought Prius, a Dirty Broken ElectricCar for $19,653.00
+Bought Tesla, a Sparkling Used ElectricCar for $29,350.40
+Bought Bolt, a Clean LikeNew ElectricCar for $44,961.00
+Bought Mustang Mach, a Dirty LikeNew ElectricCar for $25,831.00
+Bought Harley Davidson, a Sparkling LikeNew MotorCycle for $32,275.00
+Bought Yamaha, a Dirty Broken MotorCycle for $13,394.00
+Bought Suzuki, a Dirty Broken MotorCycle for $16,349.00
+Bought Ducati, a Dirty Used MotorCycle for $29,006.40
+Bought Air Force Afterburner, a Dirty LikeNew MonsterTruck for $51,521.00
+Bought Avenger, a Dirty Used MonsterTruck for $33,236.00
+***Budget overrun*** Added $250K, budget now: $241,437.30
+Bought Batman, a Clean LikeNew MonsterTruck for $46,150.00
+Bought Bear Foot USA, a Clean Used MonsterTruck for $31,821.60
+The FNCD interns are washing...
+The detailed method is being used for this wash.
+Fred made the Fiesta go from Dirty to Clean
+The chemical method is being used for this wash.
+Ethel made the Taurus go from Dirty to Clean
+Ethel made the Europa go from Dirty to Clean
+The elbow grease method is being used for this wash.
+Lucy made the Corvette go from Dirty to Clean
+Lucy made the Mustang go from Dirty to Clean
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $100.00!
+Mechanic James fixed Probe Broken to Used
+Mechanic James got a bonus of $100.00!
+Mechanic James fixed Escort Broken to Used
+Mechanic Scotty got a bonus of $100.00!
+Mechanic Scotty fixed Probe Used to LikeNew
+Mechanic Scotty got a bonus of $100.00!
+Mechanic Scotty fixed Escort Used to LikeNew
+Mechanic Spock got a bonus of $100.00!
+Mechanic Spock fixed Taurus Broken to Used
+Mechanic Spock got a bonus of $100.00!
+Mechanic Spock fixed Fiesta Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 5 buyers today...
+Buyer Luke wants a MonsterTruck (WantsOne)
+Buyer Luke is buying! Salesperson Monica gets a bonus of $875.00!
+Buyer Luke is buying Air Force Afterburner for $103,042.00
+0.4632255281838288
+0.09994820897721968
+0.9735673857326461
+0.20838778245496126
+Buyer Luke bought Dirty LikeNew Air Force Afterburner for $103,042.00
+Buyer Leia wants a MonsterTruck (JustLooking)
+Buyer Leia decided not to buy.
+Buyer Han wants a MotorCycle (WantsOne)
+Buyer Han is buying! Salesperson Monica gets a bonus of $600.00!
+Buyer Han is buying Harley Davidson for $64,550.00
+0.9086745800776407
+0.6758856123924328
+0.4994754785864397
+0.5323277810071784
+Buyer Han bought Sparkling LikeNew Harley Davidson for $64,550.00
+Buyer Chewy wants a PerfCar (JustLooking)
+Buyer Chewy decided not to buy.
+Buyer Luke-2 wants a ElectricCar (WantsOne)
+Buyer Luke-2 decided not to buy.
+The salesperson Monica quit the FNCD!
+The intern Fred will be promoted to SalesPerson!
+Vehicles in inventory 22
+Vehicles sold count 2
+Money in the budget $376,097.70
+Current interns:
+Ethel   salary: 60.0   bonuses: 0.0
+Lucy   salary: 60.0   bonuses: 0.0
+Current Mechanics:
+James   salary: 120.0   bonuses: 200.0
+Scotty   salary: 120.0   bonuses: 200.0
+Spock   salary: 120.0   bonuses: 200.0
+Current SalesPeople:
+Rachel   salary: 90.0   bonuses: 0.0
+Phoebe   salary: 90.0   bonuses: 0.0
+Fred   salary: 90.0   bonuses: 0.0
+Current Drivers:
+Eddie   win count: 0   salary: 100.0   bonuses0.0
+Montez   win count: 0   salary: 100.0   bonuses0.0
+Jessica   win count: 0   salary: 100.0   bonuses0.0
+Current cars:
+Probe   sales price: 29028.75   cleanliness: Dirty   condition: LikeNew   win count: 0
+Escort   sales price: 34897.5   cleanliness: Dirty   condition: LikeNew   win count: 0
+Taurus   sales price: 21478.5   cleanliness: Dirty   condition: Used   win count: 0
+Fiesta   sales price: 37170.0   cleanliness: Dirty   condition: LikeNew   win count: 0
+Current Pickups:
+Ranger   sales price: 16929.600000000002   cleanliness: Dirty   condition: Used   win count: 0
+F-250   sales price: 29834.0   cleanliness: Dirty   condition: Broken   win count: 0
+Colorado   sales price: 20826.0   cleanliness: Dirty   condition: LikeNew   win count: 0
+Tundra   sales price: 28141.0   cleanliness: Sparkling   condition: Broken   win count: 0
+Current Performance Cars:
+Europa   sales price: 44940.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Cayman   sales price: 46515.200000000004   cleanliness: Clean   condition: Used   win count: 0
+Corvette   sales price: 24003.0   cleanliness: Clean   condition: Broken   win count: 0
+Mustang   sales price: 44334.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Current electric cars:
+Prius   sales price: 39306.0   cleanliness: Dirty   condition: Broken   win count: 0
+Tesla   sales price: 58700.8   cleanliness: Sparkling   condition: Used   win count: 0
+Bolt   sales price: 89922.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Mustang Mach   sales price: 51662.0   cleanliness: Dirty   condition: LikeNew   win count: 0
+Current motorcycles:
+Yamaha   sales price: 26788.0   cleanliness: Dirty   condition: Broken   win count: 0
+Suzuki   sales price: 32698.0   cleanliness: Dirty   condition: Broken   win count: 0
+Ducati   sales price: 58012.8   cleanliness: Dirty   condition: Used   win count: 0
+Current monster trucks:
+Avenger   sales price: 66472.0   cleanliness: Dirty   condition: Used   win count: 0
+Batman   sales price: 92300.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Bear Foot USA   sales price: 63643.200000000004   cleanliness: Clean   condition: Used   win count: 0
+That's it for the day.
+
+
+
+
+
+
+
+
+
+
+
+>>> End Simulation Day 1 Thur
+
+src.Tracker: Day 1
+Total money earned by all Staff: $1110.0
+Total money earned by the FNCD: $-372792.30000000005
+>>> Start Simulation Day 2 Fri
+The FNCD is opening...
+The intern Desi has been assigned the chemical wash method!
+Hired a new Intern named Desi
+Bought Harley Davidson-2, a Clean LikeNew MotorCycle for $21,003.00
+Bought Bigfoot, a Dirty Used MonsterTruck for $26,305.60
+The FNCD interns are washing...
+The chemical method is being used for this wash.
+Ethel made the Probe go from Dirty to Clean
+Ethel made the Escort go from Dirty to Clean
+The elbow grease method is being used for this wash.
+Lucy made the Taurus go from Dirty to Clean
+Lucy made the Fiesta go from Dirty to Clean
+The chemical method is being used for this wash.
+Desi made the Ranger go from Dirty to Clean
+Desi made the F-250 go from Dirty to Clean
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $100.00!
+Mechanic James fixed Taurus Used to LikeNew
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Cayman Used to LikeNew
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Corvette Broken to Used
+Mechanic Scotty did not fix the Used Ranger
+Mechanic Spock got a bonus of $300.00!
+Mechanic Spock fixed Corvette Used to LikeNew
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Ranger Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 6 buyers today...
+Buyer Leia-2 wants a MonsterTruck (WantsOne)
+Buyer Leia-2 is buying! Salesperson Fred gets a bonus of $875.00!
+Buyer Leia-2 is buying Batman for $92,300.00
+0.9566963675621689
+0.4397590753293851
+0.6136133154775996
+0.9878980494430689
+Buyer Leia-2 bought Clean LikeNew Batman for $92,300.00
+Buyer Han-2 wants a MotorCycle (NeedsOne)
+Buyer Han-2 is buying! Salesperson Fred gets a bonus of $600.00!
+Buyer Han-2 is buying Ducati for $58,012.80
+0.9271975048861133
+0.2150493041399868
+0.2166716829762021
+Buyer Han-2 added Satellite Radio for $2,900.64
+0.7685590511106297
+Buyer Han-2 bought Dirty Used Ducati for $60,913.44
+Buyer Chewy-2 wants a MotorCycle (WantsOne)
+Buyer Chewy-2 is buying! Salesperson Rachel gets a bonus of $600.00!
+Buyer Chewy-2 is buying Harley Davidson-2 for $42,006.00
+0.9606063250218662
+0.9060892912602782
+0.1862786399874775
+Buyer Chewy-2 added Satellite Radio for $2,100.30
+0.4639287466629841
+Buyer Chewy-2 bought Clean LikeNew Harley Davidson-2 for $44,106.30
+Buyer Luke-3 wants a ElectricCar (WantsOne)
+Buyer Luke-3 is buying! Salesperson Phoebe gets a bonus of $900.00!
+Buyer Luke-3 is buying Bolt for $89,922.00
+0.17794424832190292
+Buyer Luke-3 added Extended Warranty for $17,984.40
+0.08708344458789352
+0.7080565826574288
+0.4857875928187978
+Buyer Luke-3 bought Clean LikeNew Bolt for $107,906.40
+Buyer Leia-3 wants a Pickup (JustLooking)
+Buyer Leia-3 decided not to buy.
+Buyer Han-3 wants a MonsterTruck (WantsOne)
+Buyer Han-3 is buying! Salesperson Rachel gets a bonus of $875.00!
+Buyer Han-3 is buying Avenger for $66,472.00
+0.9650143700173819
+0.6326645588815467
+0.8065387328112748
+0.8998644387378858
+Buyer Han-3 bought Dirty Used Avenger for $66,472.00
+No one quit today!
+Vehicles in inventory 19
+Vehicles sold count 7
+Money in the budget $699,377.24
+Current interns:
+Ethel   salary: 60.0   bonuses: 0.0
+Lucy   salary: 60.0   bonuses: 0.0
+Desi   salary: 60.0   bonuses: 0.0
+Current Mechanics:
+James   salary: 120.0   bonuses: 600.0
+Scotty   salary: 120.0   bonuses: 500.0
+Spock   salary: 120.0   bonuses: 700.0
+Current SalesPeople:
+Rachel   salary: 90.0   bonuses: 1475.0
+Phoebe   salary: 90.0   bonuses: 900.0
+Fred   salary: 90.0   bonuses: 1475.0
+Current Drivers:
+Eddie   win count: 0   salary: 100.0   bonuses0.0
+Montez   win count: 0   salary: 100.0   bonuses0.0
+Jessica   win count: 0   salary: 100.0   bonuses0.0
+Current cars:
+Probe   sales price: 29028.75   cleanliness: Clean   condition: LikeNew   win count: 0
+Escort   sales price: 34897.5   cleanliness: Clean   condition: LikeNew   win count: 0
+Taurus   sales price: 26848.125   cleanliness: Dirty   condition: LikeNew   win count: 0
+Fiesta   sales price: 37170.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Current Pickups:
+Ranger   sales price: 21162.000000000004   cleanliness: Dirty   condition: LikeNew   win count: 0
+F-250   sales price: 29834.0   cleanliness: Clean   condition: Broken   win count: 0
+Colorado   sales price: 20826.0   cleanliness: Dirty   condition: LikeNew   win count: 0
+Tundra   sales price: 28141.0   cleanliness: Sparkling   condition: Broken   win count: 0
+Current Performance Cars:
+Europa   sales price: 44940.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Cayman   sales price: 58144.00000000001   cleanliness: Dirty   condition: LikeNew   win count: 0
+Corvette   sales price: 45005.625   cleanliness: Dirty   condition: LikeNew   win count: 0
+Mustang   sales price: 44334.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Current electric cars:
+Prius   sales price: 39306.0   cleanliness: Dirty   condition: Broken   win count: 0
+Tesla   sales price: 58700.8   cleanliness: Sparkling   condition: Used   win count: 0
+Mustang Mach   sales price: 51662.0   cleanliness: Dirty   condition: LikeNew   win count: 0
+Current motorcycles:
+Yamaha   sales price: 26788.0   cleanliness: Dirty   condition: Broken   win count: 0
+Suzuki   sales price: 32698.0   cleanliness: Dirty   condition: Broken   win count: 0
+Current monster trucks:
+Bear Foot USA   sales price: 63643.200000000004   cleanliness: Clean   condition: Used   win count: 0
+Bigfoot   sales price: 52611.200000000004   cleanliness: Dirty   condition: Used   win count: 0
+That's it for the day.
+
+
+
+
+
+
+
+
+
+
+
+
+>>> End Simulation Day 2 Fri
+
+src.Tracker: Day 2
+Total money earned by all Staff: $2220.0
+Total money earned by the FNCD: $-48402.76000000004
+>>> Start Simulation Day 3 Sat
+The FNCD is opening...
+Bought Prius-2, a Clean Used ElectricCar for $26,075.20
+Bought Yamaha-2, a Dirty Used MotorCycle for $20,079.20
+Bought Suzuki-2, a Clean Broken MotorCycle for $8,951.50
+Bought Bulldozer, a Sparkling LikeNew MonsterTruck for $53,403.00
+Bought Cyborg, a Sparkling Used MonsterTruck for $22,528.00
+The FNCD interns are washing...
+The chemical method is being used for this wash.
+Ethel made the Taurus go from Dirty to Clean
+Ethel made the Ranger go from Dirty to Clean
+The elbow grease method is being used for this wash.
+Lucy made the Cayman go from Dirty to Clean
+The chemical method is being used for this wash.
+Desi made the Colorado go from Dirty to Clean
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed F-250 Broken to Used
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Tundra Broken to Used
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed F-250 Used to LikeNew
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed Tundra Used to LikeNew
+Mechanic Spock got a bonus of $250.00!
+Mechanic Spock fixed Prius Broken to Used
+Mechanic Spock got a bonus of $250.00!
+Mechanic Spock fixed Tesla Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 8 buyers today...
+Buyer Chewy-3 wants a Pickup (WantsOne)
+Buyer Chewy-3 decided not to buy.
+Buyer Luke-4 wants a Car (JustLooking)
+Buyer Luke-4 decided not to buy.
+Buyer Leia-4 wants a Car (NeedsOne)
+Buyer Leia-4 decided not to buy.
+Buyer Han-4 wants a ElectricCar (NeedsOne)
+Buyer Han-4 is buying! Salesperson Rachel gets a bonus of $900.00!
+Buyer Han-4 is buying Tesla for $73,376.00
+0.19031569660400283
+Buyer Han-4 added Extended Warranty for $14,675.20
+0.8259275948099427
+0.08945907923613372
+Buyer Han-4 added Satellite Radio for $4,402.56
+0.7380462914677216
+Buyer Han-4 bought Clean LikeNew Tesla for $92,453.76
+Buyer Chewy-4 wants a Pickup (JustLooking)
+Buyer Chewy-4 decided not to buy.
+Buyer Luke-5 wants a ElectricCar (NeedsOne)
+Buyer Luke-5 is buying! Salesperson Phoebe gets a bonus of $900.00!
+Buyer Luke-5 is buying Prius for $58,959.00
+0.4692098508024093
+0.20757211016328236
+0.46768737722351195
+0.7183182613384439
+Buyer Luke-5 bought Dirty Used Prius for $58,959.00
+Buyer Leia-5 wants a ElectricCar (NeedsOne)
+Buyer Leia-5 is buying! Salesperson Phoebe gets a bonus of $900.00!
+Buyer Leia-5 is buying Prius-2 for $52,150.40
+0.17774037093617834
+Buyer Leia-5 added Extended Warranty for $10,430.08
+0.9249971134285759
+0.9171447821143787
+0.6958000435908788
+Buyer Leia-5 bought Clean Used Prius-2 for $62,580.48
+Buyer Han-5 wants a MonsterTruck (NeedsOne)
+Buyer Han-5 is buying! Salesperson Phoebe gets a bonus of $875.00!
+Buyer Han-5 is buying Bulldozer for $106,806.00
+0.6568350088651661
+0.23205719452173013
+0.27562444771131955
+Buyer Han-5 added Satellite Radio for $5,340.30
+0.876910580939098
+Buyer Han-5 bought Sparkling LikeNew Bulldozer for $112,146.30
+No one quit today!
+Vehicles in inventory 20
+Vehicles sold count 11
+Money in the budget $893,369.88
+Current interns:
+Ethel   salary: 60.0   bonuses: 0.0
+Lucy   salary: 60.0   bonuses: 0.0
+Desi   salary: 60.0   bonuses: 0.0
+Current Mechanics:
+James   salary: 120.0   bonuses: 1000.0
+Scotty   salary: 120.0   bonuses: 900.0
+Spock   salary: 120.0   bonuses: 1200.0
+Current SalesPeople:
+Rachel   salary: 90.0   bonuses: 2375.0
+Phoebe   salary: 90.0   bonuses: 3575.0
+Fred   salary: 90.0   bonuses: 1475.0
+Current Drivers:
+Eddie   win count: 0   salary: 100.0   bonuses0.0
+Montez   win count: 0   salary: 100.0   bonuses0.0
+Jessica   win count: 0   salary: 100.0   bonuses0.0
+Current cars:
+Probe   sales price: 29028.75   cleanliness: Clean   condition: LikeNew   win count: 0
+Escort   sales price: 34897.5   cleanliness: Clean   condition: LikeNew   win count: 0
+Taurus   sales price: 26848.125   cleanliness: Clean   condition: LikeNew   win count: 0
+Fiesta   sales price: 37170.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Current Pickups:
+Ranger   sales price: 21162.000000000004   cleanliness: Clean   condition: LikeNew   win count: 0
+F-250   sales price: 55938.75   cleanliness: Dirty   condition: LikeNew   win count: 0
+Colorado   sales price: 20826.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Tundra   sales price: 52764.375   cleanliness: Dirty   condition: LikeNew   win count: 0
+Current Performance Cars:
+Europa   sales price: 44940.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Cayman   sales price: 58144.00000000001   cleanliness: Clean   condition: LikeNew   win count: 0
+Corvette   sales price: 45005.625   cleanliness: Dirty   condition: LikeNew   win count: 0
+Mustang   sales price: 44334.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Current electric cars:
+Mustang Mach   sales price: 51662.0   cleanliness: Dirty   condition: LikeNew   win count: 0
+Current motorcycles:
+Yamaha   sales price: 26788.0   cleanliness: Dirty   condition: Broken   win count: 0
+Suzuki   sales price: 32698.0   cleanliness: Dirty   condition: Broken   win count: 0
+Yamaha-2   sales price: 40158.4   cleanliness: Dirty   condition: Used   win count: 0
+Suzuki-2   sales price: 17903.0   cleanliness: Clean   condition: Broken   win count: 0
+Current monster trucks:
+Bear Foot USA   sales price: 63643.200000000004   cleanliness: Clean   condition: Used   win count: 0
+Bigfoot   sales price: 52611.200000000004   cleanliness: Dirty   condition: Used   win count: 0
+Cyborg   sales price: 45056.0   cleanliness: Sparkling   condition: Used   win count: 0
+That's it for the day.
+
+
+
+
+
+
+
+
+
+
+
+
+>>> End Simulation Day 3 Sat
+
+src.Tracker: Day 3
+Total money earned by all Staff: $3330.0
+Total money earned by the FNCD: $146699.87999999998
+>>> Start Simulation Day 4 Sun
+The FNCD is opening...
+Bought Tesla-2, a Sparkling LikeNew ElectricCar for $26,400.00
+Bought Bolt-2, a Dirty Broken ElectricCar for $23,454.00
+Bought Mustang Mach-2, a Dirty Broken ElectricCar for $20,838.00
+Bought El Toro Loco, a Dirty Broken MonsterTruck for $10,999.50
+The FNCD interns are washing...
+The chemical method is being used for this wash.
+InternEthel made the Corvette go from Dirty to Sparkling. They earned a bonus of: 100.0
+Ethel made the F-250 go from Dirty to Clean
+The elbow grease method is being used for this wash.
+Lucy made the Bigfoot go from Dirty to Clean
+The chemical method is being used for this wash.
+Desi made the Tundra go from Dirty to Clean
+Desi made the Yamaha-2 go from Dirty to Clean
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $175.00!
+Mechanic James fixed Yamaha Broken to Used
+Mechanic James got a bonus of $175.00!
+Mechanic James fixed Suzuki Broken to Used
+Mechanic Scotty got a bonus of $175.00!
+Mechanic Scotty fixed Yamaha Used to LikeNew
+Mechanic Scotty got a bonus of $175.00!
+Mechanic Scotty fixed Suzuki Used to LikeNew
+Mechanic Spock got a bonus of $250.00!
+Mechanic Spock fixed Bear Foot USA Used to LikeNew
+Mechanic Spock got a bonus of $250.00!
+Mechanic Spock fixed Bigfoot Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 3 buyers today...
+Buyer Chewy-5 wants a Car (NeedsOne)
+Buyer Chewy-5 is buying! Salesperson Fred gets a bonus of $500.00!
+Buyer Chewy-5 is buying Fiesta for $37,170.00
+0.11412007977995564
+Buyer Chewy-5 added Extended Warranty for $7,434.00
+0.06978970421659536
+0.28338993637775267
+Buyer Chewy-5 added Satellite Radio for $2,230.20
+0.700266481082039
+Buyer Chewy-5 bought Clean LikeNew Fiesta for $46,834.20
+Buyer Luke-6 wants a Pickup (NeedsOne)
+Buyer Luke-6 is buying! Salesperson Phoebe gets a bonus of $750.00!
+Buyer Luke-6 is buying F-250 for $55,938.75
+0.08353418848575689
+Buyer Luke-6 added Extended Warranty for $11,187.75
+0.23366705696166867
+0.22836067706920937
+Buyer Luke-6 added Satellite Radio for $3,356.33
+0.725344382416383
+Buyer Luke-6 bought Clean LikeNew F-250 for $70,482.82
+Buyer Leia-6 wants a PerfCar (JustLooking)
+Buyer Leia-6 decided not to buy.
+The driver Eddie will be driving a PerfCar named Europa in the race!
+The driver Montez will be driving a PerfCar named Cayman in the race!
+The driver Jessica will be driving a PerfCar named Corvette in the race!
+Eddie placed 4 out of 20 driving the Europa
+Montez placed 9 out of 20 driving the Cayman
+Jessica placed 16 out of 20 driving the Corvette
+Jessica placed bottom 5.
+Corvette has become broken as a result of poor placement in the race!
+The mechanic Scotty quit the FNCD!
+The intern Desi will be promoted to Mechanic!
+Vehicles in inventory 22
+Vehicles sold count 13
+Money in the budget $927,885.41
+Current interns:
+Ethel   salary: 60.0   bonuses: 100.0
+Lucy   salary: 60.0   bonuses: 0.0
+Current Mechanics:
+James   salary: 120.0   bonuses: 1350.0
+Spock   salary: 120.0   bonuses: 1700.0
+Desi   salary: 120.0   bonuses: 0.0
+Current SalesPeople:
+Rachel   salary: 90.0   bonuses: 2375.0
+Phoebe   salary: 90.0   bonuses: 4325.0
+Fred   salary: 90.0   bonuses: 1975.0
+Current Drivers:
+Eddie   win count: 0   salary: 100.0   bonuses0.0
+Montez   win count: 0   salary: 100.0   bonuses0.0
+Jessica   win count: 0   salary: 100.0   bonuses0.0
+Current cars:
+Probe   sales price: 29028.75   cleanliness: Clean   condition: LikeNew   win count: 0
+Escort   sales price: 34897.5   cleanliness: Clean   condition: LikeNew   win count: 0
+Taurus   sales price: 26848.125   cleanliness: Clean   condition: LikeNew   win count: 0
+Current Pickups:
+Ranger   sales price: 21162.000000000004   cleanliness: Clean   condition: LikeNew   win count: 0
+Colorado   sales price: 20826.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Tundra   sales price: 52764.375   cleanliness: Clean   condition: LikeNew   win count: 0
+Current Performance Cars:
+Europa   sales price: 44940.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Cayman   sales price: 58144.00000000001   cleanliness: Clean   condition: LikeNew   win count: 0
+Corvette   sales price: 45005.625   cleanliness: Sparkling   condition: Broken   win count: 0
+Mustang   sales price: 44334.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Current electric cars:
+Mustang Mach   sales price: 51662.0   cleanliness: Dirty   condition: LikeNew   win count: 0
+Tesla-2   sales price: 52800.0   cleanliness: Sparkling   condition: LikeNew   win count: 0
+Bolt-2   sales price: 46908.0   cleanliness: Dirty   condition: Broken   win count: 0
+Mustang Mach-2   sales price: 41676.0   cleanliness: Dirty   condition: Broken   win count: 0
+Current motorcycles:
+Yamaha   sales price: 50227.5   cleanliness: Dirty   condition: LikeNew   win count: 0
+Suzuki   sales price: 61308.75   cleanliness: Dirty   condition: LikeNew   win count: 0
+Yamaha-2   sales price: 40158.4   cleanliness: Clean   condition: Used   win count: 0
+Suzuki-2   sales price: 17903.0   cleanliness: Clean   condition: Broken   win count: 0
+Current monster trucks:
+Bear Foot USA   sales price: 79554.0   cleanliness: Dirty   condition: LikeNew   win count: 0
+Bigfoot   sales price: 65764.0   cleanliness: Dirty   condition: LikeNew   win count: 0
+Cyborg   sales price: 45056.0   cleanliness: Sparkling   condition: Used   win count: 0
+El Toro Loco   sales price: 21999.0   cleanliness: Dirty   condition: Broken   win count: 0
+That's it for the day.
+
+
+
+
+
+
+
+
+
+
+
+>>> End Simulation Day 4 Sun
+
+src.Tracker: Day 4
+Total money earned by all Staff: $4440.0
+Total money earned by the FNCD: $182325.40499999997
+>>> Start Simulation Day 5 Mon
+The FNCD is opening...
+The intern Fred-2 has been assigned the elbow grease wash method!
+Hired a new Intern named Fred-2
+Bought Probe-2, a Clean Used Car for $14,898.40
+Bought Ranger-2, a Dirty LikeNew Pickup for $29,131.00
+The FNCD interns are washing...
+The chemical method is being used for this wash.
+Ethel made the Bolt-2 go from Dirty to Clean
+The elbow grease method is being used for this wash.
+Lucy made the Mustang Mach go from Dirty to Clean
+Lucy made the Mustang Mach-2 go from Dirty to Clean
+The elbow grease method is being used for this wash.
+Fred-2 made the Yamaha go from Dirty to Clean
+The FNCD mechanics are repairing...
+Mechanic James did not fix the Broken Corvette
+Mechanic James got a bonus of $175.00!
+Mechanic James fixed Yamaha-2 Used to LikeNew
+Mechanic Spock got a bonus of $300.00!
+Mechanic Spock fixed Corvette Broken to Used
+Mechanic Spock got a bonus of $175.00!
+Mechanic Spock fixed Suzuki-2 Broken to Used
+Mechanic Desi got a bonus of $300.00!
+Mechanic Desi fixed Corvette Used to LikeNew
+Mechanic Desi did not fix the Used Suzuki-2
+The FNCD salespeople are selling...
+The FNCD has 3 buyers today...
+Buyer Han-6 wants a MotorCycle (NeedsOne)
+Buyer Han-6 is buying! Salesperson Phoebe gets a bonus of $600.00!
+Buyer Han-6 is buying Suzuki for $61,308.75
+0.4654875482943093
+0.49780761531781137
+0.7996423941121478
+0.07935060111178083
+Buyer Han-6 added src.Undercoating for $3,065.44
+Buyer Han-6 bought Dirty LikeNew Suzuki for $64,374.19
+Buyer Chewy-6 wants a Car (JustLooking)
+Buyer Chewy-6 decided not to buy.
+Buyer Luke-7 wants a PerfCar (NeedsOne)
+Buyer Luke-7 is buying! Salesperson Phoebe gets a bonus of $1,000.00!
+Buyer Luke-7 is buying Corvette for $84,385.55
+0.9836759935791675
+0.7081207239936337
+0.041156950705564466
+Buyer Luke-7 added Satellite Radio for $4,219.28
+0.6180721514701047
+Buyer Luke-7 bought Dirty LikeNew Corvette for $88,604.82
+No one quit today!
+Vehicles in inventory 22
+Vehicles sold count 15
+Money in the budget $1,035,725.02
+Current interns:
+Ethel   salary: 60.0   bonuses: 100.0
+Lucy   salary: 60.0   bonuses: 0.0
+Fred-2   salary: 60.0   bonuses: 0.0
+Current Mechanics:
+James   salary: 120.0   bonuses: 1525.0
+Spock   salary: 120.0   bonuses: 2175.0
+Desi   salary: 120.0   bonuses: 300.0
+Current SalesPeople:
+Rachel   salary: 90.0   bonuses: 2375.0
+Phoebe   salary: 90.0   bonuses: 5925.0
+Fred   salary: 90.0   bonuses: 1975.0
+Current Drivers:
+Eddie   win count: 0   salary: 100.0   bonuses0.0
+Montez   win count: 0   salary: 100.0   bonuses0.0
+Jessica   win count: 0   salary: 100.0   bonuses0.0
+Current cars:
+Probe   sales price: 29028.75   cleanliness: Clean   condition: LikeNew   win count: 0
+Escort   sales price: 34897.5   cleanliness: Clean   condition: LikeNew   win count: 0
+Taurus   sales price: 26848.125   cleanliness: Clean   condition: LikeNew   win count: 0
+Probe-2   sales price: 29796.800000000003   cleanliness: Clean   condition: Used   win count: 0
+Current Pickups:
+Ranger   sales price: 21162.000000000004   cleanliness: Clean   condition: LikeNew   win count: 0
+Colorado   sales price: 20826.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Tundra   sales price: 52764.375   cleanliness: Clean   condition: LikeNew   win count: 0
+Ranger-2   sales price: 58262.0   cleanliness: Dirty   condition: LikeNew   win count: 0
+Current Performance Cars:
+Europa   sales price: 44940.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Cayman   sales price: 58144.00000000001   cleanliness: Clean   condition: LikeNew   win count: 0
+Mustang   sales price: 44334.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Current electric cars:
+Mustang Mach   sales price: 51662.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Tesla-2   sales price: 52800.0   cleanliness: Sparkling   condition: LikeNew   win count: 0
+Bolt-2   sales price: 46908.0   cleanliness: Clean   condition: Broken   win count: 0
+Mustang Mach-2   sales price: 41676.0   cleanliness: Clean   condition: Broken   win count: 0
+Current motorcycles:
+Yamaha   sales price: 50227.5   cleanliness: Clean   condition: LikeNew   win count: 0
+Yamaha-2   sales price: 50198.0   cleanliness: Dirty   condition: LikeNew   win count: 0
+Suzuki-2   sales price: 26854.5   cleanliness: Dirty   condition: Used   win count: 0
+Current monster trucks:
+Bear Foot USA   sales price: 79554.0   cleanliness: Dirty   condition: LikeNew   win count: 0
+Bigfoot   sales price: 65764.0   cleanliness: Dirty   condition: LikeNew   win count: 0
+Cyborg   sales price: 45056.0   cleanliness: Sparkling   condition: Used   win count: 0
+El Toro Loco   sales price: 21999.0   cleanliness: Dirty   condition: Broken   win count: 0
+That's it for the day.
+
+
+
+
+
+
+
+
+
+
+
+
+>>> End Simulation Day 5 Mon
+
+src.Tracker: Day 5
+Total money earned by all Staff: $5550.0
+Total money earned by the FNCD: $291275.01671875
+>>> Start Simulation Day 6 Tue
+The FNCD is opening...
+Bought Europa-2, a Dirty LikeNew PerfCar for $23,810.00
+Bought Ducati-2, a Clean LikeNew MotorCycle for $23,028.00
+The FNCD interns are washing...
+The chemical method is being used for this wash.
+InternEthel made the Bear Foot USA go from Dirty to Sparkling. They earned a bonus of: 100.0
+Ethel made the El Toro Loco go from Dirty to Clean
+The elbow grease method is being used for this wash.
+Lucy made the Bigfoot go from Dirty to Clean
+The elbow grease method is being used for this wash.
+Fred-2 made the Yamaha-2 go from Dirty to Clean
+Fred-2 made the Ranger-2 go from Dirty to Clean
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $175.00!
+Mechanic James fixed Suzuki-2 Used to LikeNew
+Mechanic James got a bonus of $250.00!
+Mechanic James fixed Cyborg Used to LikeNew
+Mechanic Spock got a bonus of $250.00!
+Mechanic Spock fixed Bolt-2 Broken to Used
+Mechanic Spock got a bonus of $250.00!
+Mechanic Spock fixed Mustang Mach-2 Broken to Used
+Mechanic Desi got a bonus of $250.00!
+Mechanic Desi fixed Bolt-2 Used to LikeNew
+Mechanic Desi got a bonus of $250.00!
+Mechanic Desi fixed Mustang Mach-2 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 4 buyers today...
+Buyer Leia-7 wants a Car (JustLooking)
+Buyer Leia-7 decided not to buy.
+Buyer Han-7 wants a ElectricCar (NeedsOne)
+Buyer Han-7 is buying! Salesperson Fred gets a bonus of $900.00!
+Buyer Han-7 is buying Bolt-2 for $87,952.50
+0.7032264577655957
+0.18138660587066302
+0.7851347526040653
+0.4270427708930067
+Buyer Han-7 bought Dirty LikeNew Bolt-2 for $87,952.50
+Buyer Chewy-7 wants a ElectricCar (JustLooking)
+Buyer Chewy-7 decided not to buy.
+Buyer Luke-8 wants a Car (NeedsOne)
+Buyer Luke-8 is buying! Salesperson Phoebe gets a bonus of $500.00!
+Buyer Luke-8 is buying Escort for $34,897.50
+0.6061526675217834
+0.26257753125213523
+0.6575510226061368
+0.4923082389235389
+Buyer Luke-8 bought Clean LikeNew Escort for $34,897.50
+No one quit today!
+Vehicles in inventory 22
+Vehicles sold count 17
+Money in the budget $1,110,627.02
+Current interns:
+Ethel   salary: 60.0   bonuses: 200.0
+Lucy   salary: 60.0   bonuses: 0.0
+Fred-2   salary: 60.0   bonuses: 0.0
+Current Mechanics:
+James   salary: 120.0   bonuses: 1950.0
+Spock   salary: 120.0   bonuses: 2675.0
+Desi   salary: 120.0   bonuses: 800.0
+Current SalesPeople:
+Rachel   salary: 90.0   bonuses: 2375.0
+Phoebe   salary: 90.0   bonuses: 6425.0
+Fred   salary: 90.0   bonuses: 2875.0
+Current Drivers:
+Eddie   win count: 0   salary: 100.0   bonuses0.0
+Montez   win count: 0   salary: 100.0   bonuses0.0
+Jessica   win count: 0   salary: 100.0   bonuses0.0
+Current cars:
+Probe   sales price: 29028.75   cleanliness: Clean   condition: LikeNew   win count: 0
+Taurus   sales price: 26848.125   cleanliness: Clean   condition: LikeNew   win count: 0
+Probe-2   sales price: 29796.800000000003   cleanliness: Clean   condition: Used   win count: 0
+Current Pickups:
+Ranger   sales price: 21162.000000000004   cleanliness: Clean   condition: LikeNew   win count: 0
+Colorado   sales price: 20826.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Tundra   sales price: 52764.375   cleanliness: Clean   condition: LikeNew   win count: 0
+Ranger-2   sales price: 58262.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Current Performance Cars:
+Europa   sales price: 44940.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Cayman   sales price: 58144.00000000001   cleanliness: Clean   condition: LikeNew   win count: 0
+Mustang   sales price: 44334.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Europa-2   sales price: 47620.0   cleanliness: Dirty   condition: LikeNew   win count: 0
+Current electric cars:
+Mustang Mach   sales price: 51662.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Tesla-2   sales price: 52800.0   cleanliness: Sparkling   condition: LikeNew   win count: 0
+Mustang Mach-2   sales price: 78142.5   cleanliness: Dirty   condition: LikeNew   win count: 0
+Current motorcycles:
+Yamaha   sales price: 50227.5   cleanliness: Clean   condition: LikeNew   win count: 0
+Yamaha-2   sales price: 50198.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Suzuki-2   sales price: 33568.125   cleanliness: Dirty   condition: LikeNew   win count: 0
+Ducati-2   sales price: 46056.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Current monster trucks:
+Bear Foot USA   sales price: 79554.0   cleanliness: Sparkling   condition: LikeNew   win count: 0
+Bigfoot   sales price: 65764.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Cyborg   sales price: 56320.0   cleanliness: Clean   condition: LikeNew   win count: 0
+El Toro Loco   sales price: 21999.0   cleanliness: Clean   condition: Broken   win count: 0
+That's it for the day.
+
+
+
+
+
+
+
+
+
+
+
+
+>>> End Simulation Day 6 Tue
+
+src.Tracker: Day 6
+Total money earned by all Staff: $6660.0
+Total money earned by the FNCD: $367287.01671875
+>>> Start Simulation Day 7 Wed
+The FNCD is opening...
+Bought Escort-2, a Clean Broken Car for $5,731.00
+Bought Prius-3, a Dirty LikeNew ElectricCar for $25,094.00
+The FNCD interns are washing...
+The chemical method is being used for this wash.
+Ethel made the Suzuki-2 go from Dirty to Clean
+InternEthel made the Mustang Mach-2 go from Dirty to Sparkling. They earned a bonus of: 100.0
+The elbow grease method is being used for this wash.
+The elbow grease method is being used for this wash.
+Fred-2 made the Europa-2 go from Dirty to Clean
+Fred-2 made the Prius-3 go from Dirty to Clean
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $250.00!
+Mechanic James fixed El Toro Loco Broken to Used
+Mechanic James got a bonus of $100.00!
+Mechanic James fixed Probe-2 Used to LikeNew
+Mechanic Spock got a bonus of $250.00!
+Mechanic Spock fixed El Toro Loco Used to LikeNew
+Mechanic Spock got a bonus of $100.00!
+Mechanic Spock fixed Escort-2 Broken to Used
+Mechanic Desi got a bonus of $100.00!
+Mechanic Desi fixed Escort-2 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 2 buyers today...
+Buyer Leia-8 wants a Car (JustLooking)
+Buyer Leia-8 decided not to buy.
+Buyer Han-8 wants a ElectricCar (JustLooking)
+Buyer Han-8 decided not to buy.
+The driver Eddie will be driving a PerfCar named Europa in the race!
+The driver Montez will be driving a PerfCar named Cayman in the race!
+The driver Jessica will be driving a PerfCar named Mustang in the race!
+Eddie placed 17 out of 20 driving the Europa
+Eddie placed bottom 5.
+Europa has become broken as a result of poor placement in the race!
+Montez placed 8 out of 20 driving the Cayman
+Jessica placed 9 out of 20 driving the Mustang
+No one quit today!
+Vehicles in inventory 24
+Vehicles sold count 17
+Money in the budget $1,078,692.02
+Current interns:
+Ethel   salary: 60.0   bonuses: 300.0
+Lucy   salary: 60.0   bonuses: 0.0
+Fred-2   salary: 60.0   bonuses: 0.0
+Current Mechanics:
+James   salary: 120.0   bonuses: 2300.0
+Spock   salary: 120.0   bonuses: 3025.0
+Desi   salary: 120.0   bonuses: 900.0
+Current SalesPeople:
+Rachel   salary: 90.0   bonuses: 2375.0
+Phoebe   salary: 90.0   bonuses: 6425.0
+Fred   salary: 90.0   bonuses: 2875.0
+Current Drivers:
+Eddie   win count: 0   salary: 100.0   bonuses0.0
+Montez   win count: 0   salary: 100.0   bonuses0.0
+Jessica   win count: 0   salary: 100.0   bonuses0.0
+Current cars:
+Probe   sales price: 29028.75   cleanliness: Clean   condition: LikeNew   win count: 0
+Taurus   sales price: 26848.125   cleanliness: Clean   condition: LikeNew   win count: 0
+Probe-2   sales price: 37246.0   cleanliness: Dirty   condition: LikeNew   win count: 0
+Escort-2   sales price: 21491.25   cleanliness: Dirty   condition: LikeNew   win count: 0
+Current Pickups:
+Ranger   sales price: 21162.000000000004   cleanliness: Clean   condition: LikeNew   win count: 0
+Colorado   sales price: 20826.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Tundra   sales price: 52764.375   cleanliness: Clean   condition: LikeNew   win count: 0
+Ranger-2   sales price: 58262.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Current Performance Cars:
+Europa   sales price: 44940.0   cleanliness: Clean   condition: Broken   win count: 0
+Cayman   sales price: 58144.00000000001   cleanliness: Clean   condition: LikeNew   win count: 0
+Mustang   sales price: 44334.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Europa-2   sales price: 47620.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Current electric cars:
+Mustang Mach   sales price: 51662.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Tesla-2   sales price: 52800.0   cleanliness: Sparkling   condition: LikeNew   win count: 0
+Mustang Mach-2   sales price: 78142.5   cleanliness: Sparkling   condition: LikeNew   win count: 0
+Prius-3   sales price: 50188.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Current motorcycles:
+Yamaha   sales price: 50227.5   cleanliness: Clean   condition: LikeNew   win count: 0
+Yamaha-2   sales price: 50198.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Suzuki-2   sales price: 33568.125   cleanliness: Clean   condition: LikeNew   win count: 0
+Ducati-2   sales price: 46056.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Current monster trucks:
+Bear Foot USA   sales price: 79554.0   cleanliness: Sparkling   condition: LikeNew   win count: 0
+Bigfoot   sales price: 65764.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Cyborg   sales price: 56320.0   cleanliness: Clean   condition: LikeNew   win count: 0
+El Toro Loco   sales price: 41248.125   cleanliness: Dirty   condition: LikeNew   win count: 0
+That's it for the day.
+
+
+
+
+
+
+
+
+
+
+
+
+>>> End Simulation Day 7 Wed
+
+src.Tracker: Day 7
+Total money earned by all Staff: $7770.0
+Total money earned by the FNCD: $336462.01671875
+>>> Start Simulation Day 8 Thur
+The FNCD is opening...
+The FNCD interns are washing...
+The chemical method is being used for this wash.
+Ethel made the El Toro Loco go from Dirty to Clean
+Ethel made the Probe-2 go from Dirty to Clean
+The elbow grease method is being used for this wash.
+The elbow grease method is being used for this wash.
+Fred-2 made the Escort-2 go from Dirty to Clean
+Fred-2 made the Prius-3 go from Clean to Dirty
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Europa Broken to Used
+Mechanic Spock got a bonus of $300.00!
+Mechanic Spock fixed Europa Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 5 buyers today...
+Buyer Chewy-8 wants a PerfCar (NeedsOne)
+Buyer Chewy-8 is buying! Salesperson Fred gets a bonus of $1,000.00!
+Buyer Chewy-8 is buying Europa for $84,262.50
+0.5549322135208506
+0.5577331752452166
+0.40503610735249207
+0.47233385846110953
+Buyer Chewy-8 bought Dirty LikeNew Europa for $84,262.50
+Buyer Luke-9 wants a Car (JustLooking)
+Buyer Luke-9 decided not to buy.
+Buyer Leia-9 wants a PerfCar (NeedsOne)
+Buyer Leia-9 is buying! Salesperson Phoebe gets a bonus of $1,000.00!
+Buyer Leia-9 is buying Cayman for $58,144.00
+0.38925463294551466
+0.8387615269163825
+0.02325264273264749
+Buyer Leia-9 added Satellite Radio for $2,907.20
+0.1503301347667667
+Buyer Leia-9 bought Clean LikeNew Cayman for $61,051.20
+Buyer Han-9 wants a Car (JustLooking)
+Buyer Han-9 decided not to buy.
+Buyer Chewy-9 wants a PerfCar (NeedsOne)
+Buyer Chewy-9 is buying! Salesperson Rachel gets a bonus of $1,000.00!
+Buyer Chewy-9 is buying Europa-2 for $47,620.00
+0.9464287531062976
+0.33094541775186515
+0.6539380508209409
+0.20459738758794177
+Buyer Chewy-9 bought Clean LikeNew Europa-2 for $47,620.00
+The intern Lucy quit the FNCD!
+Vehicles in inventory 21
+Vehicles sold count 20
+Money in the budget $1,270,515.72
+Current interns:
+Ethel   salary: 60.0   bonuses: 300.0
+Fred-2   salary: 60.0   bonuses: 0.0
+Current Mechanics:
+James   salary: 120.0   bonuses: 2600.0
+Spock   salary: 120.0   bonuses: 3325.0
+Desi   salary: 120.0   bonuses: 900.0
+Current SalesPeople:
+Rachel   salary: 90.0   bonuses: 3375.0
+Phoebe   salary: 90.0   bonuses: 7425.0
+Fred   salary: 90.0   bonuses: 3875.0
+Current Drivers:
+Eddie   win count: 0   salary: 100.0   bonuses0.0
+Montez   win count: 0   salary: 100.0   bonuses0.0
+Jessica   win count: 0   salary: 100.0   bonuses0.0
+Current cars:
+Probe   sales price: 29028.75   cleanliness: Clean   condition: LikeNew   win count: 0
+Taurus   sales price: 26848.125   cleanliness: Clean   condition: LikeNew   win count: 0
+Probe-2   sales price: 37246.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Escort-2   sales price: 21491.25   cleanliness: Clean   condition: LikeNew   win count: 0
+Current Pickups:
+Ranger   sales price: 21162.000000000004   cleanliness: Clean   condition: LikeNew   win count: 0
+Colorado   sales price: 20826.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Tundra   sales price: 52764.375   cleanliness: Clean   condition: LikeNew   win count: 0
+Ranger-2   sales price: 58262.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Current Performance Cars:
+Mustang   sales price: 44334.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Current electric cars:
+Mustang Mach   sales price: 51662.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Tesla-2   sales price: 52800.0   cleanliness: Sparkling   condition: LikeNew   win count: 0
+Mustang Mach-2   sales price: 78142.5   cleanliness: Sparkling   condition: LikeNew   win count: 0
+Prius-3   sales price: 50188.0   cleanliness: Dirty   condition: LikeNew   win count: 0
+Current motorcycles:
+Yamaha   sales price: 50227.5   cleanliness: Clean   condition: LikeNew   win count: 0
+Yamaha-2   sales price: 50198.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Suzuki-2   sales price: 33568.125   cleanliness: Clean   condition: LikeNew   win count: 0
+Ducati-2   sales price: 46056.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Current monster trucks:
+Bear Foot USA   sales price: 79554.0   cleanliness: Sparkling   condition: LikeNew   win count: 0
+Bigfoot   sales price: 65764.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Cyborg   sales price: 56320.0   cleanliness: Clean   condition: LikeNew   win count: 0
+El Toro Loco   sales price: 41248.125   cleanliness: Clean   condition: LikeNew   win count: 0
+That's it for the day.
+
+
+
+
+
+
+
+
+
+
+
+>>> End Simulation Day 8 Thur
+
+src.Tracker: Day 8
+Total money earned by all Staff: $8880.0
+Total money earned by the FNCD: $529395.7167187501
+>>> Start Simulation Day 9 Fri
+The FNCD is opening...
+The intern Ethel-2 has been assigned the elbow grease wash method!
+Hired a new Intern named Ethel-2
+Bought Cayman-2, a Dirty Used PerfCar for $20,304.00
+Bought Corvette-2, a Clean Broken PerfCar for $12,142.00
+Bought Mustang-2, a Clean LikeNew PerfCar for $27,777.00
+The FNCD interns are washing...
+The chemical method is being used for this wash.
+Ethel made the Prius-3 go from Dirty to Clean
+Ethel made the Cayman-2 go from Dirty to Clean
+The elbow grease method is being used for this wash.
+The elbow grease method is being used for this wash.
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Cayman-2 Used to LikeNew
+Mechanic James did not fix the Broken Corvette-2
+Mechanic Spock did not fix the Broken Corvette-2
+Mechanic Desi got a bonus of $300.00!
+Mechanic Desi fixed Corvette-2 Broken to Used
+The FNCD salespeople are selling...
+The FNCD has 8 buyers today...
+Buyer Luke-10 wants a PerfCar (JustLooking)
+Buyer Luke-10 decided not to buy.
+Buyer Leia-10 wants a Car (JustLooking)
+Buyer Leia-10 decided not to buy.
+Buyer Han-10 wants a Pickup (WantsOne)
+Buyer Han-10 is buying! Salesperson Rachel gets a bonus of $750.00!
+Buyer Han-10 is buying Ranger-2 for $58,262.00
+0.8328787638161615
+0.007167339727823685
+Buyer Han-10 added Road Rescue Coverage for $1,165.24
+0.09929039468683998
+Buyer Han-10 added Satellite Radio for $2,971.36
+0.03688609024188971
+Buyer Han-10 added src.Undercoating for $3,119.93
+Buyer Han-10 bought Clean LikeNew Ranger-2 for $65,518.53
+Buyer Chewy-10 wants a Pickup (NeedsOne)
+Buyer Chewy-10 decided not to buy.
+Buyer Luke-11 wants a PerfCar (NeedsOne)
+Buyer Luke-11 is buying! Salesperson Fred gets a bonus of $1,000.00!
+Buyer Luke-11 is buying Mustang-2 for $55,554.00
+0.5129591811287827
+0.40987302442016593
+0.5820509160292485
+0.9821231171287789
+Buyer Luke-11 bought Clean LikeNew Mustang-2 for $55,554.00
+Buyer Leia-11 wants a MotorCycle (WantsOne)
+Buyer Leia-11 is buying! Salesperson Rachel gets a bonus of $600.00!
+Buyer Leia-11 is buying Yamaha for $50,227.50
+0.14905034242584314
+Buyer Leia-11 added Extended Warranty for $10,045.50
+0.0018581216774665732
+Buyer Leia-11 added Road Rescue Coverage for $1,205.46
+0.9728330351909751
+0.7353721781646443
+Buyer Leia-11 bought Clean LikeNew Yamaha for $61,478.46
+Buyer Han-11 wants a MonsterTruck (NeedsOne)
+Buyer Han-11 is buying! Salesperson Rachel gets a bonus of $875.00!
+Buyer Han-11 is buying Bear Foot USA for $79,554.00
+0.5013048682134443
+0.7778336019932545
+0.6834448406342726
+0.06481179588472552
+Buyer Han-11 added src.Undercoating for $3,977.70
+Buyer Han-11 bought Sparkling LikeNew Bear Foot USA for $83,531.70
+Buyer Chewy-11 wants a PerfCar (WantsOne)
+Buyer Chewy-11 decided not to buy.
+The salesperson Rachel quit the FNCD!
+The intern Ethel-2 will be promoted to SalesPerson!
+Vehicles in inventory 20
+Vehicles sold count 24
+Money in the budget $1,475,265.41
+Current interns:
+Ethel   salary: 60.0   bonuses: 300.0
+Fred-2   salary: 60.0   bonuses: 0.0
+Current Mechanics:
+James   salary: 120.0   bonuses: 2900.0
+Spock   salary: 120.0   bonuses: 3325.0
+Desi   salary: 120.0   bonuses: 1200.0
+Current SalesPeople:
+Phoebe   salary: 90.0   bonuses: 7425.0
+Fred   salary: 90.0   bonuses: 4875.0
+Ethel-2   salary: 90.0   bonuses: 0.0
+Current Drivers:
+Eddie   win count: 0   salary: 100.0   bonuses0.0
+Montez   win count: 0   salary: 100.0   bonuses0.0
+Jessica   win count: 0   salary: 100.0   bonuses0.0
+Current cars:
+Probe   sales price: 29028.75   cleanliness: Clean   condition: LikeNew   win count: 0
+Taurus   sales price: 26848.125   cleanliness: Clean   condition: LikeNew   win count: 0
+Probe-2   sales price: 37246.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Escort-2   sales price: 21491.25   cleanliness: Clean   condition: LikeNew   win count: 0
+Current Pickups:
+Ranger   sales price: 21162.000000000004   cleanliness: Clean   condition: LikeNew   win count: 0
+Colorado   sales price: 20826.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Tundra   sales price: 52764.375   cleanliness: Clean   condition: LikeNew   win count: 0
+Current Performance Cars:
+Mustang   sales price: 44334.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Cayman-2   sales price: 50760.0   cleanliness: Dirty   condition: LikeNew   win count: 0
+Corvette-2   sales price: 36426.0   cleanliness: Dirty   condition: Used   win count: 0
+Current electric cars:
+Mustang Mach   sales price: 51662.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Tesla-2   sales price: 52800.0   cleanliness: Sparkling   condition: LikeNew   win count: 0
+Mustang Mach-2   sales price: 78142.5   cleanliness: Sparkling   condition: LikeNew   win count: 0
+Prius-3   sales price: 50188.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Current motorcycles:
+Yamaha-2   sales price: 50198.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Suzuki-2   sales price: 33568.125   cleanliness: Clean   condition: LikeNew   win count: 0
+Ducati-2   sales price: 46056.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Current monster trucks:
+Bigfoot   sales price: 65764.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Cyborg   sales price: 56320.0   cleanliness: Clean   condition: LikeNew   win count: 0
+El Toro Loco   sales price: 41248.125   cleanliness: Clean   condition: LikeNew   win count: 0
+That's it for the day.
+
+
+
+
+
+
+
+
+
+
+
+>>> End Simulation Day 9 Fri
+
+src.Tracker: Day 9
+Total money earned by all Staff: $9990.0
+Total money earned by the FNCD: $735255.40881875
+>>> Start Simulation Day 10 Sat
+The FNCD is opening...
+The intern Lucy-2 has been assigned the elbow grease wash method!
+Hired a new Intern named Lucy-2
+Bought Europa-3, a Dirty Broken PerfCar for $18,947.50
+Bought F-250-2, a Sparkling Broken Pickup for $5,079.50
+Bought Harley Davidson-3, a Dirty LikeNew MotorCycle for $30,372.00
+Bought Gunslinger, a Clean Used MonsterTruck for $25,866.40
+The FNCD interns are washing...
+The chemical method is being used for this wash.
+Ethel made the Cayman-2 go from Dirty to Clean
+Ethel made the Corvette-2 go from Dirty to Clean
+The elbow grease method is being used for this wash.
+Fred-2 made the Harley Davidson-3 go from Dirty to Clean
+The elbow grease method is being used for this wash.
+Lucy-2 made the Europa-3 go from Dirty to Clean
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Corvette-2 Used to LikeNew
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Europa-3 Broken to Used
+Mechanic Spock got a bonus of $300.00!
+Mechanic Spock fixed Europa-3 Used to LikeNew
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed F-250-2 Broken to Used
+Mechanic Desi did not fix the Used F-250-2
+Mechanic Desi got a bonus of $250.00!
+Mechanic Desi fixed Gunslinger Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 5 buyers today...
+Buyer Luke-12 wants a MonsterTruck (NeedsOne)
+Buyer Luke-12 is buying! Salesperson Fred gets a bonus of $875.00!
+Buyer Luke-12 is buying Bigfoot for $65,764.00
+0.7419172538809828
+0.8921080200244562
+0.2901704676658602
+Buyer Luke-12 added Satellite Radio for $3,288.20
+0.613322135257587
+Buyer Luke-12 bought Clean LikeNew Bigfoot for $69,052.20
+Buyer Leia-12 wants a ElectricCar (JustLooking)
+Buyer Leia-12 decided not to buy.
+Buyer Han-12 wants a Pickup (JustLooking)
+Buyer Han-12 decided not to buy.
+Buyer Chewy-12 wants a ElectricCar (NeedsOne)
+Buyer Chewy-12 decided not to buy.
+Buyer Luke-13 wants a PerfCar (WantsOne)
+Buyer Luke-13 is buying! Salesperson Fred gets a bonus of $1,000.00!
+Buyer Luke-13 is buying Europa-3 for $71,053.12
+0.724799711461322
+0.6950794816877451
+0.2063092244140733
+Buyer Luke-13 added Satellite Radio for $3,552.66
+0.9232154854667767
+Buyer Luke-13 bought Dirty LikeNew Europa-3 for $74,605.78
+No one quit today!
+Vehicles in inventory 22
+Vehicles sold count 26
+Money in the budget $1,537,547.99
+Current interns:
+Ethel   salary: 60.0   bonuses: 300.0
+Fred-2   salary: 60.0   bonuses: 0.0
+Lucy-2   salary: 60.0   bonuses: 0.0
+Current Mechanics:
+James   salary: 120.0   bonuses: 3500.0
+Spock   salary: 120.0   bonuses: 3825.0
+Desi   salary: 120.0   bonuses: 1450.0
+Current SalesPeople:
+Phoebe   salary: 90.0   bonuses: 7425.0
+Fred   salary: 90.0   bonuses: 6750.0
+Ethel-2   salary: 90.0   bonuses: 0.0
+Current Drivers:
+Eddie   win count: 0   salary: 100.0   bonuses0.0
+Montez   win count: 0   salary: 100.0   bonuses0.0
+Jessica   win count: 0   salary: 100.0   bonuses0.0
+Current cars:
+Probe   sales price: 29028.75   cleanliness: Clean   condition: LikeNew   win count: 0
+Taurus   sales price: 26848.125   cleanliness: Clean   condition: LikeNew   win count: 0
+Probe-2   sales price: 37246.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Escort-2   sales price: 21491.25   cleanliness: Clean   condition: LikeNew   win count: 0
+Current Pickups:
+Ranger   sales price: 21162.000000000004   cleanliness: Clean   condition: LikeNew   win count: 0
+Colorado   sales price: 20826.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Tundra   sales price: 52764.375   cleanliness: Clean   condition: LikeNew   win count: 0
+F-250-2   sales price: 15238.5   cleanliness: Dirty   condition: Used   win count: 0
+Current Performance Cars:
+Mustang   sales price: 44334.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Cayman-2   sales price: 50760.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Corvette-2   sales price: 45532.5   cleanliness: Dirty   condition: LikeNew   win count: 0
+Current electric cars:
+Mustang Mach   sales price: 51662.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Tesla-2   sales price: 52800.0   cleanliness: Sparkling   condition: LikeNew   win count: 0
+Mustang Mach-2   sales price: 78142.5   cleanliness: Sparkling   condition: LikeNew   win count: 0
+Prius-3   sales price: 50188.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Current motorcycles:
+Yamaha-2   sales price: 50198.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Suzuki-2   sales price: 33568.125   cleanliness: Clean   condition: LikeNew   win count: 0
+Ducati-2   sales price: 46056.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Harley Davidson-3   sales price: 60744.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Current monster trucks:
+Cyborg   sales price: 56320.0   cleanliness: Clean   condition: LikeNew   win count: 0
+El Toro Loco   sales price: 41248.125   cleanliness: Clean   condition: LikeNew   win count: 0
+Gunslinger   sales price: 64666.0   cleanliness: Dirty   condition: LikeNew   win count: 0
+That's it for the day.
+
+
+
+
+
+
+
+
+
+
+
+
+>>> End Simulation Day 10 Sat
+
+src.Tracker: Day 10
+Total money earned by all Staff: $11100.0
+Total money earned by the FNCD: $798647.9900687499
+>>> Start Simulation Day 11 Sun
+The FNCD is opening...
+Bought Cayman-3, a Clean LikeNew PerfCar for $38,650.00
+Bought Predator, a Clean Used MonsterTruck for $20,099.20
+The FNCD interns are washing...
+The chemical method is being used for this wash.
+Ethel made the Corvette-2 go from Dirty to Clean
+Ethel made the F-250-2 go from Dirty to Clean
+The elbow grease method is being used for this wash.
+Fred-2 made the Gunslinger go from Dirty to Clean
+Fred-2 made the Probe go from Clean to Dirty
+The elbow grease method is being used for this wash.
+Lucy-2 made the Probe go from Dirty to Clean
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed F-250-2 Used to LikeNew
+Mechanic James got a bonus of $250.00!
+Mechanic James fixed Predator Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 1 buyers today...
+Buyer Leia-13 wants a PerfCar (WantsOne)
+Buyer Leia-13 decided not to buy.
+The driver Eddie will be driving a PerfCar named Mustang in the race!
+The driver Montez will be driving a Pickup named Ranger in the race!
+The driver Jessica will be driving a Pickup named Colorado in the race!
+Eddie placed 2 out of 20 driving the Mustang
+Eddie made podium and won!
+Eddie earned a bonus of $200!
+Mustang had it's price increased to 48767.4 for placing podium
+Montez placed 10 out of 20 driving the Ranger
+Jessica placed 3 out of 20 driving the Colorado
+Jessica made podium and won!
+Jessica earned a bonus of $200!
+Colorado had it's price increased to 22908.600000000002 for placing podium
+No one quit today!
+Vehicles in inventory 24
+Vehicles sold count 26
+Money in the budget $1,477,688.79
+Current interns:
+Ethel   salary: 60.0   bonuses: 300.0
+Fred-2   salary: 60.0   bonuses: 0.0
+Lucy-2   salary: 60.0   bonuses: 0.0
+Current Mechanics:
+James   salary: 120.0   bonuses: 3950.0
+Spock   salary: 120.0   bonuses: 3825.0
+Desi   salary: 120.0   bonuses: 1450.0
+Current SalesPeople:
+Phoebe   salary: 90.0   bonuses: 7425.0
+Fred   salary: 90.0   bonuses: 6750.0
+Ethel-2   salary: 90.0   bonuses: 0.0
+Current Drivers:
+Eddie   win count: 1   salary: 100.0   bonuses200.0
+Montez   win count: 0   salary: 100.0   bonuses0.0
+Jessica   win count: 1   salary: 100.0   bonuses200.0
+Current cars:
+Probe   sales price: 29028.75   cleanliness: Clean   condition: LikeNew   win count: 0
+Taurus   sales price: 26848.125   cleanliness: Clean   condition: LikeNew   win count: 0
+Probe-2   sales price: 37246.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Escort-2   sales price: 21491.25   cleanliness: Clean   condition: LikeNew   win count: 0
+Current Pickups:
+Ranger   sales price: 21162.000000000004   cleanliness: Clean   condition: LikeNew   win count: 0
+Colorado   sales price: 22908.600000000002   cleanliness: Clean   condition: LikeNew   win count: 1
+Tundra   sales price: 52764.375   cleanliness: Clean   condition: LikeNew   win count: 0
+F-250-2   sales price: 19048.125   cleanliness: Dirty   condition: LikeNew   win count: 0
+Current Performance Cars:
+Mustang   sales price: 48767.4   cleanliness: Clean   condition: LikeNew   win count: 1
+Cayman-2   sales price: 50760.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Corvette-2   sales price: 45532.5   cleanliness: Clean   condition: LikeNew   win count: 0
+Cayman-3   sales price: 77300.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Current electric cars:
+Mustang Mach   sales price: 51662.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Tesla-2   sales price: 52800.0   cleanliness: Sparkling   condition: LikeNew   win count: 0
+Mustang Mach-2   sales price: 78142.5   cleanliness: Sparkling   condition: LikeNew   win count: 0
+Prius-3   sales price: 50188.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Current motorcycles:
+Yamaha-2   sales price: 50198.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Suzuki-2   sales price: 33568.125   cleanliness: Clean   condition: LikeNew   win count: 0
+Ducati-2   sales price: 46056.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Harley Davidson-3   sales price: 60744.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Current monster trucks:
+Cyborg   sales price: 56320.0   cleanliness: Clean   condition: LikeNew   win count: 0
+El Toro Loco   sales price: 41248.125   cleanliness: Clean   condition: LikeNew   win count: 0
+Gunslinger   sales price: 64666.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Predator   sales price: 50248.0   cleanliness: Dirty   condition: LikeNew   win count: 0
+That's it for the day.
+
+
+
+
+
+
+
+
+
+
+
+
+>>> End Simulation Day 11 Sun
+
+src.Tracker: Day 11
+Total money earned by all Staff: $12210.0
+Total money earned by the FNCD: $739898.7900687499
+>>> Start Simulation Day 12 Mon
+The FNCD is opening...
+The FNCD interns are washing...
+The chemical method is being used for this wash.
+Ethel made the F-250-2 go from Dirty to Clean
+Ethel made the Predator go from Dirty to Clean
+The elbow grease method is being used for this wash.
+Fred-2 made the Probe go from Clean to Dirty
+The elbow grease method is being used for this wash.
+Lucy-2 made the Probe go from Dirty to Clean
+The FNCD mechanics are repairing...
+The FNCD salespeople are selling...
+The FNCD has 5 buyers today...
+Buyer Han-13 wants a Pickup (NeedsOne)
+Buyer Han-13 is buying! Salesperson Ethel-2 gets a bonus of $750.00!
+Buyer Han-13 is buying Tundra for $52,764.38
+0.4732427845710092
+0.036308079648639024
+Buyer Han-13 added Road Rescue Coverage for $1,055.29
+0.33437577062670687
+Buyer Han-13 added Satellite Radio for $2,690.98
+0.8254424111545638
+Buyer Han-13 bought Clean LikeNew Tundra for $56,510.65
+Buyer Chewy-13 wants a ElectricCar (NeedsOne)
+Buyer Chewy-13 is buying! Salesperson Ethel-2 gets a bonus of $900.00!
+Buyer Chewy-13 is buying Mustang Mach-2 for $78,142.50
+0.6906230037120737
+0.1430267589688925
+0.5575443375660467
+0.41422752213172076
+Buyer Chewy-13 bought Sparkling LikeNew Mustang Mach-2 for $78,142.50
+Buyer Luke-14 wants a Pickup (NeedsOne)
+Buyer Luke-14 is buying! Salesperson Phoebe gets a bonus of $750.00!
+Buyer Luke-14 is buying Colorado for $22,908.60
+0.8459763819192976
+0.1365276293154154
+0.0339940625243198
+Buyer Luke-14 added Satellite Radio for $1,145.43
+0.23319124820740367
+Buyer Luke-14 bought Clean LikeNew Colorado for $24,054.03
+Buyer Leia-14 wants a MotorCycle (JustLooking)
+Buyer Leia-14 decided not to buy.
+Buyer Han-14 wants a Car (NeedsOne)
+Buyer Han-14 is buying! Salesperson Phoebe gets a bonus of $500.00!
+Buyer Han-14 is buying Probe-2 for $37,246.00
+0.2513527916709368
+0.1332677672643151
+0.3734011667423024
+Buyer Han-14 added Satellite Radio for $1,862.30
+0.868735433306423
+Buyer Han-14 bought Clean LikeNew Probe-2 for $39,108.30
+No one quit today!
+Vehicles in inventory 20
+Vehicles sold count 30
+Money in the budget $1,674,394.27
+Current interns:
+Ethel   salary: 60.0   bonuses: 300.0
+Fred-2   salary: 60.0   bonuses: 0.0
+Lucy-2   salary: 60.0   bonuses: 0.0
+Current Mechanics:
+James   salary: 120.0   bonuses: 3950.0
+Spock   salary: 120.0   bonuses: 3825.0
+Desi   salary: 120.0   bonuses: 1450.0
+Current SalesPeople:
+Phoebe   salary: 90.0   bonuses: 8675.0
+Fred   salary: 90.0   bonuses: 6750.0
+Ethel-2   salary: 90.0   bonuses: 1650.0
+Current Drivers:
+Eddie   win count: 1   salary: 100.0   bonuses200.0
+Montez   win count: 0   salary: 100.0   bonuses0.0
+Jessica   win count: 1   salary: 100.0   bonuses200.0
+Current cars:
+Probe   sales price: 29028.75   cleanliness: Clean   condition: LikeNew   win count: 0
+Taurus   sales price: 26848.125   cleanliness: Clean   condition: LikeNew   win count: 0
+Escort-2   sales price: 21491.25   cleanliness: Clean   condition: LikeNew   win count: 0
+Current Pickups:
+Ranger   sales price: 21162.000000000004   cleanliness: Clean   condition: LikeNew   win count: 0
+F-250-2   sales price: 19048.125   cleanliness: Clean   condition: LikeNew   win count: 0
+Current Performance Cars:
+Mustang   sales price: 48767.4   cleanliness: Clean   condition: LikeNew   win count: 1
+Cayman-2   sales price: 50760.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Corvette-2   sales price: 45532.5   cleanliness: Clean   condition: LikeNew   win count: 0
+Cayman-3   sales price: 77300.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Current electric cars:
+Mustang Mach   sales price: 51662.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Tesla-2   sales price: 52800.0   cleanliness: Sparkling   condition: LikeNew   win count: 0
+Prius-3   sales price: 50188.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Current motorcycles:
+Yamaha-2   sales price: 50198.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Suzuki-2   sales price: 33568.125   cleanliness: Clean   condition: LikeNew   win count: 0
+Ducati-2   sales price: 46056.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Harley Davidson-3   sales price: 60744.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Current monster trucks:
+Cyborg   sales price: 56320.0   cleanliness: Clean   condition: LikeNew   win count: 0
+El Toro Loco   sales price: 41248.125   cleanliness: Clean   condition: LikeNew   win count: 0
+Gunslinger   sales price: 64666.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Predator   sales price: 50248.0   cleanliness: Clean   condition: LikeNew   win count: 0
+That's it for the day.
+
+
+
+
+
+
+
+
+
+
+
+
+>>> End Simulation Day 12 Mon
+
+src.Tracker: Day 12
+Total money earned by all Staff: $13320.0
+Total money earned by the FNCD: $937714.26569375
+>>> Start Simulation Day 13 Tue
+The FNCD is opening...
+Bought Taurus-2, a Clean Used Car for $12,797.60
+Bought Colorado-2, a Dirty Broken Pickup for $12,656.00
+Bought Tundra-2, a Clean LikeNew Pickup for $25,300.00
+Bought Tesla-3, a Dirty Broken ElectricCar for $22,585.50
+The FNCD interns are washing...
+The chemical method is being used for this wash.
+Ethel made the Colorado-2 go from Dirty to Clean
+Ethel made the Tesla-3 go from Dirty to Clean
+The elbow grease method is being used for this wash.
+The intern Fred-2 made the vehicle like new!
+The elbow grease method is being used for this wash.
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $100.00!
+Mechanic James fixed Taurus-2 Used to LikeNew
+Mechanic James did not fix the Broken Colorado-2
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Colorado-2 Broken to Used
+Mechanic Spock got a bonus of $250.00!
+Mechanic Spock fixed Tesla-3 Broken to Used
+Mechanic Desi did not fix the Used Colorado-2
+Mechanic Desi got a bonus of $250.00!
+Mechanic Desi fixed Tesla-3 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 2 buyers today...
+Buyer Chewy-14 wants a PerfCar (WantsOne)
+Buyer Chewy-14 decided not to buy.
+Buyer Luke-15 wants a MonsterTruck (NeedsOne)
+Buyer Luke-15 is buying! Salesperson Ethel-2 gets a bonus of $875.00!
+Buyer Luke-15 is buying Gunslinger for $64,666.00
+0.07738786291454558
+Buyer Luke-15 added Extended Warranty for $12,933.20
+0.8785532362229369
+0.057203592834871086
+Buyer Luke-15 added Satellite Radio for $3,879.96
+0.7010542205639605
+Buyer Luke-15 bought Clean LikeNew Gunslinger for $81,479.16
+No one quit today!
+Vehicles in inventory 23
+Vehicles sold count 31
+Money in the budget $1,681,424.33
+Current interns:
+Ethel   salary: 60.0   bonuses: 300.0
+Fred-2   salary: 60.0   bonuses: 0.0
+Lucy-2   salary: 60.0   bonuses: 0.0
+Current Mechanics:
+James   salary: 120.0   bonuses: 4050.0
+Spock   salary: 120.0   bonuses: 4275.0
+Desi   salary: 120.0   bonuses: 1700.0
+Current SalesPeople:
+Phoebe   salary: 90.0   bonuses: 8675.0
+Fred   salary: 90.0   bonuses: 6750.0
+Ethel-2   salary: 90.0   bonuses: 2525.0
+Current Drivers:
+Eddie   win count: 1   salary: 100.0   bonuses200.0
+Montez   win count: 0   salary: 100.0   bonuses0.0
+Jessica   win count: 1   salary: 100.0   bonuses200.0
+Current cars:
+Probe   sales price: 29028.75   cleanliness: Clean   condition: LikeNew   win count: 0
+Taurus   sales price: 26848.125   cleanliness: Clean   condition: LikeNew   win count: 0
+Escort-2   sales price: 21491.25   cleanliness: Clean   condition: LikeNew   win count: 0
+Taurus-2   sales price: 31994.0   cleanliness: Dirty   condition: LikeNew   win count: 0
+Current Pickups:
+Ranger   sales price: 21162.000000000004   cleanliness: Clean   condition: LikeNew   win count: 0
+F-250-2   sales price: 19048.125   cleanliness: Clean   condition: LikeNew   win count: 0
+Colorado-2   sales price: 37968.0   cleanliness: Dirty   condition: Used   win count: 0
+Tundra-2   sales price: 50600.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Current Performance Cars:
+Mustang   sales price: 48767.4   cleanliness: Clean   condition: LikeNew   win count: 1
+Cayman-2   sales price: 50760.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Corvette-2   sales price: 45532.5   cleanliness: Clean   condition: LikeNew   win count: 0
+Cayman-3   sales price: 77300.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Current electric cars:
+Mustang Mach   sales price: 51662.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Tesla-2   sales price: 52800.0   cleanliness: Sparkling   condition: LikeNew   win count: 0
+Prius-3   sales price: 50188.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Tesla-3   sales price: 84695.625   cleanliness: Dirty   condition: LikeNew   win count: 0
+Current motorcycles:
+Yamaha-2   sales price: 50198.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Suzuki-2   sales price: 33568.125   cleanliness: Clean   condition: LikeNew   win count: 0
+Ducati-2   sales price: 46056.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Harley Davidson-3   sales price: 60744.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Current monster trucks:
+Cyborg   sales price: 56320.0   cleanliness: Clean   condition: LikeNew   win count: 0
+El Toro Loco   sales price: 41248.125   cleanliness: Clean   condition: LikeNew   win count: 0
+Predator   sales price: 50248.0   cleanliness: Clean   condition: LikeNew   win count: 0
+That's it for the day.
+
+
+
+
+
+
+
+
+
+
+
+
+>>> End Simulation Day 13 Tue
+
+src.Tracker: Day 13
+Total money earned by all Staff: $14430.0
+Total money earned by the FNCD: $945854.32569375
+>>> Start Simulation Day 14 Wed
+The FNCD is opening...
+Bought Snake Bite, a Dirty LikeNew MonsterTruck for $51,421.00
+The FNCD interns are washing...
+The chemical method is being used for this wash.
+InternEthel made the Taurus-2 go from Dirty to Sparkling. They earned a bonus of: 20.0
+Ethel made the Colorado-2 go from Dirty to Clean
+The elbow grease method is being used for this wash.
+Fred-2 made the Tesla-3 go from Dirty to Clean
+The elbow grease method is being used for this wash.
+Lucy-2 made the Snake Bite go from Dirty to Clean
+Lucy-2 made the Escort-2 go from Clean to Dirty
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Colorado-2 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 3 buyers today...
+Buyer Leia-15 wants a ElectricCar (WantsOne)
+Buyer Leia-15 decided not to buy.
+Buyer Han-15 wants a Car (WantsOne)
+Buyer Han-15 decided not to buy.
+Buyer Chewy-15 wants a MotorCycle (WantsOne)
+Buyer Chewy-15 is buying! Salesperson Phoebe gets a bonus of $600.00!
+Buyer Chewy-15 is buying Harley Davidson-3 for $60,744.00
+0.6546388935886293
+0.5132871780113999
+0.9586957141289796
+0.28585836859101765
+Buyer Chewy-15 bought Clean LikeNew Harley Davidson-3 for $60,744.00
+The driver Eddie will be driving a PerfCar named Mustang in the race!
+The driver Montez will be driving a Pickup named Ranger in the race!
+The driver Jessica will be driving a MotorCycle named Yamaha-2 in the race!
+Eddie placed 3 out of 20 driving the Mustang
+Eddie made podium and won!
+Eddie earned a bonus of $200!
+Mustang had it's price increased to 53644.14000000001 for placing podium
+Montez placed 14 out of 20 driving the Ranger
+Jessica placed 16 out of 20 driving the Yamaha-2
+Jessica placed bottom 5.
+Yamaha-2 has become broken as a result of poor placement in the race!
+No one quit today!
+Vehicles in inventory 23
+Vehicles sold count 32
+Money in the budget $1,689,637.33
+Current interns:
+Ethel   salary: 60.0   bonuses: 320.0
+Fred-2   salary: 60.0   bonuses: 0.0
+Lucy-2   salary: 60.0   bonuses: 0.0
+Current Mechanics:
+James   salary: 120.0   bonuses: 4250.0
+Spock   salary: 120.0   bonuses: 4275.0
+Desi   salary: 120.0   bonuses: 1700.0
+Current SalesPeople:
+Phoebe   salary: 90.0   bonuses: 9275.0
+Fred   salary: 90.0   bonuses: 6750.0
+Ethel-2   salary: 90.0   bonuses: 2525.0
+Current Drivers:
+Eddie   win count: 2   salary: 100.0   bonuses400.0
+Montez   win count: 0   salary: 100.0   bonuses0.0
+Jessica   win count: 1   salary: 100.0   bonuses200.0
+Current cars:
+Probe   sales price: 29028.75   cleanliness: Clean   condition: LikeNew   win count: 0
+Taurus   sales price: 26848.125   cleanliness: Clean   condition: LikeNew   win count: 0
+Escort-2   sales price: 21491.25   cleanliness: Dirty   condition: LikeNew   win count: 0
+Taurus-2   sales price: 31994.0   cleanliness: Sparkling   condition: LikeNew   win count: 0
+Current Pickups:
+Ranger   sales price: 21162.000000000004   cleanliness: Clean   condition: LikeNew   win count: 0
+F-250-2   sales price: 19048.125   cleanliness: Clean   condition: LikeNew   win count: 0
+Colorado-2   sales price: 47460.0   cleanliness: Dirty   condition: LikeNew   win count: 0
+Tundra-2   sales price: 50600.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Current Performance Cars:
+Mustang   sales price: 53644.14000000001   cleanliness: Clean   condition: LikeNew   win count: 2
+Cayman-2   sales price: 50760.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Corvette-2   sales price: 45532.5   cleanliness: Clean   condition: LikeNew   win count: 0
+Cayman-3   sales price: 77300.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Current electric cars:
+Mustang Mach   sales price: 51662.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Tesla-2   sales price: 52800.0   cleanliness: Sparkling   condition: LikeNew   win count: 0
+Prius-3   sales price: 50188.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Tesla-3   sales price: 84695.625   cleanliness: Clean   condition: LikeNew   win count: 0
+Current motorcycles:
+Yamaha-2   sales price: 50198.0   cleanliness: Clean   condition: Broken   win count: 0
+Suzuki-2   sales price: 33568.125   cleanliness: Clean   condition: LikeNew   win count: 0
+Ducati-2   sales price: 46056.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Current monster trucks:
+Cyborg   sales price: 56320.0   cleanliness: Clean   condition: LikeNew   win count: 0
+El Toro Loco   sales price: 41248.125   cleanliness: Clean   condition: LikeNew   win count: 0
+Predator   sales price: 50248.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Snake Bite   sales price: 102842.0   cleanliness: Clean   condition: LikeNew   win count: 0
+That's it for the day.
+
+
+
+
+
+
+
+
+
+
+
+
+>>> End Simulation Day 14 Wed
+
+src.Tracker: Day 14
+Total money earned by all Staff: $15540.0
+Total money earned by the FNCD: $955177.32569375
+>>> Start Simulation Day 15 Thur
+The FNCD is opening...
+Bought Yamaha-3, a Dirty Used MotorCycle for $26,832.80
+The FNCD interns are washing...
+The chemical method is being used for this wash.
+Ethel made the Escort-2 go from Dirty to Clean
+The intern Ethel accidently made the vehicle broken!
+Ethel made the Colorado-2 go from Dirty to Clean
+The elbow grease method is being used for this wash.
+Fred-2 made the Escort-2 go from Clean to Dirty
+The elbow grease method is being used for this wash.
+Lucy-2 made the Escort-2 go from Dirty to Clean
+Lucy-2 made the Yamaha-3 go from Dirty to Clean
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $175.00!
+Mechanic James fixed Yamaha-2 Broken to Used
+Mechanic James got a bonus of $175.00!
+Mechanic James fixed Yamaha-3 Used to LikeNew
+Mechanic Spock got a bonus of $175.00!
+Mechanic Spock fixed Yamaha-2 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 4 buyers today...
+Buyer Luke-16 wants a PerfCar (JustLooking)
+Buyer Luke-16 decided not to buy.
+Buyer Leia-16 wants a PerfCar (NeedsOne)
+Buyer Leia-16 decided not to buy.
+Buyer Han-16 wants a PerfCar (WantsOne)
+Buyer Han-16 is buying! Salesperson Fred gets a bonus of $1,000.00!
+Buyer Han-16 is buying Cayman-3 for $77,300.00
+0.9353015074854151
+0.8454850234940035
+0.2469460443686754
+Buyer Han-16 added Satellite Radio for $3,865.00
+0.7770896239283036
+Buyer Han-16 bought Clean LikeNew Cayman-3 for $81,165.00
+Buyer Chewy-16 wants a ElectricCar (JustLooking)
+Buyer Chewy-16 decided not to buy.
+The salesperson Fred quit the FNCD!
+The intern Fred-2 will be promoted to SalesPerson!
+Vehicles in inventory 23
+Vehicles sold count 33
+Money in the budget $1,742,859.53
+Current interns:
+Ethel   salary: 60.0   bonuses: 320.0
+Lucy-2   salary: 60.0   bonuses: 0.0
+Current Mechanics:
+James   salary: 120.0   bonuses: 4600.0
+Spock   salary: 120.0   bonuses: 4450.0
+Desi   salary: 120.0   bonuses: 1700.0
+Current SalesPeople:
+Phoebe   salary: 90.0   bonuses: 9275.0
+Ethel-2   salary: 90.0   bonuses: 2525.0
+Fred-2   salary: 90.0   bonuses: 0.0
+Current Drivers:
+Eddie   win count: 2   salary: 100.0   bonuses400.0
+Montez   win count: 0   salary: 100.0   bonuses0.0
+Jessica   win count: 1   salary: 100.0   bonuses200.0
+Current cars:
+Probe   sales price: 29028.75   cleanliness: Clean   condition: LikeNew   win count: 0
+Taurus   sales price: 26848.125   cleanliness: Clean   condition: LikeNew   win count: 0
+Escort-2   sales price: 21491.25   cleanliness: Clean   condition: LikeNew   win count: 0
+Taurus-2   sales price: 31994.0   cleanliness: Sparkling   condition: LikeNew   win count: 0
+Current Pickups:
+Ranger   sales price: 21162.000000000004   cleanliness: Clean   condition: LikeNew   win count: 0
+F-250-2   sales price: 19048.125   cleanliness: Clean   condition: LikeNew   win count: 0
+Colorado-2   sales price: 47460.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Tundra-2   sales price: 50600.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Current Performance Cars:
+Mustang   sales price: 53644.14000000001   cleanliness: Clean   condition: LikeNew   win count: 2
+Cayman-2   sales price: 50760.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Corvette-2   sales price: 45532.5   cleanliness: Clean   condition: LikeNew   win count: 0
+Current electric cars:
+Mustang Mach   sales price: 51662.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Tesla-2   sales price: 52800.0   cleanliness: Sparkling   condition: LikeNew   win count: 0
+Prius-3   sales price: 50188.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Tesla-3   sales price: 84695.625   cleanliness: Clean   condition: LikeNew   win count: 0
+Current motorcycles:
+Yamaha-2   sales price: 94121.25   cleanliness: Dirty   condition: LikeNew   win count: 0
+Suzuki-2   sales price: 33568.125   cleanliness: Clean   condition: LikeNew   win count: 0
+Ducati-2   sales price: 46056.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Yamaha-3   sales price: 67082.0   cleanliness: Dirty   condition: LikeNew   win count: 0
+Current monster trucks:
+Cyborg   sales price: 56320.0   cleanliness: Clean   condition: LikeNew   win count: 0
+El Toro Loco   sales price: 41248.125   cleanliness: Clean   condition: LikeNew   win count: 0
+Predator   sales price: 50248.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Snake Bite   sales price: 102842.0   cleanliness: Clean   condition: LikeNew   win count: 0
+That's it for the day.
+
+
+
+
+
+
+
+
+
+
+
+>>> End Simulation Day 15 Thur
+
+src.Tracker: Day 15
+Total money earned by all Staff: $16650.0
+Total money earned by the FNCD: $1009509.52569375
+>>> Start Simulation Day 16 Fri
+The FNCD is opening...
+The intern Desi-2 has been assigned the chemical wash method!
+Hired a new Intern named Desi-2
+Bought Corvette-3, a Clean Broken PerfCar for $12,404.50
+The FNCD interns are washing...
+The chemical method is being used for this wash.
+Ethel made the Yamaha-3 go from Dirty to Clean
+The elbow grease method is being used for this wash.
+The intern Lucy-2 made the vehicle like new!
+The chemical method is being used for this wash.
+Desi-2 made the Yamaha-2 go from Dirty to Clean
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Corvette-3 Broken to Used
+Mechanic Spock got a bonus of $300.00!
+Mechanic Spock fixed Corvette-3 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 7 buyers today...
+Buyer Luke-17 wants a PerfCar (WantsOne)
+Buyer Luke-17 decided not to buy.
+Buyer Leia-17 wants a Pickup (NeedsOne)
+Buyer Leia-17 is buying! Salesperson Fred-2 gets a bonus of $750.00!
+Buyer Leia-17 is buying Tundra-2 for $50,600.00
+0.0688838762103523
+Buyer Leia-17 added Extended Warranty for $10,120.00
+0.1623617887633676
+0.15022267483156493
+Buyer Leia-17 added Satellite Radio for $3,036.00
+0.6897730767764749
+Buyer Leia-17 bought Clean LikeNew Tundra-2 for $63,756.00
+Buyer Han-17 wants a MonsterTruck (WantsOne)
+Buyer Han-17 decided not to buy.
+Buyer Chewy-17 wants a PerfCar (NeedsOne)
+Buyer Chewy-17 is buying! Salesperson Fred-2 gets a bonus of $1,000.00!
+Buyer Chewy-17 is buying Mustang for $53,644.14
+0.8669364369625434
+0.757010719238885
+0.04690216453179341
+Buyer Chewy-17 added Satellite Radio for $2,682.21
+0.7095995951640072
+Buyer Chewy-17 bought Clean LikeNew Mustang for $56,326.35
+Buyer Luke-18 wants a PerfCar (JustLooking)
+Buyer Luke-18 is buying! Salesperson Ethel-2 gets a bonus of $1,000.00!
+Buyer Luke-18 is buying Cayman-2 for $50,760.00
+0.8572897095264628
+0.5665315264202342
+0.20611901883767836
+Buyer Luke-18 added Satellite Radio for $2,538.00
+0.10035129175456492
+Buyer Luke-18 bought Clean LikeNew Cayman-2 for $53,298.00
+Buyer Leia-18 wants a Pickup (NeedsOne)
+Buyer Leia-18 is buying! Salesperson Phoebe gets a bonus of $750.00!
+Buyer Leia-18 is buying Colorado-2 for $47,460.00
+0.437390751099492
+0.5662865806347523
+0.9851281482927823
+0.5501048323645865
+Buyer Leia-18 bought Clean LikeNew Colorado-2 for $47,460.00
+Buyer Han-18 wants a MotorCycle (WantsOne)
+Buyer Han-18 decided not to buy.
+The intern Desi-2 quit the FNCD!
+Vehicles in inventory 20
+Vehicles sold count 37
+Money in the budget $1,950,185.37
+Current interns:
+Ethel   salary: 60.0   bonuses: 320.0
+Lucy-2   salary: 60.0   bonuses: 0.0
+Current Mechanics:
+James   salary: 120.0   bonuses: 4900.0
+Spock   salary: 120.0   bonuses: 4750.0
+Desi   salary: 120.0   bonuses: 1700.0
+Current SalesPeople:
+Phoebe   salary: 90.0   bonuses: 10025.0
+Ethel-2   salary: 90.0   bonuses: 3525.0
+Fred-2   salary: 90.0   bonuses: 1750.0
+Current Drivers:
+Eddie   win count: 2   salary: 100.0   bonuses400.0
+Montez   win count: 0   salary: 100.0   bonuses0.0
+Jessica   win count: 1   salary: 100.0   bonuses200.0
+Current cars:
+Probe   sales price: 29028.75   cleanliness: Clean   condition: LikeNew   win count: 0
+Taurus   sales price: 26848.125   cleanliness: Clean   condition: LikeNew   win count: 0
+Escort-2   sales price: 21491.25   cleanliness: Clean   condition: LikeNew   win count: 0
+Taurus-2   sales price: 31994.0   cleanliness: Sparkling   condition: LikeNew   win count: 0
+Current Pickups:
+Ranger   sales price: 21162.000000000004   cleanliness: Clean   condition: LikeNew   win count: 0
+F-250-2   sales price: 19048.125   cleanliness: Clean   condition: LikeNew   win count: 0
+Current Performance Cars:
+Corvette-2   sales price: 45532.5   cleanliness: Clean   condition: LikeNew   win count: 0
+Corvette-3   sales price: 46516.875   cleanliness: Dirty   condition: LikeNew   win count: 0
+Current electric cars:
+Mustang Mach   sales price: 51662.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Tesla-2   sales price: 52800.0   cleanliness: Sparkling   condition: LikeNew   win count: 0
+Prius-3   sales price: 50188.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Tesla-3   sales price: 84695.625   cleanliness: Clean   condition: LikeNew   win count: 0
+Current motorcycles:
+Yamaha-2   sales price: 94121.25   cleanliness: Clean   condition: LikeNew   win count: 0
+Suzuki-2   sales price: 33568.125   cleanliness: Clean   condition: LikeNew   win count: 0
+Ducati-2   sales price: 46056.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Yamaha-3   sales price: 67082.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Current monster trucks:
+Cyborg   sales price: 56320.0   cleanliness: Clean   condition: LikeNew   win count: 0
+El Toro Loco   sales price: 41248.125   cleanliness: Clean   condition: LikeNew   win count: 0
+Predator   sales price: 50248.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Snake Bite   sales price: 102842.0   cleanliness: Clean   condition: LikeNew   win count: 0
+That's it for the day.
+
+
+
+
+
+
+
+
+
+
+
+>>> End Simulation Day 16 Fri
+
+src.Tracker: Day 16
+Total money earned by all Staff: $17760.0
+Total money earned by the FNCD: $1217945.37269375
+>>> Start Simulation Day 17 Sat
+The FNCD is opening...
+The intern Fred-3 has been assigned the detailed wash method!
+Hired a new Intern named Fred-3
+Bought Mustang-3, a Clean LikeNew PerfCar for $20,374.00
+Bought Europa-4, a Clean LikeNew PerfCar for $20,584.00
+Bought Ranger-3, a Clean Used Pickup for $28,319.20
+Bought F-250-3, a Dirty Used Pickup for $14,369.60
+The FNCD interns are washing...
+The chemical method is being used for this wash.
+Ethel made the F-250-3 go from Dirty to Clean
+The elbow grease method is being used for this wash.
+The detailed method is being used for this wash.
+Fred-3 made the Corvette-3 go from Dirty to Clean
+InternFred-3 made the F-250-3 go from Clean to Sparkling. They earned a bonus of: 75.0
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Ranger-3 Used to LikeNew
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed F-250-3 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 8 buyers today...
+Buyer Chewy-18 wants a ElectricCar (NeedsOne)
+Buyer Chewy-18 decided not to buy.
+Buyer Luke-19 wants a PerfCar (WantsOne)
+Buyer Luke-19 is buying! Salesperson Phoebe gets a bonus of $1,000.00!
+Buyer Luke-19 is buying Corvette-3 for $46,516.88
+0.7676806580719512
+0.2079719238656096
+0.46280588875231743
+0.8088818512095476
+Buyer Luke-19 bought Clean LikeNew Corvette-3 for $46,516.88
+Buyer Leia-19 wants a MonsterTruck (WantsOne)
+Buyer Leia-19 decided not to buy.
+Buyer Han-19 wants a Car (JustLooking)
+Buyer Han-19 decided not to buy.
+Buyer Chewy-19 wants a MotorCycle (NeedsOne)
+Buyer Chewy-19 is buying! Salesperson Ethel-2 gets a bonus of $600.00!
+Buyer Chewy-19 is buying Yamaha-2 for $94,121.25
+0.6866781778194575
+0.3511620229984378
+0.35211044738264907
+Buyer Chewy-19 added Satellite Radio for $4,706.06
+0.7099277642595667
+Buyer Chewy-19 bought Clean LikeNew Yamaha-2 for $98,827.31
+Buyer Luke-20 wants a PerfCar (JustLooking)
+Buyer Luke-20 decided not to buy.
+Buyer Leia-20 wants a PerfCar (WantsOne)
+Buyer Leia-20 decided not to buy.
+Buyer Han-20 wants a PerfCar (JustLooking)
+Buyer Han-20 is buying! Salesperson Phoebe gets a bonus of $1,000.00!
+Buyer Han-20 is buying Corvette-2 for $45,532.50
+0.02178752265962902
+Buyer Han-20 added Extended Warranty for $9,106.50
+0.4088380824661356
+0.6148593034726131
+0.09479609258316601
+Buyer Han-20 added src.Undercoating for $2,731.95
+Buyer Han-20 bought Clean LikeNew Corvette-2 for $57,370.95
+The intern Ethel quit the FNCD!
+Vehicles in inventory 21
+Vehicles sold count 40
+Money in the budget $2,068,143.71
+Current interns:
+Lucy-2   salary: 60.0   bonuses: 0.0
+Fred-3   salary: 60.0   bonuses: 75.0
+Current Mechanics:
+James   salary: 120.0   bonuses: 5300.0
+Spock   salary: 120.0   bonuses: 4750.0
+Desi   salary: 120.0   bonuses: 1700.0
+Current SalesPeople:
+Phoebe   salary: 90.0   bonuses: 12025.0
+Ethel-2   salary: 90.0   bonuses: 4125.0
+Fred-2   salary: 90.0   bonuses: 1750.0
+Current Drivers:
+Eddie   win count: 2   salary: 100.0   bonuses400.0
+Montez   win count: 0   salary: 100.0   bonuses0.0
+Jessica   win count: 1   salary: 100.0   bonuses200.0
+Current cars:
+Probe   sales price: 29028.75   cleanliness: Clean   condition: LikeNew   win count: 0
+Taurus   sales price: 26848.125   cleanliness: Clean   condition: LikeNew   win count: 0
+Escort-2   sales price: 21491.25   cleanliness: Clean   condition: LikeNew   win count: 0
+Taurus-2   sales price: 31994.0   cleanliness: Sparkling   condition: LikeNew   win count: 0
+Current Pickups:
+Ranger   sales price: 21162.000000000004   cleanliness: Clean   condition: LikeNew   win count: 0
+F-250-2   sales price: 19048.125   cleanliness: Clean   condition: LikeNew   win count: 0
+Ranger-3   sales price: 70798.0   cleanliness: Dirty   condition: LikeNew   win count: 0
+F-250-3   sales price: 35924.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Current Performance Cars:
+Mustang-3   sales price: 40748.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Europa-4   sales price: 41168.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Current electric cars:
+Mustang Mach   sales price: 51662.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Tesla-2   sales price: 52800.0   cleanliness: Sparkling   condition: LikeNew   win count: 0
+Prius-3   sales price: 50188.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Tesla-3   sales price: 84695.625   cleanliness: Clean   condition: LikeNew   win count: 0
+Current motorcycles:
+Suzuki-2   sales price: 33568.125   cleanliness: Clean   condition: LikeNew   win count: 0
+Ducati-2   sales price: 46056.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Yamaha-3   sales price: 67082.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Current monster trucks:
+Cyborg   sales price: 56320.0   cleanliness: Clean   condition: LikeNew   win count: 0
+El Toro Loco   sales price: 41248.125   cleanliness: Clean   condition: LikeNew   win count: 0
+Predator   sales price: 50248.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Snake Bite   sales price: 102842.0   cleanliness: Clean   condition: LikeNew   win count: 0
+That's it for the day.
+
+
+
+
+
+
+
+
+
+
+
+>>> End Simulation Day 17 Sat
+
+src.Tracker: Day 17
+Total money earned by all Staff: $18870.0
+Total money earned by the FNCD: $1337013.71019375
+>>> Start Simulation Day 18 Sun
+The FNCD is opening...
+The intern Ethel-3 has been assigned the chemical wash method!
+Hired a new Intern named Ethel-3
+Bought Cayman-4, a Dirty Used PerfCar for $22,143.20
+Bought Corvette-4, a Dirty LikeNew PerfCar for $24,751.00
+Bought Suzuki-3, a Dirty Broken MotorCycle for $14,715.00
+The FNCD interns are washing...
+The elbow grease method is being used for this wash.
+Lucy-2 made the Ranger-3 go from Dirty to Clean
+Lucy-2 made the Cayman-4 go from Dirty to Clean
+The intern Lucy-2 made the vehicle like new!
+The detailed method is being used for this wash.
+InternFred-3 made the Corvette-4 go from Dirty to Sparkling. They earned a bonus of: 100.0
+Fred-3 made the Suzuki-3 go from Dirty to Clean
+The chemical method is being used for this wash.
+Ethel-3 made the Probe go from Clean to Dirty
+The FNCD mechanics are repairing...
+Mechanic James did not fix the Used Cayman-4
+Mechanic James got a bonus of $175.00!
+Mechanic James fixed Suzuki-3 Broken to Used
+Mechanic Spock got a bonus of $300.00!
+Mechanic Spock fixed Cayman-4 Used to LikeNew
+Mechanic Spock got a bonus of $175.00!
+Mechanic Spock fixed Suzuki-3 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 3 buyers today...
+Buyer Chewy-20 wants a MonsterTruck (JustLooking)
+Buyer Chewy-20 decided not to buy.
+Buyer Luke-21 wants a MonsterTruck (JustLooking)
+Buyer Luke-21 decided not to buy.
+Buyer Leia-21 wants a ElectricCar (NeedsOne)
+Buyer Leia-21 is buying! Salesperson Phoebe gets a bonus of $900.00!
+Buyer Leia-21 is buying Tesla-3 for $84,695.62
+0.06471747471367906
+Buyer Leia-21 added Extended Warranty for $16,939.12
+0.3881772401638507
+0.039519608454141264
+Buyer Leia-21 added Satellite Radio for $5,081.74
+0.5877717652211559
+Buyer Leia-21 bought Clean LikeNew Tesla-3 for $106,716.49
+The driver Eddie will be driving a Pickup named Ranger in the race!
+The driver Montez will be driving a MotorCycle named Suzuki-2 in the race!
+The driver Jessica will be driving a MonsterTruck named Cyborg in the race!
+Eddie placed 6 out of 20 driving the Ranger
+Montez placed 9 out of 20 driving the Suzuki-2
+Jessica placed 7 out of 20 driving the Cyborg
+No one quit today!
+Vehicles in inventory 23
+Vehicles sold count 41
+Money in the budget $2,112,141.00
+Current interns:
+Lucy-2   salary: 60.0   bonuses: 0.0
+Fred-3   salary: 60.0   bonuses: 175.0
+Ethel-3   salary: 60.0   bonuses: 0.0
+Current Mechanics:
+James   salary: 120.0   bonuses: 5475.0
+Spock   salary: 120.0   bonuses: 5225.0
+Desi   salary: 120.0   bonuses: 1700.0
+Current SalesPeople:
+Phoebe   salary: 90.0   bonuses: 12925.0
+Ethel-2   salary: 90.0   bonuses: 4125.0
+Fred-2   salary: 90.0   bonuses: 1750.0
+Current Drivers:
+Eddie   win count: 2   salary: 100.0   bonuses400.0
+Montez   win count: 0   salary: 100.0   bonuses0.0
+Jessica   win count: 1   salary: 100.0   bonuses200.0
+Current cars:
+Probe   sales price: 29028.75   cleanliness: Dirty   condition: LikeNew   win count: 0
+Taurus   sales price: 26848.125   cleanliness: Clean   condition: LikeNew   win count: 0
+Escort-2   sales price: 21491.25   cleanliness: Clean   condition: LikeNew   win count: 0
+Taurus-2   sales price: 31994.0   cleanliness: Sparkling   condition: LikeNew   win count: 0
+Current Pickups:
+Ranger   sales price: 21162.000000000004   cleanliness: Clean   condition: LikeNew   win count: 0
+F-250-2   sales price: 19048.125   cleanliness: Clean   condition: LikeNew   win count: 0
+Ranger-3   sales price: 70798.0   cleanliness: Clean   condition: LikeNew   win count: 0
+F-250-3   sales price: 35924.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Current Performance Cars:
+Mustang-3   sales price: 40748.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Europa-4   sales price: 41168.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Cayman-4   sales price: 55358.0   cleanliness: Dirty   condition: LikeNew   win count: 0
+Corvette-4   sales price: 49502.0   cleanliness: Sparkling   condition: LikeNew   win count: 0
+Current electric cars:
+Mustang Mach   sales price: 51662.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Tesla-2   sales price: 52800.0   cleanliness: Sparkling   condition: LikeNew   win count: 0
+Prius-3   sales price: 50188.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Current motorcycles:
+Suzuki-2   sales price: 33568.125   cleanliness: Clean   condition: LikeNew   win count: 0
+Ducati-2   sales price: 46056.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Yamaha-3   sales price: 67082.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Suzuki-3   sales price: 55181.25   cleanliness: Dirty   condition: LikeNew   win count: 0
+Current monster trucks:
+Cyborg   sales price: 56320.0   cleanliness: Clean   condition: LikeNew   win count: 0
+El Toro Loco   sales price: 41248.125   cleanliness: Clean   condition: LikeNew   win count: 0
+Predator   sales price: 50248.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Snake Bite   sales price: 102842.0   cleanliness: Clean   condition: LikeNew   win count: 0
+That's it for the day.
+
+
+
+
+
+
+
+
+
+
+
+
+>>> End Simulation Day 18 Sun
+
+src.Tracker: Day 18
+Total money earned by all Staff: $19980.0
+Total money earned by the FNCD: $1382120.99769375
+>>> Start Simulation Day 19 Mon
+The FNCD is opening...
+Bought Bolt-3, a Clean Used ElectricCar for $26,585.60
+The FNCD interns are washing...
+The elbow grease method is being used for this wash.
+Lucy-2 made the Probe go from Dirty to Clean
+The detailed method is being used for this wash.
+Fred-3 made the Cayman-4 go from Dirty to Clean
+The chemical method is being used for this wash.
+Ethel-3 made the Suzuki-3 go from Dirty to Clean
+The FNCD mechanics are repairing...
+Mechanic James did not fix the Used Bolt-3
+Mechanic Spock got a bonus of $250.00!
+Mechanic Spock fixed Bolt-3 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 5 buyers today...
+Buyer Han-21 wants a ElectricCar (NeedsOne)
+Buyer Han-21 is buying! Salesperson Phoebe gets a bonus of $900.00!
+Buyer Han-21 is buying Bolt-3 for $66,464.00
+0.6063401158596377
+0.36739464341620276
+0.2460475981676441
+Buyer Han-21 added Satellite Radio for $3,323.20
+0.361678623860494
+Buyer Han-21 bought Dirty LikeNew Bolt-3 for $69,787.20
+Buyer Chewy-21 wants a ElectricCar (JustLooking)
+Buyer Chewy-21 is buying! Salesperson Ethel-2 gets a bonus of $900.00!
+Buyer Chewy-21 is buying Tesla-2 for $52,800.00
+0.9374906718456874
+0.1796687893676332
+0.13545733103927649
+Buyer Chewy-21 added Satellite Radio for $2,640.00
+0.8583836967917549
+Buyer Chewy-21 bought Sparkling LikeNew Tesla-2 for $55,440.00
+Buyer Luke-22 wants a Pickup (WantsOne)
+Buyer Luke-22 decided not to buy.
+Buyer Leia-22 wants a MotorCycle (JustLooking)
+Buyer Leia-22 decided not to buy.
+Buyer Han-22 wants a PerfCar (JustLooking)
+Buyer Han-22 decided not to buy.
+No one quit today!
+Vehicles in inventory 22
+Vehicles sold count 43
+Money in the budget $2,209,672.60
+Current interns:
+Lucy-2   salary: 60.0   bonuses: 0.0
+Fred-3   salary: 60.0   bonuses: 175.0
+Ethel-3   salary: 60.0   bonuses: 0.0
+Current Mechanics:
+James   salary: 120.0   bonuses: 5475.0
+Spock   salary: 120.0   bonuses: 5475.0
+Desi   salary: 120.0   bonuses: 1700.0
+Current SalesPeople:
+Phoebe   salary: 90.0   bonuses: 13825.0
+Ethel-2   salary: 90.0   bonuses: 5025.0
+Fred-2   salary: 90.0   bonuses: 1750.0
+Current Drivers:
+Eddie   win count: 2   salary: 100.0   bonuses400.0
+Montez   win count: 0   salary: 100.0   bonuses0.0
+Jessica   win count: 1   salary: 100.0   bonuses200.0
+Current cars:
+Probe   sales price: 29028.75   cleanliness: Clean   condition: LikeNew   win count: 0
+Taurus   sales price: 26848.125   cleanliness: Clean   condition: LikeNew   win count: 0
+Escort-2   sales price: 21491.25   cleanliness: Clean   condition: LikeNew   win count: 0
+Taurus-2   sales price: 31994.0   cleanliness: Sparkling   condition: LikeNew   win count: 0
+Current Pickups:
+Ranger   sales price: 21162.000000000004   cleanliness: Clean   condition: LikeNew   win count: 0
+F-250-2   sales price: 19048.125   cleanliness: Clean   condition: LikeNew   win count: 0
+Ranger-3   sales price: 70798.0   cleanliness: Clean   condition: LikeNew   win count: 0
+F-250-3   sales price: 35924.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Current Performance Cars:
+Mustang-3   sales price: 40748.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Europa-4   sales price: 41168.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Cayman-4   sales price: 55358.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Corvette-4   sales price: 49502.0   cleanliness: Sparkling   condition: LikeNew   win count: 0
+Current electric cars:
+Mustang Mach   sales price: 51662.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Prius-3   sales price: 50188.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Current motorcycles:
+Suzuki-2   sales price: 33568.125   cleanliness: Clean   condition: LikeNew   win count: 0
+Ducati-2   sales price: 46056.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Yamaha-3   sales price: 67082.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Suzuki-3   sales price: 55181.25   cleanliness: Clean   condition: LikeNew   win count: 0
+Current monster trucks:
+Cyborg   sales price: 56320.0   cleanliness: Clean   condition: LikeNew   win count: 0
+El Toro Loco   sales price: 41248.125   cleanliness: Clean   condition: LikeNew   win count: 0
+Predator   sales price: 50248.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Snake Bite   sales price: 102842.0   cleanliness: Clean   condition: LikeNew   win count: 0
+That's it for the day.
+
+
+
+
+
+
+
+
+
+
+
+
+>>> End Simulation Day 19 Mon
+
+src.Tracker: Day 19
+Total money earned by all Staff: $21090.0
+Total money earned by the FNCD: $1480762.59769375
+>>> Start Simulation Day 20 Tue
+The FNCD is opening...
+Bought Mustang Mach-3, a Clean Used ElectricCar for $33,273.60
+Bought Prius-4, a Dirty Broken ElectricCar for $20,655.00
+The FNCD interns are washing...
+The elbow grease method is being used for this wash.
+Lucy-2 made the Prius-4 go from Dirty to Clean
+The detailed method is being used for this wash.
+The chemical method is being used for this wash.
+InternEthel-3 made the Probe go from Clean to Sparkling. They earned a bonus of: 20.0
+The intern Ethel-3 accidently made the vehicle broken!
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $250.00!
+Mechanic James fixed Mustang Mach-3 Used to LikeNew
+Mechanic James got a bonus of $250.00!
+Mechanic James fixed Prius-4 Broken to Used
+Mechanic Spock got a bonus of $250.00!
+Mechanic Spock fixed Prius-4 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 0 buyers today...
+No one quit today!
+Vehicles in inventory 24
+Vehicles sold count 43
+Money in the budget $2,154,634.00
+Current interns:
+Lucy-2   salary: 60.0   bonuses: 0.0
+Fred-3   salary: 60.0   bonuses: 175.0
+Ethel-3   salary: 60.0   bonuses: 20.0
+Current Mechanics:
+James   salary: 120.0   bonuses: 5975.0
+Spock   salary: 120.0   bonuses: 5725.0
+Desi   salary: 120.0   bonuses: 1700.0
+Current SalesPeople:
+Phoebe   salary: 90.0   bonuses: 13825.0
+Ethel-2   salary: 90.0   bonuses: 5025.0
+Fred-2   salary: 90.0   bonuses: 1750.0
+Current Drivers:
+Eddie   win count: 2   salary: 100.0   bonuses400.0
+Montez   win count: 0   salary: 100.0   bonuses0.0
+Jessica   win count: 1   salary: 100.0   bonuses200.0
+Current cars:
+Probe   sales price: 29028.75   cleanliness: Sparkling   condition: LikeNew   win count: 0
+Taurus   sales price: 26848.125   cleanliness: Clean   condition: LikeNew   win count: 0
+Escort-2   sales price: 21491.25   cleanliness: Clean   condition: LikeNew   win count: 0
+Taurus-2   sales price: 31994.0   cleanliness: Sparkling   condition: LikeNew   win count: 0
+Current Pickups:
+Ranger   sales price: 21162.000000000004   cleanliness: Clean   condition: LikeNew   win count: 0
+F-250-2   sales price: 19048.125   cleanliness: Clean   condition: LikeNew   win count: 0
+Ranger-3   sales price: 70798.0   cleanliness: Clean   condition: LikeNew   win count: 0
+F-250-3   sales price: 35924.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Current Performance Cars:
+Mustang-3   sales price: 40748.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Europa-4   sales price: 41168.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Cayman-4   sales price: 55358.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Corvette-4   sales price: 49502.0   cleanliness: Sparkling   condition: LikeNew   win count: 0
+Current electric cars:
+Mustang Mach   sales price: 51662.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Prius-3   sales price: 50188.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Mustang Mach-3   sales price: 83184.0   cleanliness: Dirty   condition: LikeNew   win count: 0
+Prius-4   sales price: 77456.25   cleanliness: Dirty   condition: LikeNew   win count: 0
+Current motorcycles:
+Suzuki-2   sales price: 33568.125   cleanliness: Clean   condition: LikeNew   win count: 0
+Ducati-2   sales price: 46056.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Yamaha-3   sales price: 67082.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Suzuki-3   sales price: 55181.25   cleanliness: Clean   condition: LikeNew   win count: 0
+Current monster trucks:
+Cyborg   sales price: 56320.0   cleanliness: Clean   condition: LikeNew   win count: 0
+El Toro Loco   sales price: 41248.125   cleanliness: Clean   condition: LikeNew   win count: 0
+Predator   sales price: 50248.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Snake Bite   sales price: 102842.0   cleanliness: Clean   condition: LikeNew   win count: 0
+That's it for the day.
+
+
+
+
+
+
+
+
+
+
+
+
+>>> End Simulation Day 20 Tue
+
+src.Tracker: Day 20
+Total money earned by all Staff: $22200.0
+Total money earned by the FNCD: $1426833.9976937498
+>>> Start Simulation Day 21 Wed
+The FNCD is opening...
+The FNCD interns are washing...
+The elbow grease method is being used for this wash.
+Lucy-2 made the Mustang Mach-3 go from Dirty to Clean
+Lucy-2 made the Prius-4 go from Dirty to Clean
+The detailed method is being used for this wash.
+InternFred-3 made the Prius-4 go from Clean to Sparkling. They earned a bonus of: 100.0
+The chemical method is being used for this wash.
+InternEthel-3 made the Mustang Mach go from Clean to Sparkling. They earned a bonus of: 100.0
+The FNCD mechanics are repairing...
+The FNCD salespeople are selling...
+The FNCD has 5 buyers today...
+Buyer Chewy-22 wants a MonsterTruck (JustLooking)
+Buyer Chewy-22 decided not to buy.
+Buyer Luke-23 wants a ElectricCar (JustLooking)
+Buyer Luke-23 is buying! Salesperson Fred-2 gets a bonus of $900.00!
+Buyer Luke-23 is buying Mustang Mach-3 for $83,184.00
+0.27388559489906394
+0.7458105876740652
+0.7126244018638193
+0.4707675138868873
+Buyer Luke-23 bought Clean LikeNew Mustang Mach-3 for $83,184.00
+Buyer Leia-23 wants a MonsterTruck (NeedsOne)
+Buyer Leia-23 is buying! Salesperson Ethel-2 gets a bonus of $875.00!
+Buyer Leia-23 is buying Snake Bite for $102,842.00
+0.7840088636311552
+0.26393403178828745
+0.7741917768457912
+0.5667725481507558
+Buyer Leia-23 bought Clean LikeNew Snake Bite for $102,842.00
+Buyer Han-23 wants a PerfCar (NeedsOne)
+Buyer Han-23 is buying! Salesperson Fred-2 gets a bonus of $1,000.00!
+Buyer Han-23 is buying Cayman-4 for $55,358.00
+0.8898306636574177
+0.8965615877108384
+0.1776691167722817
+Buyer Han-23 added Satellite Radio for $2,767.90
+0.10605476772292799
+Buyer Han-23 bought Clean LikeNew Cayman-4 for $58,125.90
+Buyer Chewy-23 wants a Pickup (WantsOne)
+Buyer Chewy-23 decided not to buy.
+The driver Eddie will be driving a Pickup named Ranger in the race!
+The driver Montez will be driving a MotorCycle named Suzuki-2 in the race!
+The driver Jessica will be driving a MonsterTruck named Cyborg in the race!
+Eddie placed 13 out of 20 driving the Ranger
+Montez placed 5 out of 20 driving the Suzuki-2
+Jessica placed 7 out of 20 driving the Cyborg
+No one quit today!
+Vehicles in inventory 21
+Vehicles sold count 46
+Money in the budget $2,397,675.90
+Current interns:
+Lucy-2   salary: 60.0   bonuses: 0.0
+Fred-3   salary: 60.0   bonuses: 275.0
+Ethel-3   salary: 60.0   bonuses: 120.0
+Current Mechanics:
+James   salary: 120.0   bonuses: 5975.0
+Spock   salary: 120.0   bonuses: 5725.0
+Desi   salary: 120.0   bonuses: 1700.0
+Current SalesPeople:
+Phoebe   salary: 90.0   bonuses: 13825.0
+Ethel-2   salary: 90.0   bonuses: 5900.0
+Fred-2   salary: 90.0   bonuses: 3650.0
+Current Drivers:
+Eddie   win count: 2   salary: 100.0   bonuses400.0
+Montez   win count: 0   salary: 100.0   bonuses0.0
+Jessica   win count: 1   salary: 100.0   bonuses200.0
+Current cars:
+Probe   sales price: 29028.75   cleanliness: Sparkling   condition: LikeNew   win count: 0
+Taurus   sales price: 26848.125   cleanliness: Clean   condition: LikeNew   win count: 0
+Escort-2   sales price: 21491.25   cleanliness: Clean   condition: LikeNew   win count: 0
+Taurus-2   sales price: 31994.0   cleanliness: Sparkling   condition: LikeNew   win count: 0
+Current Pickups:
+Ranger   sales price: 21162.000000000004   cleanliness: Clean   condition: LikeNew   win count: 0
+F-250-2   sales price: 19048.125   cleanliness: Clean   condition: LikeNew   win count: 0
+Ranger-3   sales price: 70798.0   cleanliness: Clean   condition: LikeNew   win count: 0
+F-250-3   sales price: 35924.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Current Performance Cars:
+Mustang-3   sales price: 40748.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Europa-4   sales price: 41168.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Corvette-4   sales price: 49502.0   cleanliness: Sparkling   condition: LikeNew   win count: 0
+Current electric cars:
+Mustang Mach   sales price: 51662.0   cleanliness: Sparkling   condition: LikeNew   win count: 0
+Prius-3   sales price: 50188.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Prius-4   sales price: 77456.25   cleanliness: Sparkling   condition: LikeNew   win count: 0
+Current motorcycles:
+Suzuki-2   sales price: 33568.125   cleanliness: Clean   condition: LikeNew   win count: 0
+Ducati-2   sales price: 46056.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Yamaha-3   sales price: 67082.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Suzuki-3   sales price: 55181.25   cleanliness: Clean   condition: LikeNew   win count: 0
+Current monster trucks:
+Cyborg   sales price: 56320.0   cleanliness: Clean   condition: LikeNew   win count: 0
+El Toro Loco   sales price: 41248.125   cleanliness: Clean   condition: LikeNew   win count: 0
+Predator   sales price: 50248.0   cleanliness: Clean   condition: LikeNew   win count: 0
+That's it for the day.
+
+
+
+
+
+
+
+
+
+
+
+
+>>> End Simulation Day 21 Wed
+
+src.Tracker: Day 21
+Total money earned by all Staff: $23310.0
+Total money earned by the FNCD: $1670985.8976937498
+>>> Start Simulation Day 22 Thur
+The FNCD is opening...
+Bought Mustang-4, a Clean Broken PerfCar for $11,780.00
+Bought Tesla-4, a Clean Used ElectricCar for $26,508.00
+Bought The Destroyer, a Dirty Used MonsterTruck for $40,090.40
+The FNCD interns are washing...
+The elbow grease method is being used for this wash.
+The detailed method is being used for this wash.
+Fred-3 made the The Destroyer go from Dirty to Clean
+The chemical method is being used for this wash.
+Ethel-3 made the Taurus go from Clean to Dirty
+InternEthel-3 made the The Destroyer go from Clean to Sparkling. They earned a bonus of: 100.0
+The FNCD mechanics are repairing...
+Mechanic James did not fix the Broken Mustang-4
+Mechanic James did not fix the Used Tesla-4
+Mechanic Spock got a bonus of $300.00!
+Mechanic Spock fixed Mustang-4 Broken to Used
+Mechanic Spock got a bonus of $250.00!
+Mechanic Spock fixed Tesla-4 Used to LikeNew
+Mechanic Desi did not fix the Used Mustang-4
+Mechanic Desi did not fix the Used The Destroyer
+The FNCD salespeople are selling...
+The FNCD has 0 buyers today...
+No one quit today!
+Vehicles in inventory 24
+Vehicles sold count 46
+Money in the budget $2,318,187.50
+Current interns:
+Lucy-2   salary: 60.0   bonuses: 0.0
+Fred-3   salary: 60.0   bonuses: 275.0
+Ethel-3   salary: 60.0   bonuses: 220.0
+Current Mechanics:
+James   salary: 120.0   bonuses: 5975.0
+Spock   salary: 120.0   bonuses: 6275.0
+Desi   salary: 120.0   bonuses: 1700.0
+Current SalesPeople:
+Phoebe   salary: 90.0   bonuses: 13825.0
+Ethel-2   salary: 90.0   bonuses: 5900.0
+Fred-2   salary: 90.0   bonuses: 3650.0
+Current Drivers:
+Eddie   win count: 2   salary: 100.0   bonuses400.0
+Montez   win count: 0   salary: 100.0   bonuses0.0
+Jessica   win count: 1   salary: 100.0   bonuses200.0
+Current cars:
+Probe   sales price: 29028.75   cleanliness: Sparkling   condition: LikeNew   win count: 0
+Taurus   sales price: 26848.125   cleanliness: Dirty   condition: LikeNew   win count: 0
+Escort-2   sales price: 21491.25   cleanliness: Clean   condition: LikeNew   win count: 0
+Taurus-2   sales price: 31994.0   cleanliness: Sparkling   condition: LikeNew   win count: 0
+Current Pickups:
+Ranger   sales price: 21162.000000000004   cleanliness: Clean   condition: LikeNew   win count: 0
+F-250-2   sales price: 19048.125   cleanliness: Clean   condition: LikeNew   win count: 0
+Ranger-3   sales price: 70798.0   cleanliness: Clean   condition: LikeNew   win count: 0
+F-250-3   sales price: 35924.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Current Performance Cars:
+Mustang-3   sales price: 40748.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Europa-4   sales price: 41168.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Corvette-4   sales price: 49502.0   cleanliness: Sparkling   condition: LikeNew   win count: 0
+Mustang-4   sales price: 35340.0   cleanliness: Dirty   condition: Used   win count: 0
+Current electric cars:
+Mustang Mach   sales price: 51662.0   cleanliness: Sparkling   condition: LikeNew   win count: 0
+Prius-3   sales price: 50188.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Prius-4   sales price: 77456.25   cleanliness: Sparkling   condition: LikeNew   win count: 0
+Tesla-4   sales price: 66270.0   cleanliness: Dirty   condition: LikeNew   win count: 0
+Current motorcycles:
+Suzuki-2   sales price: 33568.125   cleanliness: Clean   condition: LikeNew   win count: 0
+Ducati-2   sales price: 46056.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Yamaha-3   sales price: 67082.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Suzuki-3   sales price: 55181.25   cleanliness: Clean   condition: LikeNew   win count: 0
+Current monster trucks:
+Cyborg   sales price: 56320.0   cleanliness: Clean   condition: LikeNew   win count: 0
+El Toro Loco   sales price: 41248.125   cleanliness: Clean   condition: LikeNew   win count: 0
+Predator   sales price: 50248.0   cleanliness: Clean   condition: LikeNew   win count: 0
+The Destroyer   sales price: 80180.8   cleanliness: Clean   condition: Used   win count: 0
+That's it for the day.
+
+
+
+
+
+
+
+
+
+
+
+
+>>> End Simulation Day 22 Thur
+
+src.Tracker: Day 22
+Total money earned by all Staff: $24420.0
+Total money earned by the FNCD: $1592607.4976937498
+>>> Start Simulation Day 23 Fri
+The FNCD is opening...
+The FNCD interns are washing...
+The elbow grease method is being used for this wash.
+Lucy-2 made the Mustang-4 go from Dirty to Clean
+The detailed method is being used for this wash.
+Fred-3 made the Taurus go from Dirty to Clean
+The chemical method is being used for this wash.
+Ethel-3 made the Tesla-4 go from Dirty to Clean
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Mustang-4 Used to LikeNew
+Mechanic James got a bonus of $250.00!
+Mechanic James fixed The Destroyer Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 5 buyers today...
+Buyer Luke-24 wants a PerfCar (NeedsOne)
+Buyer Luke-24 is buying! Salesperson Ethel-2 gets a bonus of $1,000.00!
+Buyer Luke-24 is buying Corvette-4 for $49,502.00
+0.5737194533052495
+0.7326534308446568
+0.3024162302573373
+Buyer Luke-24 added Satellite Radio for $2,475.10
+0.5898214111145699
+Buyer Luke-24 bought Sparkling LikeNew Corvette-4 for $51,977.10
+Buyer Leia-24 wants a Car (WantsOne)
+Buyer Leia-24 is buying! Salesperson Ethel-2 gets a bonus of $500.00!
+Buyer Leia-24 is buying Taurus-2 for $31,994.00
+0.26040634051112865
+0.029623039041374755
+Buyer Leia-24 added Road Rescue Coverage for $639.88
+0.5469189142364088
+0.5188506561435036
+Buyer Leia-24 bought Sparkling LikeNew Taurus-2 for $32,633.88
+Buyer Han-24 wants a Car (NeedsOne)
+Buyer Han-24 is buying! Salesperson Phoebe gets a bonus of $500.00!
+Buyer Han-24 is buying Probe for $29,028.75
+0.5528048633898994
+0.7119116227888569
+0.20557072928008502
+Buyer Han-24 added Satellite Radio for $1,451.44
+0.7911278664915897
+Buyer Han-24 bought Sparkling LikeNew Probe for $30,480.19
+Buyer Chewy-24 wants a Pickup (WantsOne)
+Buyer Chewy-24 is buying! Salesperson Ethel-2 gets a bonus of $750.00!
+Buyer Chewy-24 is buying Ranger-3 for $70,798.00
+0.3505167361767324
+0.594366420578306
+0.6574428132995749
+0.3856744798854427
+Buyer Chewy-24 bought Clean LikeNew Ranger-3 for $70,798.00
+Buyer Luke-25 wants a Car (WantsOne)
+Buyer Luke-25 is buying! Salesperson Phoebe gets a bonus of $500.00!
+Buyer Luke-25 is buying Taurus for $26,848.12
+0.3127264051275517
+0.4979760362360556
+0.4904441472284118
+0.19882649774553307
+Buyer Luke-25 bought Clean LikeNew Taurus for $26,848.12
+No one quit today!
+Vehicles in inventory 19
+Vehicles sold count 51
+Money in the budget $2,529,814.79
+Current interns:
+Lucy-2   salary: 60.0   bonuses: 0.0
+Fred-3   salary: 60.0   bonuses: 275.0
+Ethel-3   salary: 60.0   bonuses: 220.0
+Current Mechanics:
+James   salary: 120.0   bonuses: 6525.0
+Spock   salary: 120.0   bonuses: 6275.0
+Desi   salary: 120.0   bonuses: 1700.0
+Current SalesPeople:
+Phoebe   salary: 90.0   bonuses: 14825.0
+Ethel-2   salary: 90.0   bonuses: 8150.0
+Fred-2   salary: 90.0   bonuses: 3650.0
+Current Drivers:
+Eddie   win count: 2   salary: 100.0   bonuses400.0
+Montez   win count: 0   salary: 100.0   bonuses0.0
+Jessica   win count: 1   salary: 100.0   bonuses200.0
+Current cars:
+Escort-2   sales price: 21491.25   cleanliness: Clean   condition: LikeNew   win count: 0
+Current Pickups:
+Ranger   sales price: 21162.000000000004   cleanliness: Clean   condition: LikeNew   win count: 0
+F-250-2   sales price: 19048.125   cleanliness: Clean   condition: LikeNew   win count: 0
+F-250-3   sales price: 35924.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Current Performance Cars:
+Mustang-3   sales price: 40748.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Europa-4   sales price: 41168.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Mustang-4   sales price: 44175.0   cleanliness: Dirty   condition: LikeNew   win count: 0
+Current electric cars:
+Mustang Mach   sales price: 51662.0   cleanliness: Sparkling   condition: LikeNew   win count: 0
+Prius-3   sales price: 50188.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Prius-4   sales price: 77456.25   cleanliness: Sparkling   condition: LikeNew   win count: 0
+Tesla-4   sales price: 66270.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Current motorcycles:
+Suzuki-2   sales price: 33568.125   cleanliness: Clean   condition: LikeNew   win count: 0
+Ducati-2   sales price: 46056.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Yamaha-3   sales price: 67082.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Suzuki-3   sales price: 55181.25   cleanliness: Clean   condition: LikeNew   win count: 0
+Current monster trucks:
+Cyborg   sales price: 56320.0   cleanliness: Clean   condition: LikeNew   win count: 0
+El Toro Loco   sales price: 41248.125   cleanliness: Clean   condition: LikeNew   win count: 0
+Predator   sales price: 50248.0   cleanliness: Clean   condition: LikeNew   win count: 0
+The Destroyer   sales price: 100226.0   cleanliness: Dirty   condition: LikeNew   win count: 0
+That's it for the day.
+
+
+
+
+
+
+
+
+
+
+
+
+>>> End Simulation Day 23 Fri
+
+src.Tracker: Day 23
+Total money earned by all Staff: $25530.0
+Total money earned by the FNCD: $1805344.7901937498
+>>> Start Simulation Day 24 Sat
+The FNCD is opening...
+Bought Fiesta-2, a Dirty Used Car for $10,576.00
+Bought Probe-3, a Clean Used Car for $10,972.80
+Bought Escort-3, a Dirty Used Car for $8,122.40
+Bought Europa-5, a Dirty LikeNew PerfCar for $30,726.00
+Bought Colorado-3, a Dirty Used Pickup for $27,670.40
+The FNCD interns are washing...
+The elbow grease method is being used for this wash.
+Lucy-2 made the Mustang-4 go from Dirty to Clean
+Lucy-2 made the The Destroyer go from Dirty to Clean
+The detailed method is being used for this wash.
+Fred-3 made the Fiesta-2 go from Dirty to Clean
+The chemical method is being used for this wash.
+Ethel-3 made the Europa-5 go from Dirty to Clean
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $100.00!
+Mechanic James fixed Fiesta-2 Used to LikeNew
+Mechanic James got a bonus of $100.00!
+Mechanic James fixed Probe-3 Used to LikeNew
+Mechanic Spock got a bonus of $100.00!
+Mechanic Spock fixed Escort-3 Used to LikeNew
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Colorado-3 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 7 buyers today...
+Buyer Leia-25 wants a Car (NeedsOne)
+Buyer Leia-25 is buying! Salesperson Ethel-2 gets a bonus of $500.00!
+Buyer Leia-25 is buying Probe-3 for $27,432.00
+0.5544941932196474
+0.2856240041190159
+0.3623520521448055
+Buyer Leia-25 added Satellite Radio for $1,371.60
+0.09886097882628075
+Buyer Leia-25 added src.Undercoating for $1,440.18
+Buyer Leia-25 bought Dirty LikeNew Probe-3 for $30,243.78
+Buyer Han-25 wants a Pickup (NeedsOne)
+Buyer Han-25 is buying! Salesperson Phoebe gets a bonus of $750.00!
+Buyer Han-25 is buying Colorado-3 for $69,176.00
+0.33700944934484767
+0.39040602653252576
+0.10331783866147981
+Buyer Han-25 added Satellite Radio for $3,458.80
+0.17483450899401887
+Buyer Han-25 bought Dirty LikeNew Colorado-3 for $72,634.80
+Buyer Chewy-25 wants a PerfCar (WantsOne)
+Buyer Chewy-25 is buying! Salesperson Phoebe gets a bonus of $1,000.00!
+Buyer Chewy-25 is buying Europa-5 for $61,452.00
+0.2964686767393774
+0.166580619598385
+0.5203943300225166
+0.6808099228018997
+Buyer Chewy-25 bought Clean LikeNew Europa-5 for $61,452.00
+Buyer Luke-26 wants a Car (NeedsOne)
+Buyer Luke-26 is buying! Salesperson Ethel-2 gets a bonus of $500.00!
+Buyer Luke-26 is buying Fiesta-2 for $26,440.00
+0.74330643285351
+0.006500588744206892
+Buyer Luke-26 added Road Rescue Coverage for $528.80
+0.7230375489200749
+0.3720464110887489
+Buyer Luke-26 bought Dirty LikeNew Fiesta-2 for $26,968.80
+Buyer Leia-26 wants a Pickup (JustLooking)
+Buyer Leia-26 is buying! Salesperson Fred-2 gets a bonus of $750.00!
+Buyer Leia-26 is buying F-250-3 for $35,924.00
+0.9085152724382948
+0.039119159466198816
+Buyer Leia-26 added Road Rescue Coverage for $718.48
+0.00487277570477096
+Buyer Leia-26 added Satellite Radio for $1,832.12
+0.3642935633332881
+Buyer Leia-26 bought Clean LikeNew F-250-3 for $38,474.60
+Buyer Han-26 wants a Pickup (NeedsOne)
+Buyer Han-26 is buying! Salesperson Fred-2 gets a bonus of $750.00!
+Buyer Han-26 is buying Ranger for $21,162.00
+0.07029691812728867
+Buyer Han-26 added Extended Warranty for $4,232.40
+0.7355968131958258
+0.1939923904290508
+Buyer Han-26 added Satellite Radio for $1,269.72
+0.5384296228230457
+Buyer Han-26 bought Clean LikeNew Ranger for $26,664.12
+Buyer Chewy-26 wants a MotorCycle (WantsOne)
+Buyer Chewy-26 decided not to buy.
+No one quit today!
+Vehicles in inventory 18
+Vehicles sold count 57
+Money in the budget $2,697,075.29
+Current interns:
+Lucy-2   salary: 60.0   bonuses: 0.0
+Fred-3   salary: 60.0   bonuses: 275.0
+Ethel-3   salary: 60.0   bonuses: 220.0
+Current Mechanics:
+James   salary: 120.0   bonuses: 6725.0
+Spock   salary: 120.0   bonuses: 6575.0
+Desi   salary: 120.0   bonuses: 1700.0
+Current SalesPeople:
+Phoebe   salary: 90.0   bonuses: 16575.0
+Ethel-2   salary: 90.0   bonuses: 9150.0
+Fred-2   salary: 90.0   bonuses: 5150.0
+Current Drivers:
+Eddie   win count: 2   salary: 100.0   bonuses400.0
+Montez   win count: 0   salary: 100.0   bonuses0.0
+Jessica   win count: 1   salary: 100.0   bonuses200.0
+Current cars:
+Escort-2   sales price: 21491.25   cleanliness: Clean   condition: LikeNew   win count: 0
+Escort-3   sales price: 20306.0   cleanliness: Dirty   condition: LikeNew   win count: 0
+Current Pickups:
+F-250-2   sales price: 19048.125   cleanliness: Clean   condition: LikeNew   win count: 0
+Current Performance Cars:
+Mustang-3   sales price: 40748.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Europa-4   sales price: 41168.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Mustang-4   sales price: 44175.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Current electric cars:
+Mustang Mach   sales price: 51662.0   cleanliness: Sparkling   condition: LikeNew   win count: 0
+Prius-3   sales price: 50188.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Prius-4   sales price: 77456.25   cleanliness: Sparkling   condition: LikeNew   win count: 0
+Tesla-4   sales price: 66270.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Current motorcycles:
+Suzuki-2   sales price: 33568.125   cleanliness: Clean   condition: LikeNew   win count: 0
+Ducati-2   sales price: 46056.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Yamaha-3   sales price: 67082.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Suzuki-3   sales price: 55181.25   cleanliness: Clean   condition: LikeNew   win count: 0
+Current monster trucks:
+Cyborg   sales price: 56320.0   cleanliness: Clean   condition: LikeNew   win count: 0
+El Toro Loco   sales price: 41248.125   cleanliness: Clean   condition: LikeNew   win count: 0
+Predator   sales price: 50248.0   cleanliness: Clean   condition: LikeNew   win count: 0
+The Destroyer   sales price: 100226.0   cleanliness: Clean   condition: LikeNew   win count: 0
+That's it for the day.
+
+
+
+
+
+
+
+
+
+
+
+
+>>> End Simulation Day 24 Sat
+
+src.Tracker: Day 24
+Total money earned by all Staff: $26640.0
+Total money earned by the FNCD: $1973715.2941937502
+>>> Start Simulation Day 25 Sun
+The FNCD is opening...
+Bought Taurus-3, a Dirty LikeNew Car for $18,966.00
+Bought Fiesta-3, a Dirty Used Car for $8,182.40
+Bought Cayman-5, a Dirty Used PerfCar for $24,407.20
+Bought Tundra-3, a Clean Broken Pickup for $16,282.50
+Bought Ranger-4, a Clean Broken Pickup for $18,774.00
+Bought F-250-4, a Dirty Broken Pickup for $13,850.50
+The FNCD interns are washing...
+The elbow grease method is being used for this wash.
+Lucy-2 made the Escort-3 go from Dirty to Clean
+Lucy-2 made the Taurus-3 go from Dirty to Clean
+The detailed method is being used for this wash.
+Fred-3 made the Fiesta-3 go from Dirty to Clean
+Fred-3 made the Cayman-5 go from Dirty to Clean
+The chemical method is being used for this wash.
+Ethel-3 made the F-250-4 go from Dirty to Clean
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $100.00!
+Mechanic James fixed Fiesta-3 Used to LikeNew
+Mechanic James did not fix the Used Cayman-5
+Mechanic Spock got a bonus of $300.00!
+Mechanic Spock fixed Cayman-5 Used to LikeNew
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Tundra-3 Broken to Used
+Mechanic Desi got a bonus of $200.00!
+Mechanic Desi fixed Tundra-3 Used to LikeNew
+Mechanic Desi got a bonus of $200.00!
+Mechanic Desi fixed Ranger-4 Broken to Used
+The FNCD salespeople are selling...
+The FNCD has 5 buyers today...
+Buyer Luke-27 wants a ElectricCar (JustLooking)
+Buyer Luke-27 decided not to buy.
+Buyer Leia-27 wants a Pickup (NeedsOne)
+Buyer Leia-27 decided not to buy.
+Buyer Han-27 wants a PerfCar (JustLooking)
+Buyer Han-27 is buying! Salesperson Ethel-2 gets a bonus of $1,000.00!
+Buyer Han-27 is buying Cayman-5 for $61,018.00
+0.08270941967290202
+Buyer Han-27 added Extended Warranty for $12,203.60
+0.515746918437178
+0.9893239996438674
+0.35710615055027917
+Buyer Han-27 bought Dirty LikeNew Cayman-5 for $73,221.60
+Buyer Chewy-27 wants a MotorCycle (NeedsOne)
+Buyer Chewy-27 decided not to buy.
+Buyer Luke-28 wants a MotorCycle (WantsOne)
+Buyer Luke-28 decided not to buy.
+The driver Eddie will be driving a MotorCycle named Suzuki-2 in the race!
+The driver Montez will be driving a MonsterTruck named Cyborg in the race!
+The driver Jessica will be driving a MonsterTruck named El Toro Loco in the race!
+Eddie placed 18 out of 20 driving the Suzuki-2
+Eddie placed bottom 5.
+Suzuki-2 has become broken as a result of poor placement in the race!
+Montez placed 5 out of 20 driving the Cyborg
+Jessica placed 17 out of 20 driving the El Toro Loco
+Jessica placed bottom 5.
+El Toro Loco has become broken as a result of poor placement in the race!
+The mechanic Spock quit the FNCD!
+The intern Ethel-3 will be promoted to Mechanic!
+Vehicles in inventory 23
+Vehicles sold count 58
+Money in the budget $2,668,724.29
+Current interns:
+Lucy-2   salary: 60.0   bonuses: 0.0
+Fred-3   salary: 60.0   bonuses: 275.0
+Current Mechanics:
+James   salary: 120.0   bonuses: 6825.0
+Desi   salary: 120.0   bonuses: 2100.0
+Ethel-3   salary: 120.0   bonuses: 0.0
+Current SalesPeople:
+Phoebe   salary: 90.0   bonuses: 16575.0
+Ethel-2   salary: 90.0   bonuses: 10150.0
+Fred-2   salary: 90.0   bonuses: 5150.0
+Current Drivers:
+Eddie   win count: 2   salary: 100.0   bonuses400.0
+Montez   win count: 0   salary: 100.0   bonuses0.0
+Jessica   win count: 1   salary: 100.0   bonuses200.0
+Current cars:
+Escort-2   sales price: 21491.25   cleanliness: Clean   condition: LikeNew   win count: 0
+Escort-3   sales price: 20306.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Taurus-3   sales price: 37932.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Fiesta-3   sales price: 20456.0   cleanliness: Dirty   condition: LikeNew   win count: 0
+Current Pickups:
+F-250-2   sales price: 19048.125   cleanliness: Clean   condition: LikeNew   win count: 0
+Tundra-3   sales price: 61059.375   cleanliness: Dirty   condition: LikeNew   win count: 0
+Ranger-4   sales price: 56322.0   cleanliness: Dirty   condition: Used   win count: 0
+F-250-4   sales price: 27701.0   cleanliness: Clean   condition: Broken   win count: 0
+Current Performance Cars:
+Mustang-3   sales price: 40748.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Europa-4   sales price: 41168.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Mustang-4   sales price: 44175.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Current electric cars:
+Mustang Mach   sales price: 51662.0   cleanliness: Sparkling   condition: LikeNew   win count: 0
+Prius-3   sales price: 50188.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Prius-4   sales price: 77456.25   cleanliness: Sparkling   condition: LikeNew   win count: 0
+Tesla-4   sales price: 66270.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Current motorcycles:
+Suzuki-2   sales price: 33568.125   cleanliness: Clean   condition: Broken   win count: 0
+Ducati-2   sales price: 46056.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Yamaha-3   sales price: 67082.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Suzuki-3   sales price: 55181.25   cleanliness: Clean   condition: LikeNew   win count: 0
+Current monster trucks:
+Cyborg   sales price: 56320.0   cleanliness: Clean   condition: LikeNew   win count: 0
+El Toro Loco   sales price: 41248.125   cleanliness: Clean   condition: Broken   win count: 0
+Predator   sales price: 50248.0   cleanliness: Clean   condition: LikeNew   win count: 0
+The Destroyer   sales price: 100226.0   cleanliness: Clean   condition: LikeNew   win count: 0
+That's it for the day.
+
+
+
+
+
+
+
+
+
+
+
+>>> End Simulation Day 25 Sun
+
+src.Tracker: Day 25
+Total money earned by all Staff: $27750.0
+Total money earned by the FNCD: $1946474.2941937505
+>>> Start Simulation Day 26 Mon
+The FNCD is opening...
+The intern Lucy-3 has been assigned the detailed wash method!
+Hired a new Intern named Lucy-3
+Bought Corvette-5, a Clean Used PerfCar for $24,333.60
+The FNCD interns are washing...
+The elbow grease method is being used for this wash.
+Lucy-2 made the Fiesta-3 go from Dirty to Clean
+InternLucy-2 made the Tundra-3 go from Dirty to Sparkling. They earned a bonus of: 75.0
+The detailed method is being used for this wash.
+Fred-3 made the Ranger-4 go from Dirty to Clean
+InternFred-3 made the Corvette-5 go from Clean to Sparkling. They earned a bonus of: 100.0
+The detailed method is being used for this wash.
+InternLucy-3 made the Suzuki-2 go from Clean to Sparkling. They earned a bonus of: 50.0
+InternLucy-3 made the El Toro Loco go from Clean to Sparkling. They earned a bonus of: 100.0
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $175.00!
+Mechanic James fixed Suzuki-2 Broken to Used
+Mechanic James got a bonus of $250.00!
+Mechanic James fixed El Toro Loco Broken to Used
+Mechanic Desi got a bonus of $175.00!
+Mechanic Desi fixed Suzuki-2 Used to LikeNew
+Mechanic Desi got a bonus of $250.00!
+Mechanic Desi fixed El Toro Loco Used to LikeNew
+Mechanic Ethel-3 did not fix the Used Ranger-4
+Mechanic Ethel-3 got a bonus of $200.00!
+Mechanic Ethel-3 fixed F-250-4 Broken to Used
+The FNCD salespeople are selling...
+The FNCD has 2 buyers today...
+Buyer Leia-28 wants a ElectricCar (WantsOne)
+Buyer Leia-28 is buying! Salesperson Ethel-2 gets a bonus of $900.00!
+Buyer Leia-28 is buying Prius-4 for $77,456.25
+0.2140862502150913
+Buyer Leia-28 added Extended Warranty for $15,491.25
+0.9985228326880455
+0.4810714135174877
+0.38272078460885395
+Buyer Leia-28 bought Sparkling LikeNew Prius-4 for $92,947.50
+Buyer Han-28 wants a Pickup (JustLooking)
+Buyer Han-28 is buying! Salesperson Ethel-2 gets a bonus of $750.00!
+Buyer Han-28 is buying Tundra-3 for $61,059.38
+0.2417876846313003
+Buyer Han-28 added Extended Warranty for $12,211.88
+0.34608817767514344
+0.4426839405995764
+0.09367708361547333
+Buyer Han-28 added src.Undercoating for $3,663.56
+Buyer Han-28 bought Sparkling LikeNew Tundra-3 for $76,934.81
+No one quit today!
+Vehicles in inventory 22
+Vehicles sold count 60
+Money in the budget $2,813,163.01
+Current interns:
+Lucy-2   salary: 60.0   bonuses: 75.0
+Fred-3   salary: 60.0   bonuses: 375.0
+Lucy-3   salary: 60.0   bonuses: 150.0
+Current Mechanics:
+James   salary: 120.0   bonuses: 7250.0
+Desi   salary: 120.0   bonuses: 2525.0
+Ethel-3   salary: 120.0   bonuses: 200.0
+Current SalesPeople:
+Phoebe   salary: 90.0   bonuses: 16575.0
+Ethel-2   salary: 90.0   bonuses: 11800.0
+Fred-2   salary: 90.0   bonuses: 5150.0
+Current Drivers:
+Eddie   win count: 2   salary: 100.0   bonuses400.0
+Montez   win count: 0   salary: 100.0   bonuses0.0
+Jessica   win count: 1   salary: 100.0   bonuses200.0
+Current cars:
+Escort-2   sales price: 21491.25   cleanliness: Clean   condition: LikeNew   win count: 0
+Escort-3   sales price: 20306.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Taurus-3   sales price: 37932.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Fiesta-3   sales price: 20456.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Current Pickups:
+F-250-2   sales price: 19048.125   cleanliness: Clean   condition: LikeNew   win count: 0
+Ranger-4   sales price: 56322.0   cleanliness: Dirty   condition: Used   win count: 0
+F-250-4   sales price: 41551.5   cleanliness: Dirty   condition: Used   win count: 0
+Current Performance Cars:
+Mustang-3   sales price: 40748.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Europa-4   sales price: 41168.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Mustang-4   sales price: 44175.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Corvette-5   sales price: 48667.200000000004   cleanliness: Sparkling   condition: Used   win count: 0
+Current electric cars:
+Mustang Mach   sales price: 51662.0   cleanliness: Sparkling   condition: LikeNew   win count: 0
+Prius-3   sales price: 50188.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Tesla-4   sales price: 66270.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Current motorcycles:
+Suzuki-2   sales price: 62940.234375   cleanliness: Dirty   condition: LikeNew   win count: 0
+Ducati-2   sales price: 46056.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Yamaha-3   sales price: 67082.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Suzuki-3   sales price: 55181.25   cleanliness: Clean   condition: LikeNew   win count: 0
+Current monster trucks:
+Cyborg   sales price: 56320.0   cleanliness: Clean   condition: LikeNew   win count: 0
+El Toro Loco   sales price: 77340.234375   cleanliness: Dirty   condition: LikeNew   win count: 0
+Predator   sales price: 50248.0   cleanliness: Clean   condition: LikeNew   win count: 0
+The Destroyer   sales price: 100226.0   cleanliness: Clean   condition: LikeNew   win count: 0
+That's it for the day.
+
+
+
+
+
+
+
+
+
+
+
+
+>>> End Simulation Day 26 Mon
+
+src.Tracker: Day 26
+Total money earned by all Staff: $28860.0
+Total money earned by the FNCD: $2092023.0066937504
+>>> Start Simulation Day 27 Tue
+The FNCD is opening...
+Bought Colorado-4, a Dirty LikeNew Pickup for $35,028.00
+Bought Bolt-4, a Dirty Used ElectricCar for $24,341.60
+The FNCD interns are washing...
+The elbow grease method is being used for this wash.
+The detailed method is being used for this wash.
+The detailed method is being used for this wash.
+Lucy-3 made the Suzuki-2 go from Dirty to Clean
+Lucy-3 made the El Toro Loco go from Dirty to Clean
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Ranger-4 Used to LikeNew
+Mechanic James did not fix the Used F-250-4
+Mechanic Desi got a bonus of $200.00!
+Mechanic Desi fixed F-250-4 Used to LikeNew
+Mechanic Desi got a bonus of $300.00!
+Mechanic Desi fixed Corvette-5 Used to LikeNew
+Mechanic Ethel-3 did not fix the Used Bolt-4
+The FNCD salespeople are selling...
+The FNCD has 0 buyers today...
+No one quit today!
+Vehicles in inventory 24
+Vehicles sold count 60
+Money in the budget $2,752,683.41
+Current interns:
+Lucy-2   salary: 60.0   bonuses: 75.0
+Fred-3   salary: 60.0   bonuses: 375.0
+Lucy-3   salary: 60.0   bonuses: 150.0
+Current Mechanics:
+James   salary: 120.0   bonuses: 7450.0
+Desi   salary: 120.0   bonuses: 3025.0
+Ethel-3   salary: 120.0   bonuses: 200.0
+Current SalesPeople:
+Phoebe   salary: 90.0   bonuses: 16575.0
+Ethel-2   salary: 90.0   bonuses: 11800.0
+Fred-2   salary: 90.0   bonuses: 5150.0
+Current Drivers:
+Eddie   win count: 2   salary: 100.0   bonuses400.0
+Montez   win count: 0   salary: 100.0   bonuses0.0
+Jessica   win count: 1   salary: 100.0   bonuses200.0
+Current cars:
+Escort-2   sales price: 21491.25   cleanliness: Clean   condition: LikeNew   win count: 0
+Escort-3   sales price: 20306.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Taurus-3   sales price: 37932.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Fiesta-3   sales price: 20456.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Current Pickups:
+F-250-2   sales price: 19048.125   cleanliness: Clean   condition: LikeNew   win count: 0
+Ranger-4   sales price: 70402.5   cleanliness: Dirty   condition: LikeNew   win count: 0
+F-250-4   sales price: 51939.375   cleanliness: Dirty   condition: LikeNew   win count: 0
+Colorado-4   sales price: 70056.0   cleanliness: Dirty   condition: LikeNew   win count: 0
+Current Performance Cars:
+Mustang-3   sales price: 40748.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Europa-4   sales price: 41168.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Mustang-4   sales price: 44175.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Corvette-5   sales price: 60834.00000000001   cleanliness: Clean   condition: LikeNew   win count: 0
+Current electric cars:
+Mustang Mach   sales price: 51662.0   cleanliness: Sparkling   condition: LikeNew   win count: 0
+Prius-3   sales price: 50188.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Tesla-4   sales price: 66270.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Bolt-4   sales price: 48683.200000000004   cleanliness: Dirty   condition: Used   win count: 0
+Current motorcycles:
+Suzuki-2   sales price: 62940.234375   cleanliness: Clean   condition: LikeNew   win count: 0
+Ducati-2   sales price: 46056.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Yamaha-3   sales price: 67082.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Suzuki-3   sales price: 55181.25   cleanliness: Clean   condition: LikeNew   win count: 0
+Current monster trucks:
+Cyborg   sales price: 56320.0   cleanliness: Clean   condition: LikeNew   win count: 0
+El Toro Loco   sales price: 77340.234375   cleanliness: Clean   condition: LikeNew   win count: 0
+Predator   sales price: 50248.0   cleanliness: Clean   condition: LikeNew   win count: 0
+The Destroyer   sales price: 100226.0   cleanliness: Clean   condition: LikeNew   win count: 0
+That's it for the day.
+
+
+
+
+
+
+
+
+
+
+
+
+>>> End Simulation Day 27 Tue
+
+src.Tracker: Day 27
+Total money earned by all Staff: $29970.0
+Total money earned by the FNCD: $2032653.4066937503
+>>> Start Simulation Day 28 Wed
+The FNCD is opening...
+The FNCD interns are washing...
+The elbow grease method is being used for this wash.
+Lucy-2 made the Ranger-4 go from Dirty to Clean
+Lucy-2 made the F-250-4 go from Dirty to Clean
+The detailed method is being used for this wash.
+Fred-3 made the Colorado-4 go from Dirty to Clean
+Fred-3 made the Bolt-4 go from Dirty to Clean
+The detailed method is being used for this wash.
+InternLucy-3 made the Bolt-4 go from Clean to Sparkling. They earned a bonus of: 100.0
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $250.00!
+Mechanic James fixed Bolt-4 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 4 buyers today...
+Buyer Chewy-28 wants a Car (NeedsOne)
+Buyer Chewy-28 decided not to buy.
+Buyer Luke-29 wants a MonsterTruck (NeedsOne)
+Buyer Luke-29 is buying! Salesperson Phoebe gets a bonus of $875.00!
+Buyer Luke-29 is buying The Destroyer for $100,226.00
+0.5760355808961859
+0.008900247888987911
+Buyer Luke-29 added Road Rescue Coverage for $2,004.52
+0.1920468157983405
+Buyer Luke-29 added Satellite Radio for $5,111.53
+0.7887687522688391
+Buyer Luke-29 bought Clean LikeNew The Destroyer for $107,342.05
+Buyer Leia-29 wants a Car (JustLooking)
+Buyer Leia-29 is buying! Salesperson Phoebe gets a bonus of $500.00!
+Buyer Leia-29 is buying Taurus-3 for $37,932.00
+0.01657368442506968
+Buyer Leia-29 added Extended Warranty for $7,586.40
+0.7806893695228823
+0.8326378353185822
+0.3953538557986255
+Buyer Leia-29 bought Clean LikeNew Taurus-3 for $45,518.40
+Buyer Han-29 wants a MonsterTruck (JustLooking)
+Buyer Han-29 decided not to buy.
+The driver Eddie will be driving a MotorCycle named Suzuki-2 in the race!
+The driver Montez will be driving a MonsterTruck named Cyborg in the race!
+The driver Jessica will be driving a MonsterTruck named El Toro Loco in the race!
+Eddie placed 18 out of 20 driving the Suzuki-2
+Eddie placed bottom 5.
+Suzuki-2 has become broken as a result of poor placement in the race!
+Montez placed 17 out of 20 driving the Cyborg
+Montez placed bottom 5.
+Cyborg has become broken as a result of poor placement in the race!
+Montez got injured, and is retired.
+Jessica placed 12 out of 20 driving the El Toro Loco
+The mechanic Ethel-3 quit the FNCD!
+The intern Lucy-2 will be promoted to Mechanic!
+Vehicles in inventory 22
+Vehicles sold count 62
+Money in the budget $2,904,533.85
+Current interns:
+Fred-3   salary: 60.0   bonuses: 375.0
+Lucy-3   salary: 60.0   bonuses: 250.0
+Current Mechanics:
+James   salary: 120.0   bonuses: 7700.0
+Desi   salary: 120.0   bonuses: 3025.0
+Lucy-2   salary: 120.0   bonuses: 0.0
+Current SalesPeople:
+Phoebe   salary: 90.0   bonuses: 17950.0
+Ethel-2   salary: 90.0   bonuses: 11800.0
+Fred-2   salary: 90.0   bonuses: 5150.0
+Current Drivers:
+Eddie   win count: 2   salary: 100.0   bonuses400.0
+Jessica   win count: 1   salary: 100.0   bonuses200.0
+Current cars:
+Escort-2   sales price: 21491.25   cleanliness: Clean   condition: LikeNew   win count: 0
+Escort-3   sales price: 20306.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Fiesta-3   sales price: 20456.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Current Pickups:
+F-250-2   sales price: 19048.125   cleanliness: Clean   condition: LikeNew   win count: 0
+Ranger-4   sales price: 70402.5   cleanliness: Clean   condition: LikeNew   win count: 0
+F-250-4   sales price: 51939.375   cleanliness: Clean   condition: LikeNew   win count: 0
+Colorado-4   sales price: 70056.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Current Performance Cars:
+Mustang-3   sales price: 40748.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Europa-4   sales price: 41168.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Mustang-4   sales price: 44175.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Corvette-5   sales price: 60834.00000000001   cleanliness: Clean   condition: LikeNew   win count: 0
+Current electric cars:
+Mustang Mach   sales price: 51662.0   cleanliness: Sparkling   condition: LikeNew   win count: 0
+Prius-3   sales price: 50188.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Tesla-4   sales price: 66270.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Bolt-4   sales price: 60854.00000000001   cleanliness: Clean   condition: LikeNew   win count: 0
+Current motorcycles:
+Suzuki-2   sales price: 62940.234375   cleanliness: Clean   condition: Broken   win count: 0
+Ducati-2   sales price: 46056.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Yamaha-3   sales price: 67082.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Suzuki-3   sales price: 55181.25   cleanliness: Clean   condition: LikeNew   win count: 0
+Current monster trucks:
+Cyborg   sales price: 56320.0   cleanliness: Clean   condition: Broken   win count: 0
+El Toro Loco   sales price: 77340.234375   cleanliness: Clean   condition: LikeNew   win count: 0
+Predator   sales price: 50248.0   cleanliness: Clean   condition: LikeNew   win count: 0
+That's it for the day.
+
+
+
+
+
+
+
+
+
+
+>>> End Simulation Day 28 Wed
+
+src.Tracker: Day 28
+Total money earned by all Staff: $30980.0
+Total money earned by the FNCD: $2185513.85269375
+>>> Start Simulation Day 29 Thur
+The FNCD is opening...
+The intern Desi-3 has been assigned the elbow grease wash method!
+Hired a new Intern named Desi-3
+Hired a new Driver named Rohan
+Bought Probe-4, a Dirty Broken Car for $5,786.00
+Bought Zombie, a Clean Broken MonsterTruck for $15,278.50
+The FNCD interns are washing...
+The detailed method is being used for this wash.
+Fred-3 made the Probe-4 go from Dirty to Clean
+InternFred-3 made the Zombie go from Clean to Sparkling. They earned a bonus of: 100.0
+The detailed method is being used for this wash.
+InternLucy-3 made the Suzuki-2 go from Clean to Sparkling. They earned a bonus of: 50.0
+InternLucy-3 made the El Toro Loco go from Clean to Sparkling. They earned a bonus of: 100.0
+The elbow grease method is being used for this wash.
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $175.00!
+Mechanic James fixed Suzuki-2 Broken to Used
+Mechanic James got a bonus of $250.00!
+Mechanic James fixed Cyborg Broken to Used
+Mechanic Desi got a bonus of $175.00!
+Mechanic Desi fixed Suzuki-2 Used to LikeNew
+Mechanic Desi got a bonus of $250.00!
+Mechanic Desi fixed Cyborg Used to LikeNew
+Mechanic Lucy-2 got a bonus of $100.00!
+Mechanic Lucy-2 fixed Probe-4 Broken to Used
+Mechanic Lucy-2 got a bonus of $250.00!
+Mechanic Lucy-2 fixed Zombie Broken to Used
+The FNCD salespeople are selling...
+The FNCD has 4 buyers today...
+Buyer Chewy-29 wants a PerfCar (JustLooking)
+Buyer Chewy-29 decided not to buy.
+Buyer Luke-30 wants a MonsterTruck (JustLooking)
+Buyer Luke-30 decided not to buy.
+Buyer Leia-30 wants a MonsterTruck (JustLooking)
+Buyer Leia-30 decided not to buy.
+Buyer Han-30 wants a Car (NeedsOne)
+Buyer Han-30 decided not to buy.
+No one quit today!
+Vehicles in inventory 24
+Vehicles sold count 62
+Money in the budget $2,882,359.35
+Current interns:
+Fred-3   salary: 60.0   bonuses: 475.0
+Lucy-3   salary: 60.0   bonuses: 400.0
+Desi-3   salary: 60.0   bonuses: 0.0
+Current Mechanics:
+James   salary: 120.0   bonuses: 8125.0
+Desi   salary: 120.0   bonuses: 3450.0
+Lucy-2   salary: 120.0   bonuses: 350.0
+Current SalesPeople:
+Phoebe   salary: 90.0   bonuses: 17950.0
+Ethel-2   salary: 90.0   bonuses: 11800.0
+Fred-2   salary: 90.0   bonuses: 5150.0
+Current Drivers:
+Eddie   win count: 2   salary: 100.0   bonuses400.0
+Jessica   win count: 1   salary: 100.0   bonuses200.0
+Rohan   win count: 0   salary: 100.0   bonuses0.0
+Current cars:
+Escort-2   sales price: 21491.25   cleanliness: Clean   condition: LikeNew   win count: 0
+Escort-3   sales price: 20306.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Fiesta-3   sales price: 20456.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Probe-4   sales price: 17358.0   cleanliness: Dirty   condition: Used   win count: 0
+Current Pickups:
+F-250-2   sales price: 19048.125   cleanliness: Clean   condition: LikeNew   win count: 0
+Ranger-4   sales price: 70402.5   cleanliness: Clean   condition: LikeNew   win count: 0
+F-250-4   sales price: 51939.375   cleanliness: Clean   condition: LikeNew   win count: 0
+Colorado-4   sales price: 70056.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Current Performance Cars:
+Mustang-3   sales price: 40748.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Europa-4   sales price: 41168.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Mustang-4   sales price: 44175.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Corvette-5   sales price: 60834.00000000001   cleanliness: Clean   condition: LikeNew   win count: 0
+Current electric cars:
+Mustang Mach   sales price: 51662.0   cleanliness: Sparkling   condition: LikeNew   win count: 0
+Prius-3   sales price: 50188.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Tesla-4   sales price: 66270.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Bolt-4   sales price: 60854.00000000001   cleanliness: Clean   condition: LikeNew   win count: 0
+Current motorcycles:
+Suzuki-2   sales price: 118012.939453125   cleanliness: Dirty   condition: LikeNew   win count: 0
+Ducati-2   sales price: 46056.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Yamaha-3   sales price: 67082.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Suzuki-3   sales price: 55181.25   cleanliness: Clean   condition: LikeNew   win count: 0
+Current monster trucks:
+Cyborg   sales price: 105600.0   cleanliness: Dirty   condition: LikeNew   win count: 0
+El Toro Loco   sales price: 77340.234375   cleanliness: Sparkling   condition: LikeNew   win count: 0
+Predator   sales price: 50248.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Zombie   sales price: 45835.5   cleanliness: Clean   condition: Used   win count: 0
+That's it for the day.
+
+
+
+
+
+
+
+
+
+
+
+
+>>> End Simulation Day 29 Thur
+
+src.Tracker: Day 29
+Total money earned by all Staff: $32090.0
+Total money earned by the FNCD: $2164449.35269375
+>>> Start Simulation Day 30 Fri
+The FNCD is opening...
+The FNCD interns are washing...
+The detailed method is being used for this wash.
+Fred-3 made the Suzuki-2 go from Dirty to Clean
+Fred-3 made the Probe-4 go from Dirty to Clean
+The detailed method is being used for this wash.
+Lucy-3 made the Cyborg go from Dirty to Clean
+InternLucy-3 made the Zombie go from Clean to Sparkling. They earned a bonus of: 100.0
+The elbow grease method is being used for this wash.
+Desi-3 made the Suzuki-2 go from Clean to Dirty
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $100.00!
+Mechanic James fixed Probe-4 Used to LikeNew
+Mechanic James got a bonus of $250.00!
+Mechanic James fixed Zombie Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 6 buyers today...
+Buyer Chewy-30 wants a ElectricCar (NeedsOne)
+Buyer Chewy-30 is buying! Salesperson Fred-2 gets a bonus of $900.00!
+Buyer Chewy-30 is buying Tesla-4 for $66,270.00
+0.11932105018047778
+Buyer Chewy-30 added Extended Warranty for $13,254.00
+0.3019548757471222
+0.18444517109901326
+Buyer Chewy-30 added Satellite Radio for $3,976.20
+0.3633490713173442
+Buyer Chewy-30 bought Clean LikeNew Tesla-4 for $83,500.20
+Buyer Luke-31 wants a Pickup (JustLooking)
+Buyer Luke-31 decided not to buy.
+Buyer Leia-31 wants a PerfCar (JustLooking)
+Buyer Leia-31 is buying! Salesperson Phoebe gets a bonus of $1,000.00!
+Buyer Leia-31 is buying Corvette-5 for $60,834.00
+0.6252316691357942
+0.5102496648198231
+0.621294123514579
+0.5171898899598987
+Buyer Leia-31 bought Clean LikeNew Corvette-5 for $60,834.00
+Buyer Han-31 wants a Car (JustLooking)
+Buyer Han-31 decided not to buy.
+Buyer Chewy-31 wants a PerfCar (JustLooking)
+Buyer Chewy-31 decided not to buy.
+Buyer Luke-32 wants a MonsterTruck (WantsOne)
+Buyer Luke-32 is buying! Salesperson Fred-2 gets a bonus of $875.00!
+Buyer Luke-32 is buying Cyborg for $105,600.00
+0.7074579740152664
+0.8100217327273168
+0.1177228515226465
+Buyer Luke-32 added Satellite Radio for $5,280.00
+0.5314428469107311
+Buyer Luke-32 bought Clean LikeNew Cyborg for $110,880.00
+No one quit today!
+Vehicles in inventory 21
+Vehicles sold count 65
+Money in the budget $3,136,463.55
+Current interns:
+Fred-3   salary: 60.0   bonuses: 475.0
+Lucy-3   salary: 60.0   bonuses: 500.0
+Desi-3   salary: 60.0   bonuses: 0.0
+Current Mechanics:
+James   salary: 120.0   bonuses: 8475.0
+Desi   salary: 120.0   bonuses: 3450.0
+Lucy-2   salary: 120.0   bonuses: 350.0
+Current SalesPeople:
+Phoebe   salary: 90.0   bonuses: 18950.0
+Ethel-2   salary: 90.0   bonuses: 11800.0
+Fred-2   salary: 90.0   bonuses: 6925.0
+Current Drivers:
+Eddie   win count: 2   salary: 100.0   bonuses400.0
+Jessica   win count: 1   salary: 100.0   bonuses200.0
+Rohan   win count: 0   salary: 100.0   bonuses0.0
+Current cars:
+Escort-2   sales price: 21491.25   cleanliness: Clean   condition: LikeNew   win count: 0
+Escort-3   sales price: 20306.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Fiesta-3   sales price: 20456.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Probe-4   sales price: 21697.5   cleanliness: Dirty   condition: LikeNew   win count: 0
+Current Pickups:
+F-250-2   sales price: 19048.125   cleanliness: Clean   condition: LikeNew   win count: 0
+Ranger-4   sales price: 70402.5   cleanliness: Clean   condition: LikeNew   win count: 0
+F-250-4   sales price: 51939.375   cleanliness: Clean   condition: LikeNew   win count: 0
+Colorado-4   sales price: 70056.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Current Performance Cars:
+Mustang-3   sales price: 40748.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Europa-4   sales price: 41168.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Mustang-4   sales price: 44175.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Current electric cars:
+Mustang Mach   sales price: 51662.0   cleanliness: Sparkling   condition: LikeNew   win count: 0
+Prius-3   sales price: 50188.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Bolt-4   sales price: 60854.00000000001   cleanliness: Clean   condition: LikeNew   win count: 0
+Current motorcycles:
+Suzuki-2   sales price: 118012.939453125   cleanliness: Dirty   condition: LikeNew   win count: 0
+Ducati-2   sales price: 46056.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Yamaha-3   sales price: 67082.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Suzuki-3   sales price: 55181.25   cleanliness: Clean   condition: LikeNew   win count: 0
+Current monster trucks:
+El Toro Loco   sales price: 77340.234375   cleanliness: Sparkling   condition: LikeNew   win count: 0
+Predator   sales price: 50248.0   cleanliness: Clean   condition: LikeNew   win count: 0
+Zombie   sales price: 57294.375   cleanliness: Clean   condition: LikeNew   win count: 0
+That's it for the day.
+
+
+
+
+
+
+
+
+
+
+
+
+>>> End Simulation Day 30 Fri
+
+src.Tracker: Day 30
+Total money earned by all Staff: $33200.0
+Total money earned by the FNCD: $2419663.5526937502
+Press any key to continue . . .

@@ -1,0 +1,568 @@
+-51421.0 : FNCD spent on new car
+InternEthel made the Taurus-2 go from Dirty to Sparkling. They earned a bonus of: 20.0
+Ethel made the Colorado-2 go from Dirty to Clean
+Fred-2 made the Tesla-3 go from Dirty to Clean
+Lucy-2 made the Snake Bite go from Dirty to Clean
+Lucy-2 made the Escort-2 go from Clean to Dirty
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Colorado-2 Used to LikeNew
+Buyer Chewy-15 is buying! Salesperson Phoebe gets a bonus of $600.00!
+Buyer Chewy-15 is buying Harley Davidson-3 for $60,744.00
+Buyer Chewy-15 bought Clean LikeNew Harley Davidson-3 for $60,744.00
+60744.0 : FNCD made money
+Eddie placed 3 out of 20 driving the Mustang
+Eddie made podium and won!
+Eddie earned a bonus of $200!
+Montez placed 14 out of 20 driving the Ranger
+Jessica placed 16 out of 20 driving the Yamaha-2
+Jessica placed bottom 5.
+Yamaha-2 has become broken as a result of poor placement in the race!
+60.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+90.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+90.0 : Staff expense
+120.0 : Staff expense
+60.0 : Staff expense
+90.0 : Staff expense
+60.0 : Staff expense
+-26832.800000000003 : FNCD spent on new car
+Ethel made the Escort-2 go from Dirty to Clean
+The intern Ethel accidently made the vehicle broken!
+Ethel made the Colorado-2 go from Dirty to Clean
+Fred-2 made the Escort-2 go from Clean to Dirty
+Lucy-2 made the Escort-2 go from Dirty to Clean
+Lucy-2 made the Yamaha-3 go from Dirty to Clean
+Mechanic James got a bonus of $175.00!
+Mechanic James fixed Yamaha-2 Broken to Used
+Mechanic James got a bonus of $175.00!
+Mechanic James fixed Yamaha-3 Used to LikeNew
+Mechanic Spock got a bonus of $175.00!
+Mechanic Spock fixed Yamaha-2 Used to LikeNew
+Buyer Han-16 is buying! Salesperson Fred gets a bonus of $1,000.00!
+Buyer Han-16 is buying Cayman-3 for $77,300.00
+Buyer Han-16 bought Clean LikeNew Cayman-3 for $81,165.00
+81165.0 : FNCD made money
+60.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+90.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+90.0 : Staff expense
+120.0 : Staff expense
+60.0 : Staff expense
+90.0 : Staff expense
+60.0 : Staff expense
+-12404.5 : FNCD spent on new car
+Ethel made the Yamaha-3 go from Dirty to Clean
+The intern Lucy-2 made the vehicle like new!
+Desi-2 made the Yamaha-2 go from Dirty to Clean
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Corvette-3 Broken to Used
+Mechanic Spock got a bonus of $300.00!
+Mechanic Spock fixed Corvette-3 Used to LikeNew
+Buyer Leia-17 is buying! Salesperson Fred-2 gets a bonus of $750.00!
+Buyer Leia-17 is buying Tundra-2 for $50,600.00
+Buyer Leia-17 bought Clean LikeNew Tundra-2 for $63,756.00
+63756.0 : FNCD made money
+Buyer Chewy-17 is buying! Salesperson Fred-2 gets a bonus of $1,000.00!
+Buyer Chewy-17 is buying Mustang for $53,644.14
+Buyer Chewy-17 bought Clean LikeNew Mustang for $56,326.35
+56326.34700000001 : FNCD made money
+Buyer Luke-18 is buying! Salesperson Ethel-2 gets a bonus of $1,000.00!
+Buyer Luke-18 is buying Cayman-2 for $50,760.00
+Buyer Luke-18 bought Clean LikeNew Cayman-2 for $53,298.00
+53298.0 : FNCD made money
+Buyer Leia-18 is buying! Salesperson Phoebe gets a bonus of $750.00!
+Buyer Leia-18 is buying Colorado-2 for $47,460.00
+Buyer Leia-18 bought Clean LikeNew Colorado-2 for $47,460.00
+47460.0 : FNCD made money
+60.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+90.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+120.0 : Staff expense
+90.0 : Staff expense
+60.0 : Staff expense
+90.0 : Staff expense
+60.0 : Staff expense
+-20374.0 : FNCD spent on new car
+-20584.0 : FNCD spent on new car
+-28319.2 : FNCD spent on new car
+-14369.6 : FNCD spent on new car
+Ethel made the F-250-3 go from Dirty to Clean
+Fred-3 made the Corvette-3 go from Dirty to Clean
+InternFred-3 made the F-250-3 go from Clean to Sparkling. They earned a bonus of: 75.0
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Ranger-3 Used to LikeNew
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed F-250-3 Used to LikeNew
+Buyer Luke-19 is buying! Salesperson Phoebe gets a bonus of $1,000.00!
+Buyer Luke-19 is buying Corvette-3 for $46,516.88
+Buyer Luke-19 bought Clean LikeNew Corvette-3 for $46,516.88
+46516.875 : FNCD made money
+Buyer Chewy-19 is buying! Salesperson Ethel-2 gets a bonus of $600.00!
+Buyer Chewy-19 is buying Yamaha-2 for $94,121.25
+Buyer Chewy-19 bought Clean LikeNew Yamaha-2 for $98,827.31
+98827.3125 : FNCD made money
+Buyer Han-20 is buying! Salesperson Phoebe gets a bonus of $1,000.00!
+Buyer Han-20 is buying Corvette-2 for $45,532.50
+Buyer Han-20 bought Clean LikeNew Corvette-2 for $57,370.95
+57370.95 : FNCD made money
+60.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+90.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+120.0 : Staff expense
+90.0 : Staff expense
+60.0 : Staff expense
+90.0 : Staff expense
+60.0 : Staff expense
+-22143.2 : FNCD spent on new car
+-24751.0 : FNCD spent on new car
+-14715.0 : FNCD spent on new car
+Lucy-2 made the Ranger-3 go from Dirty to Clean
+Lucy-2 made the Cayman-4 go from Dirty to Clean
+The intern Lucy-2 made the vehicle like new!
+InternFred-3 made the Corvette-4 go from Dirty to Sparkling. They earned a bonus of: 100.0
+Fred-3 made the Suzuki-3 go from Dirty to Clean
+Ethel-3 made the Probe go from Clean to Dirty
+Mechanic James did not fix the Used Cayman-4
+Mechanic James got a bonus of $175.00!
+Mechanic James fixed Suzuki-3 Broken to Used
+Mechanic Spock got a bonus of $300.00!
+Mechanic Spock fixed Cayman-4 Used to LikeNew
+Mechanic Spock got a bonus of $175.00!
+Mechanic Spock fixed Suzuki-3 Used to LikeNew
+Buyer Leia-21 is buying! Salesperson Phoebe gets a bonus of $900.00!
+Buyer Leia-21 is buying Tesla-3 for $84,695.62
+Buyer Leia-21 bought Clean LikeNew Tesla-3 for $106,716.49
+106716.4875 : FNCD made money
+Eddie placed 6 out of 20 driving the Ranger
+Montez placed 9 out of 20 driving the Suzuki-2
+Jessica placed 7 out of 20 driving the Cyborg
+120.0 : Staff expense
+120.0 : Staff expense
+90.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+120.0 : Staff expense
+90.0 : Staff expense
+60.0 : Staff expense
+90.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+-26585.600000000002 : FNCD spent on new car
+Lucy-2 made the Probe go from Dirty to Clean
+Fred-3 made the Cayman-4 go from Dirty to Clean
+Ethel-3 made the Suzuki-3 go from Dirty to Clean
+Mechanic James did not fix the Used Bolt-3
+Mechanic Spock got a bonus of $250.00!
+Mechanic Spock fixed Bolt-3 Used to LikeNew
+Buyer Han-21 is buying! Salesperson Phoebe gets a bonus of $900.00!
+Buyer Han-21 is buying Bolt-3 for $66,464.00
+Buyer Han-21 bought Dirty LikeNew Bolt-3 for $69,787.20
+69787.2 : FNCD made money
+Buyer Chewy-21 is buying! Salesperson Ethel-2 gets a bonus of $900.00!
+Buyer Chewy-21 is buying Tesla-2 for $52,800.00
+Buyer Chewy-21 bought Sparkling LikeNew Tesla-2 for $55,440.00
+55440.0 : FNCD made money
+120.0 : Staff expense
+120.0 : Staff expense
+90.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+120.0 : Staff expense
+90.0 : Staff expense
+60.0 : Staff expense
+90.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+-33273.6 : FNCD spent on new car
+-20655.0 : FNCD spent on new car
+Lucy-2 made the Prius-4 go from Dirty to Clean
+InternEthel-3 made the Probe go from Clean to Sparkling. They earned a bonus of: 20.0
+The intern Ethel-3 accidently made the vehicle broken!
+Mechanic James got a bonus of $250.00!
+Mechanic James fixed Mustang Mach-3 Used to LikeNew
+Mechanic James got a bonus of $250.00!
+Mechanic James fixed Prius-4 Broken to Used
+Mechanic Spock got a bonus of $250.00!
+Mechanic Spock fixed Prius-4 Used to LikeNew
+120.0 : Staff expense
+120.0 : Staff expense
+90.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+120.0 : Staff expense
+90.0 : Staff expense
+60.0 : Staff expense
+90.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+Lucy-2 made the Mustang Mach-3 go from Dirty to Clean
+Lucy-2 made the Prius-4 go from Dirty to Clean
+InternFred-3 made the Prius-4 go from Clean to Sparkling. They earned a bonus of: 100.0
+InternEthel-3 made the Mustang Mach go from Clean to Sparkling. They earned a bonus of: 100.0
+Buyer Luke-23 is buying! Salesperson Fred-2 gets a bonus of $900.00!
+Buyer Luke-23 is buying Mustang Mach-3 for $83,184.00
+Buyer Luke-23 bought Clean LikeNew Mustang Mach-3 for $83,184.00
+83184.0 : FNCD made money
+Buyer Leia-23 is buying! Salesperson Ethel-2 gets a bonus of $875.00!
+Buyer Leia-23 is buying Snake Bite for $102,842.00
+Buyer Leia-23 bought Clean LikeNew Snake Bite for $102,842.00
+102842.0 : FNCD made money
+Buyer Han-23 is buying! Salesperson Fred-2 gets a bonus of $1,000.00!
+Buyer Han-23 is buying Cayman-4 for $55,358.00
+Buyer Han-23 bought Clean LikeNew Cayman-4 for $58,125.90
+58125.9 : FNCD made money
+Eddie placed 13 out of 20 driving the Ranger
+Montez placed 5 out of 20 driving the Suzuki-2
+Jessica placed 7 out of 20 driving the Cyborg
+120.0 : Staff expense
+120.0 : Staff expense
+90.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+120.0 : Staff expense
+90.0 : Staff expense
+60.0 : Staff expense
+90.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+-11780.0 : FNCD spent on new car
+-26508.0 : FNCD spent on new car
+-40090.4 : FNCD spent on new car
+Fred-3 made the The Destroyer go from Dirty to Clean
+Ethel-3 made the Taurus go from Clean to Dirty
+InternEthel-3 made the The Destroyer go from Clean to Sparkling. They earned a bonus of: 100.0
+Mechanic James did not fix the Broken Mustang-4
+Mechanic James did not fix the Used Tesla-4
+Mechanic Spock got a bonus of $300.00!
+Mechanic Spock fixed Mustang-4 Broken to Used
+Mechanic Spock got a bonus of $250.00!
+Mechanic Spock fixed Tesla-4 Used to LikeNew
+Mechanic Desi did not fix the Used Mustang-4
+Mechanic Desi did not fix the Used The Destroyer
+120.0 : Staff expense
+120.0 : Staff expense
+90.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+120.0 : Staff expense
+90.0 : Staff expense
+60.0 : Staff expense
+90.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+Lucy-2 made the Mustang-4 go from Dirty to Clean
+Fred-3 made the Taurus go from Dirty to Clean
+Ethel-3 made the Tesla-4 go from Dirty to Clean
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Mustang-4 Used to LikeNew
+Mechanic James got a bonus of $250.00!
+Mechanic James fixed The Destroyer Used to LikeNew
+Buyer Luke-24 is buying! Salesperson Ethel-2 gets a bonus of $1,000.00!
+Buyer Luke-24 is buying Corvette-4 for $49,502.00
+Buyer Luke-24 bought Sparkling LikeNew Corvette-4 for $51,977.10
+51977.1 : FNCD made money
+Buyer Leia-24 is buying! Salesperson Ethel-2 gets a bonus of $500.00!
+Buyer Leia-24 is buying Taurus-2 for $31,994.00
+Buyer Leia-24 bought Sparkling LikeNew Taurus-2 for $32,633.88
+32633.88 : FNCD made money
+Buyer Han-24 is buying! Salesperson Phoebe gets a bonus of $500.00!
+Buyer Han-24 is buying Probe for $29,028.75
+Buyer Han-24 bought Sparkling LikeNew Probe for $30,480.19
+30480.1875 : FNCD made money
+Buyer Chewy-24 is buying! Salesperson Ethel-2 gets a bonus of $750.00!
+Buyer Chewy-24 is buying Ranger-3 for $70,798.00
+Buyer Chewy-24 bought Clean LikeNew Ranger-3 for $70,798.00
+70798.0 : FNCD made money
+Buyer Luke-25 is buying! Salesperson Phoebe gets a bonus of $500.00!
+Buyer Luke-25 is buying Taurus for $26,848.12
+Buyer Luke-25 bought Clean LikeNew Taurus for $26,848.12
+26848.125 : FNCD made money
+120.0 : Staff expense
+120.0 : Staff expense
+90.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+120.0 : Staff expense
+90.0 : Staff expense
+60.0 : Staff expense
+90.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+-10576.0 : FNCD spent on new car
+-10972.800000000001 : FNCD spent on new car
+-8122.400000000001 : FNCD spent on new car
+-30726.0 : FNCD spent on new car
+-27670.4 : FNCD spent on new car
+Lucy-2 made the Mustang-4 go from Dirty to Clean
+Lucy-2 made the The Destroyer go from Dirty to Clean
+Fred-3 made the Fiesta-2 go from Dirty to Clean
+Ethel-3 made the Europa-5 go from Dirty to Clean
+Mechanic James got a bonus of $100.00!
+Mechanic James fixed Fiesta-2 Used to LikeNew
+Mechanic James got a bonus of $100.00!
+Mechanic James fixed Probe-3 Used to LikeNew
+Mechanic Spock got a bonus of $100.00!
+Mechanic Spock fixed Escort-3 Used to LikeNew
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Colorado-3 Used to LikeNew
+Buyer Leia-25 is buying! Salesperson Ethel-2 gets a bonus of $500.00!
+Buyer Leia-25 is buying Probe-3 for $27,432.00
+Buyer Leia-25 bought Dirty LikeNew Probe-3 for $30,243.78
+30243.780000000006 : FNCD made money
+Buyer Han-25 is buying! Salesperson Phoebe gets a bonus of $750.00!
+Buyer Han-25 is buying Colorado-3 for $69,176.00
+Buyer Han-25 bought Dirty LikeNew Colorado-3 for $72,634.80
+72634.8 : FNCD made money
+Buyer Chewy-25 is buying! Salesperson Phoebe gets a bonus of $1,000.00!
+Buyer Chewy-25 is buying Europa-5 for $61,452.00
+Buyer Chewy-25 bought Clean LikeNew Europa-5 for $61,452.00
+61452.0 : FNCD made money
+Buyer Luke-26 is buying! Salesperson Ethel-2 gets a bonus of $500.00!
+Buyer Luke-26 is buying Fiesta-2 for $26,440.00
+Buyer Luke-26 bought Dirty LikeNew Fiesta-2 for $26,968.80
+26968.8 : FNCD made money
+Buyer Leia-26 is buying! Salesperson Fred-2 gets a bonus of $750.00!
+Buyer Leia-26 is buying F-250-3 for $35,924.00
+Buyer Leia-26 bought Clean LikeNew F-250-3 for $38,474.60
+38474.60400000001 : FNCD made money
+Buyer Han-26 is buying! Salesperson Fred-2 gets a bonus of $750.00!
+Buyer Han-26 is buying Ranger for $21,162.00
+Buyer Han-26 bought Clean LikeNew Ranger for $26,664.12
+26664.120000000006 : FNCD made money
+120.0 : Staff expense
+120.0 : Staff expense
+90.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+120.0 : Staff expense
+90.0 : Staff expense
+60.0 : Staff expense
+90.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+-18966.0 : FNCD spent on new car
+-8182.400000000001 : FNCD spent on new car
+-24407.2 : FNCD spent on new car
+-16282.5 : FNCD spent on new car
+-18774.0 : FNCD spent on new car
+-13850.5 : FNCD spent on new car
+Lucy-2 made the Escort-3 go from Dirty to Clean
+Lucy-2 made the Taurus-3 go from Dirty to Clean
+Fred-3 made the Fiesta-3 go from Dirty to Clean
+Fred-3 made the Cayman-5 go from Dirty to Clean
+Ethel-3 made the F-250-4 go from Dirty to Clean
+Mechanic James got a bonus of $100.00!
+Mechanic James fixed Fiesta-3 Used to LikeNew
+Mechanic James did not fix the Used Cayman-5
+Mechanic Spock got a bonus of $300.00!
+Mechanic Spock fixed Cayman-5 Used to LikeNew
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Tundra-3 Broken to Used
+Mechanic Desi got a bonus of $200.00!
+Mechanic Desi fixed Tundra-3 Used to LikeNew
+Mechanic Desi got a bonus of $200.00!
+Mechanic Desi fixed Ranger-4 Broken to Used
+Buyer Han-27 is buying! Salesperson Ethel-2 gets a bonus of $1,000.00!
+Buyer Han-27 is buying Cayman-5 for $61,018.00
+Buyer Han-27 bought Dirty LikeNew Cayman-5 for $73,221.60
+73221.6 : FNCD made money
+Eddie placed 18 out of 20 driving the Suzuki-2
+Eddie placed bottom 5.
+Suzuki-2 has become broken as a result of poor placement in the race!
+Montez placed 5 out of 20 driving the Cyborg
+Jessica placed 17 out of 20 driving the El Toro Loco
+Jessica placed bottom 5.
+El Toro Loco has become broken as a result of poor placement in the race!
+120.0 : Staff expense
+120.0 : Staff expense
+90.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+120.0 : Staff expense
+90.0 : Staff expense
+60.0 : Staff expense
+90.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+-24333.600000000002 : FNCD spent on new car
+Lucy-2 made the Fiesta-3 go from Dirty to Clean
+InternLucy-2 made the Tundra-3 go from Dirty to Sparkling. They earned a bonus of: 75.0
+Fred-3 made the Ranger-4 go from Dirty to Clean
+InternFred-3 made the Corvette-5 go from Clean to Sparkling. They earned a bonus of: 100.0
+InternLucy-3 made the Suzuki-2 go from Clean to Sparkling. They earned a bonus of: 50.0
+InternLucy-3 made the El Toro Loco go from Clean to Sparkling. They earned a bonus of: 100.0
+Mechanic James got a bonus of $175.00!
+Mechanic James fixed Suzuki-2 Broken to Used
+Mechanic James got a bonus of $250.00!
+Mechanic James fixed El Toro Loco Broken to Used
+Mechanic Desi got a bonus of $175.00!
+Mechanic Desi fixed Suzuki-2 Used to LikeNew
+Mechanic Desi got a bonus of $250.00!
+Mechanic Desi fixed El Toro Loco Used to LikeNew
+Mechanic Ethel-3 did not fix the Used Ranger-4
+Mechanic Ethel-3 got a bonus of $200.00!
+Mechanic Ethel-3 fixed F-250-4 Broken to Used
+Buyer Leia-28 is buying! Salesperson Ethel-2 gets a bonus of $900.00!
+Buyer Leia-28 is buying Prius-4 for $77,456.25
+Buyer Leia-28 bought Sparkling LikeNew Prius-4 for $92,947.50
+92947.5 : FNCD made money
+Buyer Han-28 is buying! Salesperson Ethel-2 gets a bonus of $750.00!
+Buyer Han-28 is buying Tundra-3 for $61,059.38
+Buyer Han-28 bought Sparkling LikeNew Tundra-3 for $76,934.81
+76934.8125 : FNCD made money
+120.0 : Staff expense
+90.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+120.0 : Staff expense
+90.0 : Staff expense
+60.0 : Staff expense
+90.0 : Staff expense
+60.0 : Staff expense
+120.0 : Staff expense
+60.0 : Staff expense
+-35028.0 : FNCD spent on new car
+-24341.600000000002 : FNCD spent on new car
+Lucy-3 made the Suzuki-2 go from Dirty to Clean
+Lucy-3 made the El Toro Loco go from Dirty to Clean
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Ranger-4 Used to LikeNew
+Mechanic James did not fix the Used F-250-4
+Mechanic Desi got a bonus of $200.00!
+Mechanic Desi fixed F-250-4 Used to LikeNew
+Mechanic Desi got a bonus of $300.00!
+Mechanic Desi fixed Corvette-5 Used to LikeNew
+Mechanic Ethel-3 did not fix the Used Bolt-4
+120.0 : Staff expense
+90.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+120.0 : Staff expense
+90.0 : Staff expense
+60.0 : Staff expense
+90.0 : Staff expense
+60.0 : Staff expense
+120.0 : Staff expense
+60.0 : Staff expense
+Lucy-2 made the Ranger-4 go from Dirty to Clean
+Lucy-2 made the F-250-4 go from Dirty to Clean
+Fred-3 made the Colorado-4 go from Dirty to Clean
+Fred-3 made the Bolt-4 go from Dirty to Clean
+InternLucy-3 made the Bolt-4 go from Clean to Sparkling. They earned a bonus of: 100.0
+Mechanic James got a bonus of $250.00!
+Mechanic James fixed Bolt-4 Used to LikeNew
+Buyer Luke-29 is buying! Salesperson Phoebe gets a bonus of $875.00!
+Buyer Luke-29 is buying The Destroyer for $100,226.00
+Buyer Luke-29 bought Clean LikeNew The Destroyer for $107,342.05
+107342.046 : FNCD made money
+Buyer Leia-29 is buying! Salesperson Phoebe gets a bonus of $500.00!
+Buyer Leia-29 is buying Taurus-3 for $37,932.00
+Buyer Leia-29 bought Clean LikeNew Taurus-3 for $45,518.40
+45518.4 : FNCD made money
+Eddie placed 18 out of 20 driving the Suzuki-2
+Eddie placed bottom 5.
+Suzuki-2 has become broken as a result of poor placement in the race!
+Montez placed 17 out of 20 driving the Cyborg
+Montez placed bottom 5.
+Cyborg has become broken as a result of poor placement in the race!
+Jessica placed 12 out of 20 driving the El Toro Loco
+120.0 : Staff expense
+90.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+120.0 : Staff expense
+90.0 : Staff expense
+60.0 : Staff expense
+90.0 : Staff expense
+60.0 : Staff expense
+120.0 : Staff expense
+60.0 : Staff expense
+-5786.0 : FNCD spent on new car
+-15278.5 : FNCD spent on new car
+Fred-3 made the Probe-4 go from Dirty to Clean
+InternFred-3 made the Zombie go from Clean to Sparkling. They earned a bonus of: 100.0
+InternLucy-3 made the Suzuki-2 go from Clean to Sparkling. They earned a bonus of: 50.0
+InternLucy-3 made the El Toro Loco go from Clean to Sparkling. They earned a bonus of: 100.0
+Mechanic James got a bonus of $175.00!
+Mechanic James fixed Suzuki-2 Broken to Used
+Mechanic James got a bonus of $250.00!
+Mechanic James fixed Cyborg Broken to Used
+Mechanic Desi got a bonus of $175.00!
+Mechanic Desi fixed Suzuki-2 Used to LikeNew
+Mechanic Desi got a bonus of $250.00!
+Mechanic Desi fixed Cyborg Used to LikeNew
+Mechanic Lucy-2 got a bonus of $100.00!
+Mechanic Lucy-2 fixed Probe-4 Broken to Used
+Mechanic Lucy-2 got a bonus of $250.00!
+Mechanic Lucy-2 fixed Zombie Broken to Used
+120.0 : Staff expense
+90.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+120.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+120.0 : Staff expense
+60.0 : Staff expense
+100.0 : Staff expense
+Fred-3 made the Suzuki-2 go from Dirty to Clean
+Fred-3 made the Probe-4 go from Dirty to Clean
+Lucy-3 made the Cyborg go from Dirty to Clean
+InternLucy-3 made the Zombie go from Clean to Sparkling. They earned a bonus of: 100.0
+Desi-3 made the Suzuki-2 go from Clean to Dirty
+Mechanic James got a bonus of $100.00!
+Mechanic James fixed Probe-4 Used to LikeNew
+Mechanic James got a bonus of $250.00!
+Mechanic James fixed Zombie Used to LikeNew
+Buyer Chewy-30 is buying! Salesperson Fred-2 gets a bonus of $900.00!
+Buyer Chewy-30 is buying Tesla-4 for $66,270.00
+Buyer Chewy-30 bought Clean LikeNew Tesla-4 for $83,500.20
+83500.2 : FNCD made money
+Buyer Leia-31 is buying! Salesperson Phoebe gets a bonus of $1,000.00!
+Buyer Leia-31 is buying Corvette-5 for $60,834.00
+Buyer Leia-31 bought Clean LikeNew Corvette-5 for $60,834.00
+60834.00000000001 : FNCD made money
+Buyer Luke-32 is buying! Salesperson Fred-2 gets a bonus of $875.00!
+Buyer Luke-32 is buying Cyborg for $105,600.00
+Buyer Luke-32 bought Clean LikeNew Cyborg for $110,880.00
+110880.0 : FNCD made money
+120.0 : Staff expense
+90.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+120.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+120.0 : Staff expense
+60.0 : Staff expense
+100.0 : Staff expense

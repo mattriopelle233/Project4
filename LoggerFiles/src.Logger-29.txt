@@ -1,0 +1,63 @@
+-5786.0 : FNCD spent on new car
+-15278.5 : FNCD spent on new car
+Fred-3 made the Probe-4 go from Dirty to Clean
+InternFred-3 made the Zombie go from Clean to Sparkling. They earned a bonus of: 100.0
+InternLucy-3 made the Suzuki-2 go from Clean to Sparkling. They earned a bonus of: 50.0
+InternLucy-3 made the El Toro Loco go from Clean to Sparkling. They earned a bonus of: 100.0
+Mechanic James got a bonus of $175.00!
+Mechanic James fixed Suzuki-2 Broken to Used
+Mechanic James got a bonus of $250.00!
+Mechanic James fixed Cyborg Broken to Used
+Mechanic Desi got a bonus of $175.00!
+Mechanic Desi fixed Suzuki-2 Used to LikeNew
+Mechanic Desi got a bonus of $250.00!
+Mechanic Desi fixed Cyborg Used to LikeNew
+Mechanic Lucy-2 got a bonus of $100.00!
+Mechanic Lucy-2 fixed Probe-4 Broken to Used
+Mechanic Lucy-2 got a bonus of $250.00!
+Mechanic Lucy-2 fixed Zombie Broken to Used
+120.0 : Staff expense
+90.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+120.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+120.0 : Staff expense
+60.0 : Staff expense
+100.0 : Staff expense
+Fred-3 made the Suzuki-2 go from Dirty to Clean
+Fred-3 made the Probe-4 go from Dirty to Clean
+Lucy-3 made the Cyborg go from Dirty to Clean
+InternLucy-3 made the Zombie go from Clean to Sparkling. They earned a bonus of: 100.0
+Desi-3 made the Suzuki-2 go from Clean to Dirty
+Mechanic James got a bonus of $100.00!
+Mechanic James fixed Probe-4 Used to LikeNew
+Mechanic James got a bonus of $250.00!
+Mechanic James fixed Zombie Used to LikeNew
+Buyer Chewy-30 is buying! Salesperson Fred-2 gets a bonus of $900.00!
+Buyer Chewy-30 is buying Tesla-4 for $66,270.00
+Buyer Chewy-30 bought Clean LikeNew Tesla-4 for $83,500.20
+83500.2 : FNCD made money
+Buyer Leia-31 is buying! Salesperson Phoebe gets a bonus of $1,000.00!
+Buyer Leia-31 is buying Corvette-5 for $60,834.00
+Buyer Leia-31 bought Clean LikeNew Corvette-5 for $60,834.00
+60834.00000000001 : FNCD made money
+Buyer Luke-32 is buying! Salesperson Fred-2 gets a bonus of $875.00!
+Buyer Luke-32 is buying Cyborg for $105,600.00
+Buyer Luke-32 bought Clean LikeNew Cyborg for $110,880.00
+110880.0 : FNCD made money
+120.0 : Staff expense
+90.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+120.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+120.0 : Staff expense
+60.0 : Staff expense
+100.0 : Staff expense
