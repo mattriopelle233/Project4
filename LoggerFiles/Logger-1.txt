@@ -1,0 +1,200 @@
+-8753.0 : FNCD spent on new car
+-13847.2 : FNCD spent on new car
+-6146.0 : FNCD spent on new car
+-10310.400000000001 : FNCD spent on new car
+-8202.5 : FNCD spent on new car
+-14123.0 : FNCD spent on new car
+-10508.800000000001 : FNCD spent on new car
+-16590.0 : FNCD spent on new car
+-10582.400000000001 : FNCD spent on new car
+-7954.0 : FNCD spent on new car
+-17575.5 : FNCD spent on new car
+-13707.2 : FNCD spent on new car
+-24896.0 : FNCD spent on new car
+-17830.0 : FNCD spent on new car
+-8759.5 : FNCD spent on new car
+-18257.5 : FNCD spent on new car
+-24530.4 : FNCD spent on new car
+-28606.4 : FNCD spent on new car
+-23304.0 : FNCD spent on new car
+-29876.0 : FNCD spent on new car
+-12337.0 : FNCD spent on new car
+-13219.5 : FNCD spent on new car
+-19520.8 : FNCD spent on new car
+-22243.0 : FNCD spent on new car
+-12961.0 : FNCD spent on new car
+-17275.5 : FNCD spent on new car
+-9196.0 : FNCD spent on new car
+-39427.0 : FNCD spent on new car
+-39317.0 : FNCD spent on new car
+-21432.800000000003 : FNCD spent on new car
+-6678.5 : FNCD spent on new car
+-39265.0 : FNCD spent on new car
+-30784.0 : FNCD spent on new car
+-14578.400000000001 : FNCD spent on new car
+-29336.0 : FNCD spent on new car
+-24877.600000000002 : FNCD spent on new car
+-27415.2 : FNCD spent on new car
+-30783.2 : FNCD spent on new car
+-26693.0 : FNCD spent on new car
+-16688.0 : FNCD spent on new car
+-33186.0 : FNCD spent on new car
+-37912.0 : FNCD spent on new car
+-25073.0 : FNCD spent on new car
+-28335.0 : FNCD spent on new car
+-39471.200000000004 : FNCD spent on new car
+-47596.0 : FNCD spent on new car
+-14522.5 : FNCD spent on new car
+-31485.0 : FNCD spent on new car
+-20807.0 : FNCD spent on new car
+-22510.0 : FNCD spent on new car
+-12845.5 : FNCD spent on new car
+-33274.0 : FNCD spent on new car
+-22470.4 : FNCD spent on new car
+-30032.0 : FNCD spent on new car
+-20500.0 : FNCD spent on new car
+-22521.0 : FNCD spent on new car
+-17379.5 : FNCD spent on new car
+-20865.0 : FNCD spent on new car
+-22846.0 : FNCD spent on new car
+-34420.0 : FNCD spent on new car
+-36040.0 : FNCD spent on new car
+-21860.800000000003 : FNCD spent on new car
+-33924.0 : FNCD spent on new car
+-29440.0 : FNCD spent on new car
+-25132.0 : FNCD spent on new car
+-17752.8 : FNCD spent on new car
+-42223.200000000004 : FNCD spent on new car
+-17896.0 : FNCD spent on new car
+-51767.0 : FNCD spent on new car
+-47300.0 : FNCD spent on new car
+-11690.0 : FNCD spent on new car
+-34755.0 : FNCD spent on new car
+-19831.0 : FNCD spent on new car
+-23422.5 : FNCD spent on new car
+-19024.0 : FNCD spent on new car
+-14272.0 : FNCD spent on new car
+-9630.4 : FNCD spent on new car
+-4602.5 : FNCD spent on new car
+-14551.2 : FNCD spent on new car
+-5858.0 : FNCD spent on new car
+-8397.0 : FNCD spent on new car
+-8786.5 : FNCD spent on new car
+-36783.200000000004 : FNCD spent on new car
+-6617.6 : FNCD spent on new car
+-25865.0 : FNCD spent on new car
+-5773.5 : FNCD spent on new car
+-42770.0 : FNCD spent on new car
+-22032.5 : FNCD spent on new car
+-51822.0 : FNCD spent on new car
+-23472.0 : FNCD spent on new car
+-42329.600000000006 : FNCD spent on new car
+-22821.5 : FNCD spent on new car
+-26499.0 : FNCD spent on new car
+-37993.6 : FNCD spent on new car
+-15765.5 : FNCD spent on new car
+-33084.8 : FNCD spent on new car
+-29988.0 : FNCD spent on new car
+-50934.0 : FNCD spent on new car
+-16204.5 : FNCD spent on new car
+-41584.8 : FNCD spent on new car
+-28159.0 : FNCD spent on new car
+-32588.0 : FNCD spent on new car
+-31517.0 : FNCD spent on new car
+-22534.4 : FNCD spent on new car
+-15768.0 : FNCD spent on new car
+-29296.0 : FNCD spent on new car
+-29604.0 : FNCD spent on new car
+-14204.5 : FNCD spent on new car
+The intern Ethel made the vehicle like new!
+Fred made the Taurus-2 go from Dirty to Clean
+Ethel made the Taurus-3 go from Dirty to Clean
+Desi made the Fiesta go from Dirty to Clean
+Lucy made the Escort go from Dirty to Clean
+Desi made the Probe-3 go from Dirty to Clean
+Fred-2 made the Europa go from Dirty to Clean
+Fred-2 made the Cayman go from Dirty to Clean
+Mechanic Uhura got a bonus of $100.00!
+Mechanic Uhura fixed Probe Broken to Used
+Mechanic Uhura got a bonus of $100.00!
+Mechanic Uhura fixed Fiesta Broken to Used
+Mechanic James-2 got a bonus of $100.00!
+Mechanic James-2 fixed Probe Used to LikeNew
+InternLucy made the Mustang-2 go from Dirty to Sparkling. They earned a bonus of: 100.0
+Mechanic James-2 got a bonus of $100.00!
+Mechanic James-2 fixed Fiesta Used to LikeNew
+Mechanic James got a bonus of $100.00!
+Mechanic James fixed Escort Used to LikeNew
+Mechanic Scotty-2 got a bonus of $100.00!
+Mechanic Scotty-2 fixed Probe-2 Broken to Used
+Mechanic James got a bonus of $100.00!
+Mechanic James fixed Taurus Used to LikeNew
+Mechanic Scotty-2 got a bonus of $100.00!
+Mechanic Scotty-2 fixed Taurus-2 Used to LikeNew
+Mechanic Scotty got a bonus of $100.00!
+Mechanic Scotty fixed Fiesta-2 Used to LikeNew
+Mechanic Scotty got a bonus of $100.00!
+Mechanic Scotty fixed Taurus-3 Used to LikeNew
+Mechanic Spock got a bonus of $100.00!
+Mechanic Spock fixed Fiesta-3 Broken to Used
+Mechanic Spock did not fix the Used Cayman-2
+Buyer Luke is buying! Salesperson Chandler gets a bonus of $1,000.00!
+Buyer Chewy-3 is buying! Salesperson Phoebe gets a bonus of $875.00!
+Buyer Luke is buying Cayman for $49,792.00
+Buyer Chewy-3 is buying Hyundai Nexo-4 for $101,868.00
+Buyer Chewy-3 bought Dirty LikeNew Hyundai Nexo-4 for $101,868.00
+Buyer Luke bought Clean LikeNew Cayman for $59,750.40
+59750.4 : FNCD made money
+101868.0 : FNCD made money
+Buyer Luke-4 is buying! Salesperson Rachel gets a bonus of $750.00!
+Buyer Leia is buying! Salesperson Ross gets a bonus of $875.00!
+Buyer Luke-4 is buying Tundra-2 for $78,530.00
+Buyer Leia is buying Hyundai Nexo-2 for $103,644.00
+Buyer Leia bought Sparkling LikeNew Hyundai Nexo-2 for $103,644.00
+Buyer Luke-4 bought Dirty LikeNew Tundra-2 for $84,105.63
+103644.0 : FNCD made money
+Buyer Han is buying! Salesperson Chandler gets a bonus of $875.00!
+Buyer Han is buying Honda Clarity for $85,540.00
+Buyer Han bought Clean LikeNew Honda Clarity for $89,817.00
+89817.0 : FNCD made money
+84105.63 : FNCD made money
+Buyer Chewy is buying! Salesperson Chandler gets a bonus of $875.00!
+Buyer Chewy is buying Toyota Corolla for $59,976.00
+Buyer Chewy bought Dirty LikeNew Toyota Corolla for $62,974.80
+Buyer Leia-4 is buying! Salesperson Phoebe gets a bonus of $875.00!
+62974.8 : FNCD made money
+Buyer Han-2 is buying! Salesperson Joey gets a bonus of $600.00!
+Buyer Leia-4 is buying Hyundai Sonata-2 for $65,176.00
+Buyer Han-2 is buying Ducati for $66,548.00
+Buyer Han-2 bought Dirty LikeNew Ducati for $88,043.00
+Buyer Leia-4 bought Dirty LikeNew Hyundai Sonata-2 for $69,803.50
+88043.00400000002 : FNCD made money
+69803.496 : FNCD made money
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+90.0 : Staff expense
+Buyer Han-4 is buying! Salesperson Phoebe gets a bonus of $500.00!
+90.0 : Staff expense
+90.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+Buyer Han-4 is buying Escort for $34,618.00
+Buyer Han-4 bought Dirty LikeNew Escort for $41,541.60
+41541.6 : FNCD made money
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense

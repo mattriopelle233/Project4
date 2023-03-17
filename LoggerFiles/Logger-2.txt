@@ -1,0 +1,154 @@
+-8250.0 : FNCD spent on new car
+-8250.0 : FNCD spent on new car
+-35911.0 : FNCD spent on new car
+-35911.0 : FNCD spent on new car
+-7644.5 : FNCD spent on new car
+-7644.5 : FNCD spent on new car
+-15922.0 : FNCD spent on new car
+-15922.0 : FNCD spent on new car
+-25651.5 : FNCD spent on new car
+-41941.0 : FNCD spent on new car
+-41941.0 : FNCD spent on new car
+-25651.5 : FNCD spent on new car
+-41156.8 : FNCD spent on new car
+-41156.8 : FNCD spent on new car
+-21380.800000000003 : FNCD spent on new car
+-21380.800000000003 : FNCD spent on new car
+-22126.4 : FNCD spent on new car
+-22126.4 : FNCD spent on new car
+Ethel made the Taurus go from Dirty to Clean
+Ethel made the Taurus go from Dirty to Clean
+Ethel made the Hyundai Ioniq-4 go from Dirty to Clean
+Fred made the Probe go from Dirty to Clean
+Fred made the Probe go from Dirty to Clean
+Ethel made the Hyundai Ioniq-4 go from Dirty to Clean
+Desi made the Fiesta go from Dirty to Clean
+Desi made the Fiesta go from Dirty to Clean
+Desi made the Taurus-2 go from Dirty to Clean
+Desi made the Taurus-2 go from Dirty to Clean
+Lucy made the Taurus-3 go from Dirty to Clean
+Lucy made the Taurus-3 go from Dirty to Clean
+Fred-2 made the Fiesta-3 go from Dirty to Clean
+Fred-2 made the Fiesta-3 go from Dirty to Clean
+Mechanic James got a bonus of $100.00!
+Mechanic James got a bonus of $100.00!
+Mechanic James fixed Fiesta-3 Used to LikeNew
+Mechanic James fixed Fiesta-3 Used to LikeNew
+Mechanic Uhura got a bonus of $100.00!
+Mechanic Uhura got a bonus of $100.00!
+Mechanic Uhura fixed Probe-2 Used to LikeNew
+Mechanic Uhura fixed Probe-2 Used to LikeNew
+Mechanic James got a bonus of $300.00!
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Cayman-2 Used to LikeNew
+Mechanic James fixed Cayman-2 Used to LikeNew
+Mechanic Uhura got a bonus of $100.00!
+Mechanic Uhura got a bonus of $100.00!
+Mechanic Uhura fixed Escort-3 Broken to Used
+Mechanic Uhura fixed Escort-3 Broken to Used
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Mustang-2 Used to LikeNew
+Mechanic Scotty fixed Mustang-2 Used to LikeNew
+Mechanic James-2 got a bonus of $100.00!
+Mechanic James-2 got a bonus of $100.00!
+Mechanic James-2 fixed Escort-3 Used to LikeNew
+Mechanic James-2 fixed Escort-3 Used to LikeNew
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Europa-3 Broken to Used
+Mechanic Scotty fixed Europa-3 Broken to Used
+Mechanic James-2 got a bonus of $300.00!
+Mechanic James-2 got a bonus of $300.00!
+Mechanic James-2 fixed Europa Broken to Used
+Mechanic James-2 fixed Europa Broken to Used
+Mechanic Scotty-2 did not fix the Used Europa
+Mechanic Scotty-2 did not fix the Used Europa
+Mechanic Spock got a bonus of $300.00!
+Mechanic Scotty-2 did not fix the Broken Corvette
+Mechanic Spock got a bonus of $300.00!
+Mechanic Spock fixed Europa-3 Used to LikeNew
+Mechanic Spock fixed Europa-3 Used to LikeNew
+Mechanic Scotty-2 did not fix the Broken Corvette
+Mechanic Spock did not fix the Broken Corvette-3
+Mechanic Spock did not fix the Broken Corvette-3
+Buyer Chewy-4 is buying! Salesperson Ross gets a bonus of $750.00!
+Buyer Chewy-4 is buying! Salesperson Ross gets a bonus of $750.00!
+Buyer Chewy-5 is buying! Salesperson Rachel gets a bonus of $875.00!
+Buyer Chewy-5 is buying! Salesperson Rachel gets a bonus of $875.00!
+Buyer Chewy-4 is buying Ranger-2 for $78,854.00
+Buyer Chewy-5 is buying Honda Clarity-4 for $83,169.60
+Buyer Chewy-5 is buying Honda Clarity-4 for $83,169.60
+Buyer Chewy-4 is buying Ranger-2 for $78,854.00
+Buyer Chewy-5 bought Clean Used Honda Clarity-4 for $87,328.08
+Buyer Chewy-5 bought Clean Used Honda Clarity-4 for $87,328.08
+Buyer Chewy-4 bought Dirty LikeNew Ranger-2 for $78,854.00
+87328.08 : FNCD made money
+87328.08 : FNCD made money
+Buyer Chewy-4 bought Dirty LikeNew Ranger-2 for $78,854.00
+Buyer Luke-6 is buying! Salesperson Phoebe gets a bonus of $1,000.00!
+Buyer Luke-6 is buying! Salesperson Phoebe gets a bonus of $1,000.00!
+Buyer Luke-6 is buying Mustang-2 for $74,690.00
+Buyer Luke-6 is buying Mustang-2 for $74,690.00
+Buyer Luke-6 bought Clean LikeNew Mustang-2 for $74,690.00
+Buyer Luke-6 bought Clean LikeNew Mustang-2 for $74,690.00
+74690.0 : FNCD made money
+78854.0 : FNCD made money
+74690.0 : FNCD made money
+78854.0 : FNCD made money
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+Buyer Leia-5 is buying! Salesperson Chandler gets a bonus of $875.00!
+120.0 : Staff expense
+Buyer Leia-5 is buying! Salesperson Chandler gets a bonus of $875.00!
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+Buyer Leia-5 is buying Air Force Afterburner for $68,840.00
+90.0 : Staff expense
+Buyer Leia-5 is buying Air Force Afterburner for $68,840.00
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+Buyer Leia-5 bought Dirty LikeNew Air Force Afterburner for $82,608.00
+Buyer Leia-5 bought Dirty LikeNew Air Force Afterburner for $82,608.00
+82608.0 : FNCD made money
+82608.0 : FNCD made money
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
