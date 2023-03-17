@@ -1,128 +1,462 @@
--20048.0 : FNCD spent on new car
--20048.0 : FNCD spent on new car
--20048.0 : FNCD spent on new car
--20048.0 : FNCD spent on new car
--20048.0 : FNCD spent on new car
--20048.0 : FNCD spent on new car
--20048.0 : FNCD spent on new car
-Fred made the Corvette-5 go from Dirty to Clean
-Fred made the Corvette-5 go from Dirty to Clean
-Fred made the Corvette-5 go from Dirty to Clean
-Fred made the Corvette-5 go from Dirty to Clean
-Fred made the Corvette-5 go from Dirty to Clean
-Fred made the Corvette-5 go from Dirty to Clean
-Fred made the Corvette-5 go from Dirty to Clean
-InternDesi made the Tesla-3 go from Dirty to Sparkling. They earned a bonus of: 100.0
-InternDesi made the Tesla-3 go from Dirty to Sparkling. They earned a bonus of: 100.0
-InternDesi made the Tesla-3 go from Dirty to Sparkling. They earned a bonus of: 100.0
-InternDesi made the Tesla-3 go from Dirty to Sparkling. They earned a bonus of: 100.0
-InternDesi made the Tesla-3 go from Dirty to Sparkling. They earned a bonus of: 100.0
-InternDesi made the Tesla-3 go from Dirty to Sparkling. They earned a bonus of: 100.0
-InternDesi made the Tesla-3 go from Dirty to Sparkling. They earned a bonus of: 100.0
-Fred-2 made the Tundra go from Dirty to Clean
-Fred-2 made the Tundra go from Dirty to Clean
-Fred-2 made the Tundra go from Dirty to Clean
-Fred-2 made the Tundra go from Dirty to Clean
-Fred-2 made the Tundra go from Dirty to Clean
-Fred-2 made the Tundra go from Dirty to Clean
-Fred-2 made the Tundra go from Dirty to Clean
-Mechanic Uhura got a bonus of $300.00!
-Mechanic Uhura got a bonus of $300.00!
-Mechanic Uhura got a bonus of $300.00!
-Mechanic Uhura got a bonus of $300.00!
-Mechanic Uhura got a bonus of $300.00!
-Mechanic Uhura got a bonus of $300.00!
-Mechanic Uhura got a bonus of $300.00!
-Mechanic Uhura fixed Corvette-2 Broken to Used
-Mechanic Uhura fixed Corvette-2 Broken to Used
-Mechanic Uhura fixed Corvette-2 Broken to Used
-Mechanic Uhura fixed Corvette-2 Broken to Used
-Mechanic Uhura fixed Corvette-2 Broken to Used
-Mechanic Uhura fixed Corvette-2 Broken to Used
-Mechanic Uhura fixed Corvette-2 Broken to Used
-Mechanic Uhura got a bonus of $250.00!
-Mechanic Uhura got a bonus of $250.00!
-Mechanic Uhura got a bonus of $250.00!
-Mechanic Uhura got a bonus of $250.00!
-Mechanic Uhura got a bonus of $250.00!
-Mechanic Uhura got a bonus of $250.00!
-Mechanic Uhura got a bonus of $250.00!
-Mechanic Uhura fixed El Toro Loco Used to LikeNew
-Mechanic Uhura fixed El Toro Loco Used to LikeNew
-Mechanic Uhura fixed El Toro Loco Used to LikeNew
-Mechanic Uhura fixed El Toro Loco Used to LikeNew
-Mechanic Uhura fixed El Toro Loco Used to LikeNew
-Mechanic Uhura fixed El Toro Loco Used to LikeNew
-Mechanic Uhura fixed El Toro Loco Used to LikeNew
-Mechanic James-2 got a bonus of $300.00!
-Mechanic James-2 got a bonus of $300.00!
-Mechanic James-2 got a bonus of $300.00!
-Mechanic James-2 got a bonus of $300.00!
-Mechanic James-2 got a bonus of $300.00!
-Mechanic James-2 got a bonus of $300.00!
-Mechanic James-2 got a bonus of $300.00!
-Mechanic James-2 fixed Corvette-2 Used to LikeNew
-Mechanic James-2 fixed Corvette-2 Used to LikeNew
-Mechanic James-2 fixed Corvette-2 Used to LikeNew
-Mechanic James-2 fixed Corvette-2 Used to LikeNew
-Mechanic James-2 fixed Corvette-2 Used to LikeNew
-Mechanic James-2 fixed Corvette-2 Used to LikeNew
-Mechanic James-2 fixed Corvette-2 Used to LikeNew
-Mechanic James-2 got a bonus of $50.00!
-Mechanic James-2 got a bonus of $50.00!
-Mechanic James-2 got a bonus of $50.00!
-Mechanic James-2 got a bonus of $50.00!
-Mechanic James-2 got a bonus of $50.00!
-Mechanic James-2 got a bonus of $50.00!
-Mechanic James-2 got a bonus of $50.00!
-Mechanic James-2 fixed Vespa X-2 Used to LikeNew
-Mechanic James-2 fixed Vespa X-2 Used to LikeNew
-Mechanic James-2 fixed Vespa X-2 Used to LikeNew
-Mechanic James-2 fixed Vespa X-2 Used to LikeNew
-Mechanic James-2 fixed Vespa X-2 Used to LikeNew
-Mechanic James-2 fixed Vespa X-2 Used to LikeNew
-Mechanic James-2 fixed Vespa X-2 Used to LikeNew
-Mechanic Scotty-2 got a bonus of $50.00!
-Mechanic Scotty-2 got a bonus of $50.00!
-Mechanic Scotty-2 got a bonus of $50.00!
-Mechanic Scotty-2 got a bonus of $50.00!
-Mechanic Scotty-2 got a bonus of $50.00!
-Mechanic Scotty-2 got a bonus of $50.00!
-Mechanic Scotty-2 got a bonus of $50.00!
-Mechanic Scotty-2 fixed Vespa GT-2 Broken to Used
-Mechanic Scotty-2 fixed Vespa GT-2 Broken to Used
-Mechanic Scotty-2 fixed Vespa GT-2 Broken to Used
-Mechanic Scotty-2 fixed Vespa GT-2 Broken to Used
-Mechanic Scotty-2 fixed Vespa GT-2 Broken to Used
-Mechanic Scotty-2 fixed Vespa GT-2 Broken to Used
-Mechanic Scotty-2 fixed Vespa GT-2 Broken to Used
-Mechanic Scotty-2 got a bonus of $250.00!
-Mechanic Scotty-2 got a bonus of $250.00!
-Mechanic Scotty-2 got a bonus of $250.00!
-Mechanic Scotty-2 got a bonus of $250.00!
-Mechanic Scotty-2 got a bonus of $250.00!
-Mechanic Scotty-2 got a bonus of $250.00!
-Mechanic Scotty-2 got a bonus of $250.00!
-Mechanic Scotty-2 fixed Toyota Mirai Used to LikeNew
-Mechanic Scotty-2 fixed Toyota Mirai Used to LikeNew
-Mechanic Scotty-2 fixed Toyota Mirai Used to LikeNew
-Mechanic Scotty-2 fixed Toyota Mirai Used to LikeNew
-Mechanic Scotty-2 fixed Toyota Mirai Used to LikeNew
-Mechanic Scotty-2 fixed Toyota Mirai Used to LikeNew
-Mechanic Scotty-2 fixed Toyota Mirai Used to LikeNew
-Buyer Leia-16 is buying! Salesperson Chandler gets a bonus of $600.00!
-Buyer Leia-16 is buying! Salesperson Chandler gets a bonus of $600.00!
-Buyer Leia-16 is buying! Salesperson Chandler gets a bonus of $600.00!
-Buyer Leia-16 is buying! Salesperson Chandler gets a bonus of $600.00!
-Buyer Leia-16 is buying! Salesperson Chandler gets a bonus of $600.00!
-Buyer Leia-16 is buying! Salesperson Chandler gets a bonus of $600.00!
-Buyer Leia-16 is buying! Salesperson Chandler gets a bonus of $600.00!
-Buyer Leia-16 is buying Yamaha-2 for $60,064.00
-Buyer Leia-16 is buying Yamaha-2 for $60,064.00
-Buyer Leia-16 is buying Yamaha-2 for $60,064.00
-Buyer Leia-16 is buying Yamaha-2 for $60,064.00
-Buyer Leia-16 is buying Yamaha-2 for $60,064.00
-Buyer Leia-16 is buying Yamaha-2 for $60,064.00
-Buyer Leia-16 is buying Yamaha-2 for $60,064.00
-Buyer Leia-16 bought Dirty LikeNew Yamaha-2 for $60,064.00
-Buyer Leia-16 bought Dirty LikeNew Yamaha-2 for $60,064.00
+Lucy-2 made the Ducati go from Dirty to Clean
+Lucy-2 made the Ducati go from Dirty to Clean
+Lucy-2 made the Ducati go from Dirty to Clean
+Lucy-2 made the Ducati go from Dirty to Clean
+Lucy-2 made the Ducati go from Dirty to Clean
+Lucy-2 made the Ducati go from Dirty to Clean
+Lucy-2 made the Ducati go from Dirty to Clean
+Ethel made the Mustang Mach-2 go from Dirty to Clean
+Ethel made the Mustang Mach-2 go from Dirty to Clean
+Ethel made the Mustang Mach-2 go from Dirty to Clean
+Ethel made the Mustang Mach-2 go from Dirty to Clean
+Ethel made the Mustang Mach-2 go from Dirty to Clean
+Ethel made the Mustang Mach-2 go from Dirty to Clean
+Ethel made the Mustang Mach-2 go from Dirty to Clean
+Ethel made the Prius-3 go from Dirty to Clean
+Ethel made the Prius-3 go from Dirty to Clean
+Ethel made the Prius-3 go from Dirty to Clean
+Ethel made the Prius-3 go from Dirty to Clean
+Ethel made the Prius-3 go from Dirty to Clean
+Ethel made the Prius-3 go from Dirty to Clean
+Ethel made the Prius-3 go from Dirty to Clean
+Desi made the Bolt-3 go from Dirty to Clean
+Desi made the Bolt-3 go from Dirty to Clean
+Desi made the Bolt-3 go from Dirty to Clean
+Desi made the Bolt-3 go from Dirty to Clean
+Desi made the Bolt-3 go from Dirty to Clean
+Desi made the Bolt-3 go from Dirty to Clean
+Desi made the Bolt-3 go from Dirty to Clean
+Desi made the Vespa X-3 go from Dirty to Clean
+Desi made the Vespa X-3 go from Dirty to Clean
+Desi made the Vespa X-3 go from Dirty to Clean
+Desi made the Vespa X-3 go from Dirty to Clean
+Desi made the Vespa X-3 go from Dirty to Clean
+Desi made the Vespa X-3 go from Dirty to Clean
+Desi made the Vespa X-3 go from Dirty to Clean
+Lucy-3 made the Harley Davidson-3 go from Dirty to Clean
+Lucy-3 made the Harley Davidson-3 go from Dirty to Clean
+Lucy-3 made the Harley Davidson-3 go from Dirty to Clean
+Lucy-3 made the Harley Davidson-3 go from Dirty to Clean
+Lucy-3 made the Harley Davidson-3 go from Dirty to Clean
+Lucy-3 made the Harley Davidson-3 go from Dirty to Clean
+Lucy-3 made the Harley Davidson-3 go from Dirty to Clean
+The intern Lucy-2 made the vehicle like new!
+The intern Lucy-2 made the vehicle like new!
+The intern Lucy-2 made the vehicle like new!
+The intern Lucy-2 made the vehicle like new!
+The intern Lucy-2 made the vehicle like new!
+The intern Lucy-2 made the vehicle like new!
+The intern Lucy-2 made the vehicle like new!
+Fred-3 made the Yamaha-2 go from Dirty to Clean
+Fred-3 made the Yamaha-2 go from Dirty to Clean
+Fred-3 made the Yamaha-2 go from Dirty to Clean
+Fred-3 made the Yamaha-2 go from Dirty to Clean
+Fred-3 made the Yamaha-2 go from Dirty to Clean
+Fred-3 made the Yamaha-2 go from Dirty to Clean
+Fred-3 made the Yamaha-2 go from Dirty to Clean
+Fred-3 made the Bulldozer go from Dirty to Clean
+Fred-3 made the Bulldozer go from Dirty to Clean
+Fred-3 made the Bulldozer go from Dirty to Clean
+Fred-3 made the Bulldozer go from Dirty to Clean
+Fred-3 made the Bulldozer go from Dirty to Clean
+Fred-3 made the Bulldozer go from Dirty to Clean
+Fred-3 made the Bulldozer go from Dirty to Clean
+Mechanic Scotty got a bonus of $300.00!
+Mechanic James got a bonus of $175.00!
+Mechanic James got a bonus of $175.00!
+Mechanic James got a bonus of $175.00!
+Mechanic James got a bonus of $175.00!
+Mechanic James got a bonus of $175.00!
+Mechanic James got a bonus of $175.00!
+Mechanic James got a bonus of $175.00!
+Mechanic James fixed Harley Davidson Used to LikeNew
+Mechanic James fixed Harley Davidson Used to LikeNew
+Mechanic James fixed Harley Davidson Used to LikeNew
+Mechanic James fixed Harley Davidson Used to LikeNew
+Mechanic James fixed Harley Davidson Used to LikeNew
+Mechanic James fixed Harley Davidson Used to LikeNew
+Mechanic James fixed Harley Davidson Used to LikeNew
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty got a bonus of $300.00!
+Mechanic James got a bonus of $175.00!
+Mechanic James got a bonus of $175.00!
+Mechanic James got a bonus of $175.00!
+Mechanic James got a bonus of $175.00!
+Mechanic James got a bonus of $175.00!
+Mechanic James got a bonus of $175.00!
+Mechanic James got a bonus of $175.00!
+Mechanic James fixed Ducati Broken to Used
+Mechanic James fixed Ducati Broken to Used
+Mechanic James fixed Ducati Broken to Used
+Mechanic James fixed Ducati Broken to Used
+Mechanic James fixed Ducati Broken to Used
+Mechanic James fixed Ducati Broken to Used
+Mechanic James fixed Ducati Broken to Used
+Mechanic Scotty-2 got a bonus of $175.00!
+Mechanic Scotty-2 got a bonus of $175.00!
+Mechanic Scotty-2 got a bonus of $175.00!
+Mechanic Scotty-2 got a bonus of $175.00!
+Mechanic Scotty-2 got a bonus of $175.00!
+Mechanic Scotty-2 got a bonus of $175.00!
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Europa-3 Broken to Used
+Mechanic Scotty fixed Europa-3 Broken to Used
+Mechanic Scotty fixed Europa-3 Broken to Used
+Mechanic Scotty fixed Europa-3 Broken to Used
+Mechanic Scotty fixed Europa-3 Broken to Used
+Mechanic Scotty fixed Europa-3 Broken to Used
+Mechanic Scotty fixed Europa-3 Broken to Used
+Mechanic Scotty-2 got a bonus of $175.00!
+Mechanic Scotty got a bonus of $250.00!
+Mechanic Scotty got a bonus of $250.00!
+Mechanic Scotty-2 fixed Ducati Used to LikeNew
+Mechanic Scotty-2 fixed Ducati Used to LikeNew
+Mechanic Scotty-2 fixed Ducati Used to LikeNew
+Mechanic Scotty-2 fixed Ducati Used to LikeNew
+Mechanic Scotty-2 fixed Ducati Used to LikeNew
+Mechanic Scotty-2 fixed Ducati Used to LikeNew
+Mechanic Scotty-2 fixed Ducati Used to LikeNew
+Mechanic Scotty-2 got a bonus of $175.00!
+Mechanic Scotty-2 got a bonus of $175.00!
+Mechanic Scotty-2 got a bonus of $175.00!
+Mechanic Scotty-2 got a bonus of $175.00!
+Mechanic Scotty-2 got a bonus of $175.00!
+Mechanic Scotty got a bonus of $250.00!
+Mechanic Scotty got a bonus of $250.00!
+Mechanic Scotty got a bonus of $250.00!
+Mechanic Scotty got a bonus of $250.00!
+Mechanic Scotty-2 got a bonus of $175.00!
+Mechanic Scotty-2 got a bonus of $175.00!
+Mechanic Scotty-2 fixed Yamaha-2 Broken to Used
+Mechanic Scotty-2 fixed Yamaha-2 Broken to Used
+Mechanic Scotty got a bonus of $250.00!
+Mechanic Scotty-2 fixed Yamaha-2 Broken to Used
+Mechanic Scotty fixed Mustang Mach-3 Broken to Used
+Mechanic Scotty-2 fixed Yamaha-2 Broken to Used
+Mechanic Scotty-2 fixed Yamaha-2 Broken to Used
+Mechanic Scotty-2 fixed Yamaha-2 Broken to Used
+Mechanic Scotty-2 fixed Yamaha-2 Broken to Used
+Mechanic Scotty fixed Mustang Mach-3 Broken to Used
+Mechanic Scotty fixed Mustang Mach-3 Broken to Used
+Mechanic Scotty fixed Mustang Mach-3 Broken to Used
+Mechanic Scotty fixed Mustang Mach-3 Broken to Used
+Mechanic Scotty fixed Mustang Mach-3 Broken to Used
+Mechanic Scotty fixed Mustang Mach-3 Broken to Used
+Mechanic Lucy got a bonus of $175.00!
+Mechanic Lucy got a bonus of $175.00!
+Mechanic Lucy got a bonus of $175.00!
+Mechanic Lucy got a bonus of $175.00!
+Mechanic Lucy got a bonus of $175.00!
+Mechanic Lucy got a bonus of $175.00!
+Mechanic Spock got a bonus of $300.00!
+Mechanic Spock got a bonus of $300.00!
+Mechanic Lucy got a bonus of $175.00!
+Mechanic Spock got a bonus of $300.00!
+Mechanic Spock got a bonus of $300.00!
+Mechanic Lucy fixed Yamaha-2 Used to LikeNew
+Mechanic Lucy fixed Yamaha-2 Used to LikeNew
+Mechanic Lucy fixed Yamaha-2 Used to LikeNew
+Mechanic Spock got a bonus of $300.00!
+Mechanic Spock got a bonus of $300.00!
+Mechanic Spock got a bonus of $300.00!
+Mechanic Lucy fixed Yamaha-2 Used to LikeNew
+Mechanic Lucy fixed Yamaha-2 Used to LikeNew
+Mechanic Lucy fixed Yamaha-2 Used to LikeNew
+Mechanic Lucy fixed Yamaha-2 Used to LikeNew
+Mechanic Spock fixed Europa-3 Used to LikeNew
+Mechanic Spock fixed Europa-3 Used to LikeNew
+Mechanic Spock fixed Europa-3 Used to LikeNew
+Mechanic Spock fixed Europa-3 Used to LikeNew
+Mechanic Spock fixed Europa-3 Used to LikeNew
+Mechanic Spock fixed Europa-3 Used to LikeNew
+Mechanic Spock fixed Europa-3 Used to LikeNew
+Mechanic Spock got a bonus of $250.00!
+Mechanic Lucy got a bonus of $250.00!
+Mechanic Spock got a bonus of $250.00!
+Mechanic Lucy got a bonus of $250.00!
+Mechanic Spock got a bonus of $250.00!
+Mechanic Spock got a bonus of $250.00!
+Mechanic Lucy got a bonus of $250.00!
+Mechanic Spock got a bonus of $250.00!
+Mechanic Spock got a bonus of $250.00!
+Mechanic Lucy got a bonus of $250.00!
+Mechanic Lucy got a bonus of $250.00!
+Mechanic Lucy got a bonus of $250.00!
+Mechanic Spock got a bonus of $250.00!
+Mechanic Lucy got a bonus of $250.00!
+Mechanic Spock fixed Mustang Mach-3 Used to LikeNew
+Mechanic Spock fixed Mustang Mach-3 Used to LikeNew
+Mechanic Spock fixed Mustang Mach-3 Used to LikeNew
+Mechanic Spock fixed Mustang Mach-3 Used to LikeNew
+Mechanic Spock fixed Mustang Mach-3 Used to LikeNew
+Mechanic Spock fixed Mustang Mach-3 Used to LikeNew
+Mechanic Spock fixed Mustang Mach-3 Used to LikeNew
+Mechanic Lucy fixed Avenger Broken to Used
+Mechanic Lucy fixed Avenger Broken to Used
+Mechanic Lucy fixed Avenger Broken to Used
+Mechanic Lucy fixed Avenger Broken to Used
+Mechanic Lucy fixed Avenger Broken to Used
+Mechanic Lucy fixed Avenger Broken to Used
+Mechanic Lucy fixed Avenger Broken to Used
+Mechanic Uhura got a bonus of $175.00!
+Mechanic Uhura got a bonus of $175.00!
+Mechanic Uhura got a bonus of $175.00!
+Mechanic Uhura got a bonus of $175.00!
+Mechanic Uhura got a bonus of $175.00!
+Mechanic Uhura got a bonus of $175.00!
+Mechanic Uhura got a bonus of $175.00!
+Mechanic Uhura fixed Ducati-2 Broken to Used
+Mechanic Uhura fixed Ducati-2 Broken to Used
+Mechanic Uhura fixed Ducati-2 Broken to Used
+Mechanic Uhura fixed Ducati-2 Broken to Used
+Mechanic Uhura fixed Ducati-2 Broken to Used
+Mechanic Uhura fixed Ducati-2 Broken to Used
+Mechanic Uhura fixed Ducati-2 Broken to Used
+Buyer Han-10 is buying! Salesperson Ross gets a bonus of $875.00!
+Mechanic Uhura got a bonus of $175.00!
+Mechanic Uhura got a bonus of $175.00!
+Mechanic Uhura got a bonus of $175.00!
+Mechanic Uhura got a bonus of $175.00!
+Mechanic Uhura got a bonus of $175.00!
+Mechanic Uhura got a bonus of $175.00!
+Mechanic Uhura got a bonus of $175.00!
+Mechanic Uhura fixed Yamaha-3 Broken to Used
+Mechanic Uhura fixed Yamaha-3 Broken to Used
+Mechanic Uhura fixed Yamaha-3 Broken to Used
+Mechanic Uhura fixed Yamaha-3 Broken to Used
+Mechanic Uhura fixed Yamaha-3 Broken to Used
+Mechanic Uhura fixed Yamaha-3 Broken to Used
+Mechanic Uhura fixed Yamaha-3 Broken to Used
+Buyer Han-10 is buying! Salesperson Ross gets a bonus of $875.00!
+Buyer Han-10 is buying! Salesperson Ross gets a bonus of $875.00!
+Buyer Han-10 is buying! Salesperson Ross gets a bonus of $875.00!
+Buyer Han-10 is buying! Salesperson Ross gets a bonus of $875.00!
+Buyer Han-10 is buying! Salesperson Ross gets a bonus of $875.00!
+Buyer Han-10 is buying! Salesperson Ross gets a bonus of $875.00!
+Buyer Chewy-10 is buying! Salesperson Ethel-3 gets a bonus of $750.00!
+Buyer Chewy-10 is buying! Salesperson Ethel-3 gets a bonus of $750.00!
+Buyer Chewy-10 is buying! Salesperson Ethel-3 gets a bonus of $750.00!
+Buyer Chewy-10 is buying! Salesperson Ethel-3 gets a bonus of $750.00!
+Buyer Chewy-10 is buying! Salesperson Ethel-3 gets a bonus of $750.00!
+Buyer Chewy-10 is buying! Salesperson Ethel-3 gets a bonus of $750.00!
+Buyer Chewy-10 is buying! Salesperson Ethel-3 gets a bonus of $750.00!
+Buyer Chewy-10 is buying Ranger-4 for $45,201.60
+Buyer Chewy-10 is buying Ranger-4 for $45,201.60
+Buyer Chewy-10 is buying Ranger-4 for $45,201.60
+Buyer Chewy-10 is buying Ranger-4 for $45,201.60
+Buyer Chewy-10 is buying Ranger-4 for $45,201.60
+Buyer Chewy-10 is buying Ranger-4 for $45,201.60
+Buyer Chewy-10 is buying Ranger-4 for $45,201.60
+Buyer Chewy-10 bought Dirty Used Ranger-4 for $45,201.60
+Buyer Chewy-10 bought Dirty Used Ranger-4 for $45,201.60
+Buyer Chewy-10 bought Dirty Used Ranger-4 for $45,201.60
+Buyer Chewy-10 bought Dirty Used Ranger-4 for $45,201.60
+Buyer Chewy-10 bought Dirty Used Ranger-4 for $45,201.60
+Buyer Chewy-10 bought Dirty Used Ranger-4 for $45,201.60
+Buyer Chewy-10 bought Dirty Used Ranger-4 for $45,201.60
+45201.600000000006 : FNCD made money
+45201.600000000006 : FNCD made money
+45201.600000000006 : FNCD made money
+45201.600000000006 : FNCD made money
+45201.600000000006 : FNCD made money
+45201.600000000006 : FNCD made money
+45201.600000000006 : FNCD made money
+Buyer Han-11 is buying! Salesperson Ethel-3 gets a bonus of $600.00!
+Buyer Han-11 is buying! Salesperson Ethel-3 gets a bonus of $600.00!
+Buyer Han-11 is buying! Salesperson Ethel-3 gets a bonus of $600.00!
+Buyer Han-11 is buying! Salesperson Ethel-3 gets a bonus of $600.00!
+Buyer Han-11 is buying! Salesperson Ethel-3 gets a bonus of $600.00!
+Buyer Han-11 is buying! Salesperson Ethel-3 gets a bonus of $600.00!
+Buyer Han-11 is buying! Salesperson Ethel-3 gets a bonus of $600.00!
+Buyer Han-11 is buying Suzuki-3 for $62,966.00
+Buyer Han-11 is buying Suzuki-3 for $62,966.00
+Buyer Han-11 is buying Suzuki-3 for $62,966.00
+Buyer Han-11 is buying Suzuki-3 for $62,966.00
+Buyer Han-11 is buying Suzuki-3 for $62,966.00
+Buyer Han-11 is buying Suzuki-3 for $62,966.00
+Buyer Han-11 is buying Suzuki-3 for $62,966.00
+Buyer Han-11 bought Clean LikeNew Suzuki-3 for $62,966.00
+Buyer Han-11 bought Clean LikeNew Suzuki-3 for $62,966.00
+Buyer Han-11 bought Clean LikeNew Suzuki-3 for $62,966.00
+Buyer Han-11 bought Clean LikeNew Suzuki-3 for $62,966.00
+Buyer Han-11 bought Clean LikeNew Suzuki-3 for $62,966.00
+Buyer Han-11 bought Clean LikeNew Suzuki-3 for $62,966.00
+Buyer Han-11 bought Clean LikeNew Suzuki-3 for $62,966.00
+62966.0 : FNCD made money
+62966.0 : FNCD made money
+62966.0 : FNCD made money
+62966.0 : FNCD made money
+62966.0 : FNCD made money
+62966.0 : FNCD made money
+62966.0 : FNCD made money
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+Buyer Han-10 is buying Bigfoot for $108,276.00
+Buyer Han-10 is buying Bigfoot for $108,276.00
+Buyer Han-10 is buying Bigfoot for $108,276.00
+Buyer Han-10 is buying Bigfoot for $108,276.00
+Buyer Han-10 is buying Bigfoot for $108,276.00
+Buyer Han-10 is buying Bigfoot for $108,276.00
+Buyer Han-10 is buying Bigfoot for $108,276.00
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+Buyer Han-10 bought Dirty LikeNew Bigfoot for $129,931.20
+Buyer Han-10 bought Dirty LikeNew Bigfoot for $129,931.20
+Buyer Han-10 bought Dirty LikeNew Bigfoot for $129,931.20
+Buyer Han-10 bought Dirty LikeNew Bigfoot for $129,931.20
+Buyer Han-10 bought Dirty LikeNew Bigfoot for $129,931.20
+Buyer Han-10 bought Dirty LikeNew Bigfoot for $129,931.20
+Buyer Han-10 bought Dirty LikeNew Bigfoot for $129,931.20
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+129931.2 : FNCD made money
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+129931.2 : FNCD made money
+129931.2 : FNCD made money
+129931.2 : FNCD made money
+129931.2 : FNCD made money
+129931.2 : FNCD made money
+129931.2 : FNCD made money
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense

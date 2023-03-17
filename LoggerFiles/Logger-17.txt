@@ -1,18 +1,520 @@
--32766.0 : FNCD spent on new car
--32766.0 : FNCD spent on new car
--32766.0 : FNCD spent on new car
--32766.0 : FNCD spent on new car
--32766.0 : FNCD spent on new car
--32766.0 : FNCD spent on new car
--32766.0 : FNCD spent on new car
--32766.0 : FNCD spent on new car
--32766.0 : FNCD spent on new car
--32766.0 : FNCD spent on new car
--32766.0 : FNCD spent on new car
--32766.0 : FNCD spent on new car
--32766.0 : FNCD spent on new car
--32766.0 : FNCD spent on new car
--32766.0 : FNCD spent on new car
--32766.0 : FNCD spent on new car
--32766.0 : FNCD spent on new car
--19636.0 : FNCD spent on new car
+Desi-3 made the Corvette-4 go from Dirty to Clean
+Desi-3 made the Corvette-4 go from Dirty to Clean
+Desi-3 made the Corvette-4 go from Dirty to Clean
+Desi-3 made the Corvette-4 go from Dirty to Clean
+Ethel-4 made the Mustang-4 go from Dirty to Clean
+Ethel-4 made the Mustang-4 go from Dirty to Clean
+Ethel-4 made the Mustang-4 go from Dirty to Clean
+Ethel-4 made the Mustang-4 go from Dirty to Clean
+Ethel-4 made the Mustang-4 go from Dirty to Clean
+Ethel-4 made the Mustang-4 go from Dirty to Clean
+Ethel-4 made the Mustang-4 go from Dirty to Clean
+Ethel-4 made the Mustang-4 go from Dirty to Clean
+Ethel-4 made the Mustang-4 go from Dirty to Clean
+Ethel-4 made the Mustang-4 go from Dirty to Clean
+Ethel-4 made the Mustang-4 go from Dirty to Clean
+Ethel-4 made the Mustang-4 go from Dirty to Clean
+Ethel-4 made the Mustang-4 go from Dirty to Clean
+Ethel-4 made the Mustang-4 go from Dirty to Clean
+Ethel-4 made the Mustang-4 go from Dirty to Clean
+Ethel-4 made the Mustang-4 go from Dirty to Clean
+Ethel-4 made the Mustang-4 go from Dirty to Clean
+Ethel-4 made the Mustang-4 go from Dirty to Clean
+Ethel-4 made the Mustang-4 go from Dirty to Clean
+Ethel-4 made the Mustang Mach-4 go from Dirty to Clean
+Ethel-4 made the Mustang Mach-4 go from Dirty to Clean
+Ethel-4 made the Mustang Mach-4 go from Dirty to Clean
+Ethel-4 made the Mustang Mach-4 go from Dirty to Clean
+Ethel-4 made the Mustang Mach-4 go from Dirty to Clean
+Ethel-4 made the Mustang Mach-4 go from Dirty to Clean
+Ethel-4 made the Mustang Mach-4 go from Dirty to Clean
+Ethel-4 made the Mustang Mach-4 go from Dirty to Clean
+Ethel-4 made the Mustang Mach-4 go from Dirty to Clean
+Ethel-4 made the Mustang Mach-4 go from Dirty to Clean
+Ethel-4 made the Mustang Mach-4 go from Dirty to Clean
+Ethel-4 made the Mustang Mach-4 go from Dirty to Clean
+Ethel-4 made the Mustang Mach-4 go from Dirty to Clean
+Ethel-4 made the Mustang Mach-4 go from Dirty to Clean
+Ethel-4 made the Mustang Mach-4 go from Dirty to Clean
+Ethel-4 made the Mustang Mach-4 go from Dirty to Clean
+Ethel-4 made the Mustang Mach-4 go from Dirty to Clean
+Ethel-4 made the Mustang Mach-4 go from Dirty to Clean
+Ethel-4 made the Mustang Mach-4 go from Dirty to Clean
+Desi-4 made the Toyota Mirai-6 go from Dirty to Clean
+Desi-4 made the Toyota Mirai-6 go from Dirty to Clean
+Desi-4 made the Toyota Mirai-6 go from Dirty to Clean
+Desi-4 made the Toyota Mirai-6 go from Dirty to Clean
+Desi-4 made the Toyota Mirai-6 go from Dirty to Clean
+Desi-4 made the Toyota Mirai-6 go from Dirty to Clean
+Desi-4 made the Toyota Mirai-6 go from Dirty to Clean
+Desi-4 made the Toyota Mirai-6 go from Dirty to Clean
+Desi-4 made the Toyota Mirai-6 go from Dirty to Clean
+Desi-4 made the Toyota Mirai-6 go from Dirty to Clean
+Desi-4 made the Toyota Mirai-6 go from Dirty to Clean
+Desi-4 made the Toyota Mirai-6 go from Dirty to Clean
+Desi-4 made the Toyota Mirai-6 go from Dirty to Clean
+Desi-4 made the Toyota Mirai-6 go from Dirty to Clean
+Desi-4 made the Toyota Mirai-6 go from Dirty to Clean
+Desi-4 made the Toyota Mirai-6 go from Dirty to Clean
+Desi-4 made the Toyota Mirai-6 go from Dirty to Clean
+Desi-4 made the Toyota Mirai-6 go from Dirty to Clean
+Desi-4 made the Toyota Mirai-6 go from Dirty to Clean
+Desi-4 made the Harley Davidson-5 go from Dirty to Clean
+Desi-4 made the Harley Davidson-5 go from Dirty to Clean
+Desi-4 made the Harley Davidson-5 go from Dirty to Clean
+Desi-4 made the Harley Davidson-5 go from Dirty to Clean
+Desi-4 made the Harley Davidson-5 go from Dirty to Clean
+Desi-4 made the Harley Davidson-5 go from Dirty to Clean
+Desi-4 made the Harley Davidson-5 go from Dirty to Clean
+Desi-4 made the Harley Davidson-5 go from Dirty to Clean
+Desi-4 made the Harley Davidson-5 go from Dirty to Clean
+Desi-4 made the Harley Davidson-5 go from Dirty to Clean
+Desi-4 made the Harley Davidson-5 go from Dirty to Clean
+Desi-4 made the Harley Davidson-5 go from Dirty to Clean
+Desi-4 made the Harley Davidson-5 go from Dirty to Clean
+Desi-4 made the Harley Davidson-5 go from Dirty to Clean
+Desi-4 made the Harley Davidson-5 go from Dirty to Clean
+Desi-4 made the Harley Davidson-5 go from Dirty to Clean
+Desi-4 made the Harley Davidson-5 go from Dirty to Clean
+Desi-4 made the Harley Davidson-5 go from Dirty to Clean
+Desi-4 made the Harley Davidson-5 go from Dirty to Clean
+Mechanic James did not fix the Used Vespa X-4
+Mechanic James did not fix the Used Vespa X-4
+Mechanic James did not fix the Used Vespa X-4
+Mechanic James did not fix the Used Vespa X-4
+Mechanic James did not fix the Used Vespa X-4
+Mechanic James did not fix the Used Vespa X-4
+Mechanic James did not fix the Used Vespa X-4
+Mechanic James did not fix the Used Vespa X-4
+Mechanic James did not fix the Used Vespa X-4
+Mechanic James did not fix the Used Vespa X-4
+Mechanic James did not fix the Used Vespa X-4
+Mechanic James did not fix the Used Vespa X-4
+Mechanic James did not fix the Used Vespa X-4
+Mechanic James did not fix the Used Vespa X-4
+Mechanic James did not fix the Used Vespa X-4
+Mechanic James did not fix the Used Vespa X-4
+Mechanic James did not fix the Used Vespa X-4
+Mechanic James did not fix the Used Vespa X-4
+Mechanic James did not fix the Used Vespa X-4
+Mechanic James got a bonus of $250.00!
+Mechanic James got a bonus of $250.00!
+Mechanic James got a bonus of $250.00!
+Mechanic James got a bonus of $250.00!
+Mechanic James got a bonus of $250.00!
+Mechanic James got a bonus of $250.00!
+Mechanic James got a bonus of $250.00!
+Mechanic James got a bonus of $250.00!
+Mechanic James got a bonus of $250.00!
+Mechanic James got a bonus of $250.00!
+Mechanic James got a bonus of $250.00!
+Mechanic James got a bonus of $250.00!
+Mechanic James got a bonus of $250.00!
+Mechanic James got a bonus of $250.00!
+Mechanic James got a bonus of $250.00!
+Mechanic James got a bonus of $250.00!
+Mechanic James got a bonus of $250.00!
+Mechanic James got a bonus of $250.00!
+Mechanic James got a bonus of $250.00!
+Mechanic James fixed Bear Foot USA-2 Used to LikeNew
+Mechanic James fixed Bear Foot USA-2 Used to LikeNew
+Mechanic James fixed Bear Foot USA-2 Used to LikeNew
+-36855.0 : FNCD spent on new car
+Mechanic James fixed Bear Foot USA-2 Used to LikeNew
+Mechanic James fixed Bear Foot USA-2 Used to LikeNew
+Mechanic James fixed Bear Foot USA-2 Used to LikeNew
+Mechanic James fixed Bear Foot USA-2 Used to LikeNew
+Mechanic James fixed Bear Foot USA-2 Used to LikeNew
+Mechanic James fixed Bear Foot USA-2 Used to LikeNew
+Mechanic James fixed Bear Foot USA-2 Used to LikeNew
+Mechanic James fixed Bear Foot USA-2 Used to LikeNew
+Mechanic James fixed Bear Foot USA-2 Used to LikeNew
+Mechanic James fixed Bear Foot USA-2 Used to LikeNew
+Mechanic James fixed Bear Foot USA-2 Used to LikeNew
+Mechanic James fixed Bear Foot USA-2 Used to LikeNew
+Mechanic James fixed Bear Foot USA-2 Used to LikeNew
+Mechanic James fixed Bear Foot USA-2 Used to LikeNew
+Mechanic James fixed Bear Foot USA-2 Used to LikeNew
+Mechanic James fixed Bear Foot USA-2 Used to LikeNew
+Mechanic Scotty-2 got a bonus of $50.00!
+Mechanic Scotty-2 got a bonus of $50.00!
+Mechanic Scotty-2 got a bonus of $50.00!
+Mechanic Scotty-2 got a bonus of $50.00!
+Mechanic Scotty-2 got a bonus of $50.00!
+Mechanic Scotty-2 got a bonus of $50.00!
+Mechanic Scotty-2 got a bonus of $50.00!
+Mechanic Scotty-2 got a bonus of $50.00!
+Mechanic Scotty-2 got a bonus of $50.00!
+Mechanic Scotty-2 got a bonus of $50.00!
+Mechanic Scotty-2 got a bonus of $50.00!
+Mechanic Scotty-2 got a bonus of $50.00!
+Mechanic Scotty-2 got a bonus of $50.00!
+Mechanic Scotty-2 got a bonus of $50.00!
+Mechanic Scotty-2 got a bonus of $50.00!
+Mechanic Scotty-2 got a bonus of $50.00!
+Mechanic Scotty-2 got a bonus of $50.00!
+Mechanic Scotty-2 got a bonus of $50.00!
+Mechanic Scotty-2 got a bonus of $50.00!
+Mechanic Scotty-2 fixed Vespa X-4 Used to LikeNew
+Mechanic Scotty-2 fixed Vespa X-4 Used to LikeNew
+Mechanic Scotty-2 fixed Vespa X-4 Used to LikeNew
+Mechanic Scotty-2 fixed Vespa X-4 Used to LikeNew
+Mechanic Scotty-2 fixed Vespa X-4 Used to LikeNew
+Mechanic Scotty-2 fixed Vespa X-4 Used to LikeNew
+Mechanic Scotty-2 fixed Vespa X-4 Used to LikeNew
+Mechanic Scotty-2 fixed Vespa X-4 Used to LikeNew
+Mechanic Scotty-2 fixed Vespa X-4 Used to LikeNew
+Mechanic Scotty-2 fixed Vespa X-4 Used to LikeNew
+Mechanic Scotty-2 fixed Vespa X-4 Used to LikeNew
+Mechanic Scotty-2 fixed Vespa X-4 Used to LikeNew
+Mechanic Scotty-2 fixed Vespa X-4 Used to LikeNew
+Mechanic Scotty-2 fixed Vespa X-4 Used to LikeNew
+Mechanic Scotty-2 fixed Vespa X-4 Used to LikeNew
+Mechanic Scotty-2 fixed Vespa X-4 Used to LikeNew
+Mechanic Scotty-2 fixed Vespa X-4 Used to LikeNew
+Mechanic Scotty-2 fixed Vespa X-4 Used to LikeNew
+Mechanic Scotty-2 fixed Vespa X-4 Used to LikeNew
+Mechanic Scotty-2 got a bonus of $250.00!
+Mechanic Scotty-2 got a bonus of $250.00!
+Mechanic Scotty-2 got a bonus of $250.00!
+Mechanic Scotty-2 got a bonus of $250.00!
+Mechanic Scotty-2 got a bonus of $250.00!
+Mechanic Scotty-2 got a bonus of $250.00!
+Mechanic Scotty-2 got a bonus of $250.00!
+Mechanic Scotty-2 got a bonus of $250.00!
+Mechanic Scotty-2 got a bonus of $250.00!
+Mechanic Scotty-2 got a bonus of $250.00!
+Mechanic Scotty-2 got a bonus of $250.00!
+Mechanic Scotty-2 got a bonus of $250.00!
+Mechanic Scotty-2 got a bonus of $250.00!
+Mechanic Scotty-2 got a bonus of $250.00!
+Mechanic Scotty-2 got a bonus of $250.00!
+Mechanic Scotty-2 got a bonus of $250.00!
+Mechanic Scotty-2 got a bonus of $250.00!
+Mechanic Scotty-2 got a bonus of $250.00!
+Mechanic Scotty-2 got a bonus of $250.00!
+Mechanic Scotty-2 fixed Hyundai Nexo-6 Used to LikeNew
+Mechanic Scotty-2 fixed Hyundai Nexo-6 Used to LikeNew
+Mechanic Scotty-2 fixed Hyundai Nexo-6 Used to LikeNew
+Mechanic Scotty-2 fixed Hyundai Nexo-6 Used to LikeNew
+Mechanic Scotty-2 fixed Hyundai Nexo-6 Used to LikeNew
+Mechanic Scotty-2 fixed Hyundai Nexo-6 Used to LikeNew
+Mechanic Scotty-2 fixed Hyundai Nexo-6 Used to LikeNew
+Mechanic Scotty-2 fixed Hyundai Nexo-6 Used to LikeNew
+Mechanic Scotty-2 fixed Hyundai Nexo-6 Used to LikeNew
+Mechanic Scotty-2 fixed Hyundai Nexo-6 Used to LikeNew
+Mechanic Scotty-2 fixed Hyundai Nexo-6 Used to LikeNew
+Mechanic Scotty-2 fixed Hyundai Nexo-6 Used to LikeNew
+Mechanic Scotty-2 fixed Hyundai Nexo-6 Used to LikeNew
+Mechanic Scotty-2 fixed Hyundai Nexo-6 Used to LikeNew
+Mechanic Scotty-2 fixed Hyundai Nexo-6 Used to LikeNew
+Mechanic Scotty-2 fixed Hyundai Nexo-6 Used to LikeNew
+Mechanic Scotty-2 fixed Hyundai Nexo-6 Used to LikeNew
+Mechanic Scotty-2 fixed Hyundai Nexo-6 Used to LikeNew
+Mechanic Scotty-2 fixed Hyundai Nexo-6 Used to LikeNew
+-36855.0 : FNCD spent on new car
+-36855.0 : FNCD spent on new car
+Buyer Luke-26 is buying! Salesperson Phoebe gets a bonus of $750.00!
+Buyer Luke-26 is buying! Salesperson Phoebe gets a bonus of $750.00!
+Buyer Luke-26 is buying! Salesperson Phoebe gets a bonus of $750.00!
+Buyer Luke-26 is buying! Salesperson Phoebe gets a bonus of $750.00!
+Buyer Luke-26 is buying! Salesperson Phoebe gets a bonus of $750.00!
+Buyer Luke-26 is buying! Salesperson Phoebe gets a bonus of $750.00!
+Buyer Luke-26 is buying! Salesperson Phoebe gets a bonus of $750.00!
+Buyer Luke-26 is buying! Salesperson Phoebe gets a bonus of $750.00!
+Buyer Luke-26 is buying! Salesperson Phoebe gets a bonus of $750.00!
+Buyer Luke-26 is buying! Salesperson Phoebe gets a bonus of $750.00!
+Buyer Luke-26 is buying! Salesperson Phoebe gets a bonus of $750.00!
+Buyer Luke-26 is buying! Salesperson Phoebe gets a bonus of $750.00!
+Buyer Luke-26 is buying! Salesperson Phoebe gets a bonus of $750.00!
+Buyer Luke-26 is buying! Salesperson Phoebe gets a bonus of $750.00!
+Buyer Luke-26 is buying! Salesperson Phoebe gets a bonus of $750.00!
+Buyer Luke-26 is buying! Salesperson Phoebe gets a bonus of $750.00!
+Buyer Luke-26 is buying! Salesperson Phoebe gets a bonus of $750.00!
+Buyer Luke-26 is buying! Salesperson Phoebe gets a bonus of $750.00!
+Buyer Luke-26 is buying! Salesperson Phoebe gets a bonus of $750.00!
+Buyer Luke-26 is buying Colorado for $77,792.00
+Buyer Luke-26 is buying Colorado for $77,792.00
+Buyer Luke-26 is buying Colorado for $77,792.00
+Buyer Luke-26 is buying Colorado for $77,792.00
+Buyer Luke-26 is buying Colorado for $77,792.00
+Buyer Luke-26 is buying Colorado for $77,792.00
+Buyer Luke-26 is buying Colorado for $77,792.00
+Buyer Luke-26 is buying Colorado for $77,792.00
+Buyer Luke-26 is buying Colorado for $77,792.00
+Buyer Luke-26 is buying Colorado for $77,792.00
+Buyer Luke-26 is buying Colorado for $77,792.00
+Buyer Luke-26 is buying Colorado for $77,792.00
+Buyer Luke-26 is buying Colorado for $77,792.00
+Buyer Luke-26 is buying Colorado for $77,792.00
+Buyer Luke-26 is buying Colorado for $77,792.00
+Buyer Luke-26 is buying Colorado for $77,792.00
+Buyer Luke-26 is buying Colorado for $77,792.00
+Buyer Luke-26 is buying Colorado for $77,792.00
+Buyer Luke-26 is buying Colorado for $77,792.00
+Buyer Luke-26 bought Clean LikeNew Colorado for $93,350.40
+Buyer Luke-26 bought Clean LikeNew Colorado for $93,350.40
+Buyer Luke-26 bought Clean LikeNew Colorado for $93,350.40
+Buyer Luke-26 bought Clean LikeNew Colorado for $93,350.40
+Buyer Luke-26 bought Clean LikeNew Colorado for $93,350.40
+Buyer Luke-26 bought Clean LikeNew Colorado for $93,350.40
+Buyer Luke-26 bought Clean LikeNew Colorado for $93,350.40
+Buyer Luke-26 bought Clean LikeNew Colorado for $93,350.40
+Buyer Luke-26 bought Clean LikeNew Colorado for $93,350.40
+Buyer Luke-26 bought Clean LikeNew Colorado for $93,350.40
+Buyer Luke-26 bought Clean LikeNew Colorado for $93,350.40
+Buyer Luke-26 bought Clean LikeNew Colorado for $93,350.40
+Buyer Luke-26 bought Clean LikeNew Colorado for $93,350.40
+Buyer Luke-26 bought Clean LikeNew Colorado for $93,350.40
+Buyer Luke-26 bought Clean LikeNew Colorado for $93,350.40
+Buyer Luke-26 bought Clean LikeNew Colorado for $93,350.40
+Buyer Luke-26 bought Clean LikeNew Colorado for $93,350.40
+Buyer Luke-26 bought Clean LikeNew Colorado for $93,350.40
+Buyer Luke-26 bought Clean LikeNew Colorado for $93,350.40
+93350.4 : FNCD made money
+93350.4 : FNCD made money
+93350.4 : FNCD made money
+93350.4 : FNCD made money
+93350.4 : FNCD made money
+93350.4 : FNCD made money
+93350.4 : FNCD made money
+93350.4 : FNCD made money
+93350.4 : FNCD made money
+93350.4 : FNCD made money
+93350.4 : FNCD made money
+93350.4 : FNCD made money
+93350.4 : FNCD made money
+93350.4 : FNCD made money
+93350.4 : FNCD made money
+93350.4 : FNCD made money
+93350.4 : FNCD made money
+93350.4 : FNCD made money
+93350.4 : FNCD made money
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense

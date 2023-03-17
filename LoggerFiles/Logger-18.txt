@@ -1,85 +1,628 @@
--12708.5 : FNCD spent on new car
--12708.5 : FNCD spent on new car
--12708.5 : FNCD spent on new car
--12708.5 : FNCD spent on new car
--12708.5 : FNCD spent on new car
--12708.5 : FNCD spent on new car
--12708.5 : FNCD spent on new car
--12708.5 : FNCD spent on new car
--12708.5 : FNCD spent on new car
--12708.5 : FNCD spent on new car
--12708.5 : FNCD spent on new car
--12708.5 : FNCD spent on new car
--12708.5 : FNCD spent on new car
--12708.5 : FNCD spent on new car
--12708.5 : FNCD spent on new car
--12708.5 : FNCD spent on new car
--12708.5 : FNCD spent on new car
--12708.5 : FNCD spent on new car
-Fred made the Toyota Corolla-5 go from Dirty to Clean
-Fred made the Toyota Corolla-5 go from Dirty to Clean
-Fred made the Toyota Corolla-5 go from Dirty to Clean
-Fred made the Toyota Corolla-5 go from Dirty to Clean
-Fred made the Toyota Corolla-5 go from Dirty to Clean
-Fred made the Toyota Corolla-5 go from Dirty to Clean
-Fred made the Toyota Corolla-5 go from Dirty to Clean
-Fred made the Toyota Corolla-5 go from Dirty to Clean
-Fred made the Toyota Corolla-5 go from Dirty to Clean
-Fred made the Toyota Corolla-5 go from Dirty to Clean
-Fred made the Toyota Corolla-5 go from Dirty to Clean
-Fred made the Toyota Corolla-5 go from Dirty to Clean
-Fred made the Toyota Corolla-5 go from Dirty to Clean
-Fred made the Toyota Corolla-5 go from Dirty to Clean
-Fred made the Toyota Corolla-5 go from Dirty to Clean
-Fred made the Toyota Corolla-5 go from Dirty to Clean
-Fred made the Toyota Corolla-5 go from Dirty to Clean
-Fred made the Toyota Corolla-5 go from Dirty to Clean
-Desi-2 made the Ranger-6 go from Dirty to Clean
-Desi-2 made the Ranger-6 go from Dirty to Clean
-Desi-2 made the Ranger-6 go from Dirty to Clean
-Desi-2 made the Ranger-6 go from Dirty to Clean
-Desi-2 made the Ranger-6 go from Dirty to Clean
-Desi-2 made the Ranger-6 go from Dirty to Clean
-Desi-2 made the Ranger-6 go from Dirty to Clean
-Desi-2 made the Ranger-6 go from Dirty to Clean
-Desi-2 made the Ranger-6 go from Dirty to Clean
-Desi-2 made the Ranger-6 go from Dirty to Clean
-Desi-2 made the Ranger-6 go from Dirty to Clean
-Desi-2 made the Ranger-6 go from Dirty to Clean
-Desi-2 made the Ranger-6 go from Dirty to Clean
-Desi-2 made the Ranger-6 go from Dirty to Clean
-Desi-2 made the Ranger-6 go from Dirty to Clean
-Desi-2 made the Ranger-6 go from Dirty to Clean
-Desi-2 made the Ranger-6 go from Dirty to Clean
-Desi-2 made the Ranger-6 go from Dirty to Clean
-Desi-3 made the Vespa X-4 go from Dirty to Clean
-Desi-3 made the Vespa X-4 go from Dirty to Clean
-Desi-3 made the Vespa X-4 go from Dirty to Clean
-Desi-3 made the Vespa X-4 go from Dirty to Clean
-Desi-3 made the Vespa X-4 go from Dirty to Clean
-Desi-3 made the Vespa X-4 go from Dirty to Clean
-Desi-3 made the Vespa X-4 go from Dirty to Clean
-Desi-3 made the Vespa X-4 go from Dirty to Clean
-Desi-3 made the Vespa X-4 go from Dirty to Clean
-Desi-3 made the Vespa X-4 go from Dirty to Clean
-Desi-3 made the Vespa X-4 go from Dirty to Clean
-Desi-3 made the Vespa X-4 go from Dirty to Clean
-Desi-3 made the Vespa X-4 go from Dirty to Clean
-Desi-3 made the Vespa X-4 go from Dirty to Clean
-Desi-3 made the Vespa X-4 go from Dirty to Clean
-Desi-3 made the Vespa X-4 go from Dirty to Clean
-Desi-3 made the Vespa X-4 go from Dirty to Clean
-Desi-3 made the Vespa X-4 go from Dirty to Clean
-Desi-3 made the Yamaha-5 go from Dirty to Clean
-Desi-3 made the Yamaha-5 go from Dirty to Clean
-Desi-3 made the Yamaha-5 go from Dirty to Clean
-Desi-3 made the Yamaha-5 go from Dirty to Clean
-Desi-3 made the Yamaha-5 go from Dirty to Clean
-Desi-3 made the Yamaha-5 go from Dirty to Clean
-Desi-3 made the Yamaha-5 go from Dirty to Clean
-Desi-3 made the Yamaha-5 go from Dirty to Clean
-Desi-3 made the Yamaha-5 go from Dirty to Clean
-Desi-3 made the Yamaha-5 go from Dirty to Clean
-Desi-3 made the Yamaha-5 go from Dirty to Clean
-Desi-3 made the Yamaha-5 go from Dirty to Clean
-Desi-3 made the Yamaha-5 go from Dirty to Clean
+-27138.0 : FNCD spent on new car
+-27138.0 : FNCD spent on new car
+-27138.0 : FNCD spent on new car
+-27138.0 : FNCD spent on new car
+-27138.0 : FNCD spent on new car
+-27138.0 : FNCD spent on new car
+-27138.0 : FNCD spent on new car
+-27138.0 : FNCD spent on new car
+-27138.0 : FNCD spent on new car
+-27138.0 : FNCD spent on new car
+-27138.0 : FNCD spent on new car
+-27138.0 : FNCD spent on new car
+-27138.0 : FNCD spent on new car
+-27138.0 : FNCD spent on new car
+-27138.0 : FNCD spent on new car
+-27138.0 : FNCD spent on new car
+-27138.0 : FNCD spent on new car
+-27138.0 : FNCD spent on new car
+-15403.2 : FNCD spent on new car
+-15403.2 : FNCD spent on new car
+-15403.2 : FNCD spent on new car
+-15403.2 : FNCD spent on new car
+-15403.2 : FNCD spent on new car
+-15403.2 : FNCD spent on new car
+-15403.2 : FNCD spent on new car
+-15403.2 : FNCD spent on new car
+-15403.2 : FNCD spent on new car
+-15403.2 : FNCD spent on new car
+-15403.2 : FNCD spent on new car
+-15403.2 : FNCD spent on new car
+-15403.2 : FNCD spent on new car
+-15403.2 : FNCD spent on new car
+-15403.2 : FNCD spent on new car
+-15403.2 : FNCD spent on new car
+-15403.2 : FNCD spent on new car
+-15403.2 : FNCD spent on new car
+Desi made the Europa-2 go from Dirty to Clean
+Desi made the Europa-2 go from Dirty to Clean
+Desi made the Europa-2 go from Dirty to Clean
+Desi made the Europa-2 go from Dirty to Clean
+Desi made the Europa-2 go from Dirty to Clean
+Desi made the Europa-2 go from Dirty to Clean
+Desi made the Europa-2 go from Dirty to Clean
+Desi made the Europa-2 go from Dirty to Clean
+Desi made the Europa-2 go from Dirty to Clean
+Desi made the Europa-2 go from Dirty to Clean
+Desi made the Europa-2 go from Dirty to Clean
+Desi made the Europa-2 go from Dirty to Clean
+Desi made the Europa-2 go from Dirty to Clean
+Desi made the Europa-2 go from Dirty to Clean
+Desi made the Europa-2 go from Dirty to Clean
+Desi made the Europa-2 go from Dirty to Clean
+Desi made the Europa-2 go from Dirty to Clean
+Desi made the Europa-2 go from Dirty to Clean
+InternLucy-3 made the Europa-3 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternLucy-3 made the Europa-3 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternLucy-3 made the Europa-3 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternLucy-3 made the Europa-3 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternLucy-3 made the Europa-3 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternLucy-3 made the Europa-3 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternLucy-3 made the Europa-3 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternLucy-3 made the Europa-3 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternLucy-3 made the Europa-3 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternLucy-3 made the Europa-3 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternLucy-3 made the Europa-3 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternLucy-3 made the Europa-3 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternLucy-3 made the Europa-3 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternLucy-3 made the Europa-3 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternLucy-3 made the Europa-3 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternLucy-3 made the Europa-3 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternLucy-3 made the Europa-3 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternLucy-3 made the Europa-3 go from Dirty to Sparkling. They earned a bonus of: 100.0
+Lucy-3 made the Toyota Corolla-5 go from Dirty to Clean
+Lucy-3 made the Toyota Corolla-5 go from Dirty to Clean
+Lucy-3 made the Toyota Corolla-5 go from Dirty to Clean
+Lucy-3 made the Toyota Corolla-5 go from Dirty to Clean
+Lucy-3 made the Toyota Corolla-5 go from Dirty to Clean
+Lucy-3 made the Toyota Corolla-5 go from Dirty to Clean
+Lucy-3 made the Toyota Corolla-5 go from Dirty to Clean
+Lucy-3 made the Toyota Corolla-5 go from Dirty to Clean
+Lucy-3 made the Toyota Corolla-5 go from Dirty to Clean
+Lucy-3 made the Toyota Corolla-5 go from Dirty to Clean
+Lucy-3 made the Toyota Corolla-5 go from Dirty to Clean
+Lucy-3 made the Toyota Corolla-5 go from Dirty to Clean
+Lucy-3 made the Toyota Corolla-5 go from Dirty to Clean
+Lucy-3 made the Toyota Corolla-5 go from Dirty to Clean
+Lucy-3 made the Toyota Corolla-5 go from Dirty to Clean
+Lucy-3 made the Toyota Corolla-5 go from Dirty to Clean
+Lucy-3 made the Toyota Corolla-5 go from Dirty to Clean
+Lucy-3 made the Toyota Corolla-5 go from Dirty to Clean
+-38808.8 : FNCD spent on new car
+-38808.8 : FNCD spent on new car
+-38808.8 : FNCD spent on new car
+-38808.8 : FNCD spent on new car
+-38808.8 : FNCD spent on new car
+-38808.8 : FNCD spent on new car
+-38808.8 : FNCD spent on new car
+-38808.8 : FNCD spent on new car
+-38808.8 : FNCD spent on new car
+-38808.8 : FNCD spent on new car
+-38808.8 : FNCD spent on new car
+-38808.8 : FNCD spent on new car
+-38808.8 : FNCD spent on new car
+-38808.8 : FNCD spent on new car
+-38808.8 : FNCD spent on new car
+-38808.8 : FNCD spent on new car
+-38808.8 : FNCD spent on new car
+-38808.8 : FNCD spent on new car
+-38808.8 : FNCD spent on new car
+-38808.8 : FNCD spent on new car
+-38808.8 : FNCD spent on new car
+Ethel-4 made the F-250-5 go from Dirty to Clean
+Ethel-4 made the F-250-5 go from Dirty to Clean
+Ethel-4 made the F-250-5 go from Dirty to Clean
+Ethel-4 made the F-250-5 go from Dirty to Clean
+Ethel-4 made the F-250-5 go from Dirty to Clean
+Ethel-4 made the F-250-5 go from Dirty to Clean
+Ethel-4 made the F-250-5 go from Dirty to Clean
+Ethel-4 made the F-250-5 go from Dirty to Clean
+Ethel-4 made the F-250-5 go from Dirty to Clean
+Ethel-4 made the F-250-5 go from Dirty to Clean
+Ethel-4 made the F-250-5 go from Dirty to Clean
+Ethel-4 made the F-250-5 go from Dirty to Clean
+Ethel-4 made the F-250-5 go from Dirty to Clean
+Ethel-4 made the F-250-5 go from Dirty to Clean
+Ethel-4 made the F-250-5 go from Dirty to Clean
+Ethel-4 made the F-250-5 go from Dirty to Clean
+Ethel-4 made the F-250-5 go from Dirty to Clean
+Ethel-4 made the F-250-5 go from Dirty to Clean
+Ethel-4 made the F-250-5 go from Dirty to Clean
+Ethel-4 made the F-250-5 go from Dirty to Clean
+Ethel-4 made the F-250-5 go from Dirty to Clean
+InternEthel-4 made the Honda Clarity-6 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternEthel-4 made the Honda Clarity-6 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternEthel-4 made the Honda Clarity-6 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternEthel-4 made the Honda Clarity-6 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternEthel-4 made the Honda Clarity-6 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternEthel-4 made the Honda Clarity-6 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternEthel-4 made the Honda Clarity-6 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternEthel-4 made the Honda Clarity-6 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternEthel-4 made the Honda Clarity-6 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternEthel-4 made the Honda Clarity-6 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternEthel-4 made the Honda Clarity-6 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternEthel-4 made the Honda Clarity-6 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternEthel-4 made the Honda Clarity-6 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternEthel-4 made the Honda Clarity-6 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternEthel-4 made the Honda Clarity-6 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternEthel-4 made the Honda Clarity-6 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternEthel-4 made the Honda Clarity-6 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternEthel-4 made the Honda Clarity-6 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternEthel-4 made the Honda Clarity-6 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternEthel-4 made the Honda Clarity-6 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternEthel-4 made the Honda Clarity-6 go from Dirty to Sparkling. They earned a bonus of: 100.0
+Mechanic James got a bonus of $300.00!
+Mechanic James got a bonus of $300.00!
+Mechanic James got a bonus of $300.00!
+Mechanic James got a bonus of $300.00!
+Mechanic James got a bonus of $300.00!
+Mechanic James got a bonus of $300.00!
+Mechanic James got a bonus of $300.00!
+Mechanic James got a bonus of $300.00!
+Mechanic James got a bonus of $300.00!
+Mechanic James got a bonus of $300.00!
+Mechanic James got a bonus of $300.00!
+Mechanic James got a bonus of $300.00!
+Mechanic James got a bonus of $300.00!
+Mechanic James got a bonus of $300.00!
+Mechanic James got a bonus of $300.00!
+Mechanic James got a bonus of $300.00!
+Mechanic James got a bonus of $300.00!
+Mechanic James got a bonus of $300.00!
+Mechanic James got a bonus of $300.00!
+Mechanic James got a bonus of $300.00!
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Corvette-2 Broken to Used
+Mechanic James fixed Corvette-2 Broken to Used
+Mechanic James fixed Corvette-2 Broken to Used
+Mechanic James fixed Corvette-2 Broken to Used
+Mechanic James fixed Corvette-2 Broken to Used
+Mechanic James fixed Corvette-2 Broken to Used
+Mechanic James fixed Corvette-2 Broken to Used
+Mechanic James fixed Corvette-2 Broken to Used
+Mechanic James fixed Corvette-2 Broken to Used
+InternLucy-4 made the Escort go from Clean to Sparkling. They earned a bonus of: 20.0
+InternLucy-4 made the Escort go from Clean to Sparkling. They earned a bonus of: 20.0
+InternLucy-4 made the Escort go from Clean to Sparkling. They earned a bonus of: 20.0
+InternLucy-4 made the Escort go from Clean to Sparkling. They earned a bonus of: 20.0
+InternLucy-4 made the Escort go from Clean to Sparkling. They earned a bonus of: 20.0
+InternLucy-4 made the Escort go from Clean to Sparkling. They earned a bonus of: 20.0
+InternLucy-4 made the Escort go from Clean to Sparkling. They earned a bonus of: 20.0
+InternLucy-4 made the Escort go from Clean to Sparkling. They earned a bonus of: 20.0
+InternLucy-4 made the Escort go from Clean to Sparkling. They earned a bonus of: 20.0
+InternLucy-4 made the Escort go from Clean to Sparkling. They earned a bonus of: 20.0
+InternLucy-4 made the Escort go from Clean to Sparkling. They earned a bonus of: 20.0
+InternLucy-4 made the Escort go from Clean to Sparkling. They earned a bonus of: 20.0
+InternLucy-4 made the Escort go from Clean to Sparkling. They earned a bonus of: 20.0
+InternLucy-4 made the Escort go from Clean to Sparkling. They earned a bonus of: 20.0
+InternLucy-4 made the Escort go from Clean to Sparkling. They earned a bonus of: 20.0
+InternLucy-4 made the Escort go from Clean to Sparkling. They earned a bonus of: 20.0
+InternLucy-4 made the Escort go from Clean to Sparkling. They earned a bonus of: 20.0
+InternLucy-4 made the Escort go from Clean to Sparkling. They earned a bonus of: 20.0
+InternLucy-4 made the Vespa GT-4 go from Clean to Sparkling. They earned a bonus of: 30.0
+InternLucy-4 made the Vespa GT-4 go from Clean to Sparkling. They earned a bonus of: 30.0
+InternLucy-4 made the Vespa GT-4 go from Clean to Sparkling. They earned a bonus of: 30.0
+InternLucy-4 made the Vespa GT-4 go from Clean to Sparkling. They earned a bonus of: 30.0
+InternLucy-4 made the Vespa GT-4 go from Clean to Sparkling. They earned a bonus of: 30.0
+InternLucy-4 made the Vespa GT-4 go from Clean to Sparkling. They earned a bonus of: 30.0
+InternLucy-4 made the Vespa GT-4 go from Clean to Sparkling. They earned a bonus of: 30.0
+InternLucy-4 made the Vespa GT-4 go from Clean to Sparkling. They earned a bonus of: 30.0
+InternLucy-4 made the Vespa GT-4 go from Clean to Sparkling. They earned a bonus of: 30.0
+InternLucy-4 made the Vespa GT-4 go from Clean to Sparkling. They earned a bonus of: 30.0
+InternLucy-4 made the Vespa GT-4 go from Clean to Sparkling. They earned a bonus of: 30.0
+InternLucy-4 made the Vespa GT-4 go from Clean to Sparkling. They earned a bonus of: 30.0
+InternLucy-4 made the Vespa GT-4 go from Clean to Sparkling. They earned a bonus of: 30.0
+InternLucy-4 made the Vespa GT-4 go from Clean to Sparkling. They earned a bonus of: 30.0
+InternLucy-4 made the Vespa GT-4 go from Clean to Sparkling. They earned a bonus of: 30.0
+InternLucy-4 made the Vespa GT-4 go from Clean to Sparkling. They earned a bonus of: 30.0
+InternLucy-4 made the Vespa GT-4 go from Clean to Sparkling. They earned a bonus of: 30.0
+InternLucy-4 made the Vespa GT-4 go from Clean to Sparkling. They earned a bonus of: 30.0
+Mechanic Scotty got a bonus of $250.00!
+Mechanic Scotty got a bonus of $250.00!
+Mechanic Scotty got a bonus of $250.00!
+Mechanic Scotty got a bonus of $250.00!
+Mechanic Scotty got a bonus of $250.00!
+Mechanic Scotty got a bonus of $250.00!
+Mechanic Scotty got a bonus of $250.00!
+Mechanic Scotty got a bonus of $250.00!
+Mechanic Scotty got a bonus of $250.00!
+Mechanic Scotty got a bonus of $250.00!
+Mechanic Scotty got a bonus of $250.00!
+Mechanic Scotty got a bonus of $250.00!
+Mechanic Scotty got a bonus of $250.00!
+Mechanic Scotty got a bonus of $250.00!
+Mechanic Scotty got a bonus of $250.00!
+Mechanic Scotty got a bonus of $250.00!
+Mechanic Scotty got a bonus of $250.00!
+Mechanic Scotty got a bonus of $250.00!
+Mechanic Scotty fixed Batman-2 Used to LikeNew
+Mechanic Scotty fixed Batman-2 Used to LikeNew
+Mechanic Scotty fixed Batman-2 Used to LikeNew
+Mechanic Scotty fixed Batman-2 Used to LikeNew
+Mechanic Scotty fixed Batman-2 Used to LikeNew
+Mechanic Scotty fixed Batman-2 Used to LikeNew
+Mechanic Scotty fixed Batman-2 Used to LikeNew
+Mechanic Scotty fixed Batman-2 Used to LikeNew
+Mechanic Scotty fixed Batman-2 Used to LikeNew
+Mechanic Scotty fixed Batman-2 Used to LikeNew
+Mechanic Scotty fixed Batman-2 Used to LikeNew
+Mechanic Scotty fixed Batman-2 Used to LikeNew
+Mechanic Scotty fixed Batman-2 Used to LikeNew
+Mechanic Scotty fixed Batman-2 Used to LikeNew
+Mechanic Scotty fixed Batman-2 Used to LikeNew
+Mechanic Scotty fixed Batman-2 Used to LikeNew
+Mechanic Scotty fixed Batman-2 Used to LikeNew
+Mechanic Scotty fixed Batman-2 Used to LikeNew
+Mechanic Scotty got a bonus of $250.00!
+Mechanic Scotty got a bonus of $250.00!
+Mechanic Scotty got a bonus of $250.00!
+Mechanic Scotty got a bonus of $250.00!
+Mechanic Scotty got a bonus of $250.00!
+Mechanic Scotty got a bonus of $250.00!
+Mechanic Scotty got a bonus of $250.00!
+Mechanic Scotty got a bonus of $250.00!
+Mechanic Scotty got a bonus of $250.00!
+Mechanic Scotty got a bonus of $250.00!
+Mechanic Scotty got a bonus of $250.00!
+Mechanic Scotty got a bonus of $250.00!
+Mechanic Scotty got a bonus of $250.00!
+Mechanic Scotty got a bonus of $250.00!
+Mechanic Scotty got a bonus of $250.00!
+Mechanic Scotty got a bonus of $250.00!
+Mechanic Scotty got a bonus of $250.00!
+Mechanic Scotty got a bonus of $250.00!
+Mechanic Scotty fixed Honda Insight-4 Used to LikeNew
+Mechanic Scotty fixed Honda Insight-4 Used to LikeNew
+Mechanic Scotty fixed Honda Insight-4 Used to LikeNew
+Mechanic Scotty fixed Honda Insight-4 Used to LikeNew
+Mechanic Scotty fixed Honda Insight-4 Used to LikeNew
+Mechanic Scotty fixed Honda Insight-4 Used to LikeNew
+Mechanic Scotty fixed Honda Insight-4 Used to LikeNew
+Mechanic Scotty fixed Honda Insight-4 Used to LikeNew
+Mechanic Scotty fixed Honda Insight-4 Used to LikeNew
+Mechanic Scotty fixed Honda Insight-4 Used to LikeNew
+Mechanic Scotty fixed Honda Insight-4 Used to LikeNew
+Mechanic Scotty fixed Honda Insight-4 Used to LikeNew
+Mechanic Scotty fixed Honda Insight-4 Used to LikeNew
+Mechanic Scotty fixed Honda Insight-4 Used to LikeNew
+Mechanic Scotty fixed Honda Insight-4 Used to LikeNew
+Mechanic Scotty fixed Honda Insight-4 Used to LikeNew
+Mechanic Scotty fixed Honda Insight-4 Used to LikeNew
+Mechanic Scotty fixed Honda Insight-4 Used to LikeNew
+Mechanic Spock got a bonus of $250.00!
+Mechanic Spock got a bonus of $250.00!
+Mechanic Spock got a bonus of $250.00!
+Mechanic Spock got a bonus of $250.00!
+Mechanic Spock got a bonus of $250.00!
+Mechanic Spock got a bonus of $250.00!
+Mechanic Spock got a bonus of $250.00!
+Mechanic Spock got a bonus of $250.00!
+Mechanic Spock got a bonus of $250.00!
+Mechanic Spock got a bonus of $250.00!
+Mechanic Spock got a bonus of $250.00!
+Mechanic Spock got a bonus of $250.00!
+Mechanic Spock got a bonus of $250.00!
+Mechanic Spock got a bonus of $250.00!
+Mechanic Spock got a bonus of $250.00!
+Mechanic Spock got a bonus of $250.00!
+Mechanic Spock got a bonus of $250.00!
+Mechanic Spock got a bonus of $250.00!
+Mechanic Spock fixed Hyundai Ioniq-5 Broken to Used
+Mechanic Spock fixed Hyundai Ioniq-5 Broken to Used
+Mechanic Spock fixed Hyundai Ioniq-5 Broken to Used
+Mechanic Spock fixed Hyundai Ioniq-5 Broken to Used
+Mechanic Spock fixed Hyundai Ioniq-5 Broken to Used
+Mechanic Spock fixed Hyundai Ioniq-5 Broken to Used
+Mechanic Spock fixed Hyundai Ioniq-5 Broken to Used
+Mechanic Spock fixed Hyundai Ioniq-5 Broken to Used
+Mechanic Spock fixed Hyundai Ioniq-5 Broken to Used
+Mechanic Spock fixed Hyundai Ioniq-5 Broken to Used
+Mechanic Spock fixed Hyundai Ioniq-5 Broken to Used
+Mechanic Spock fixed Hyundai Ioniq-5 Broken to Used
+Mechanic Spock fixed Hyundai Ioniq-5 Broken to Used
+Mechanic Spock fixed Hyundai Ioniq-5 Broken to Used
+Mechanic Spock fixed Hyundai Ioniq-5 Broken to Used
+Mechanic Spock fixed Hyundai Ioniq-5 Broken to Used
+Mechanic Spock fixed Hyundai Ioniq-5 Broken to Used
+Mechanic Spock fixed Hyundai Ioniq-5 Broken to Used
+Mechanic Spock did not fix the Used Vespa GT-4
+Mechanic Spock did not fix the Used Vespa GT-4
+Mechanic Spock did not fix the Used Vespa GT-4
+Mechanic Spock did not fix the Used Vespa GT-4
+Mechanic Spock did not fix the Used Vespa GT-4
+Mechanic Spock did not fix the Used Vespa GT-4
+Mechanic Spock did not fix the Used Vespa GT-4
+Mechanic Spock did not fix the Used Vespa GT-4
+Mechanic Spock did not fix the Used Vespa GT-4
+Mechanic Spock did not fix the Used Vespa GT-4
+Mechanic Spock did not fix the Used Vespa GT-4
+Mechanic Spock did not fix the Used Vespa GT-4
+Mechanic Spock did not fix the Used Vespa GT-4
+Mechanic Spock did not fix the Used Vespa GT-4
+Mechanic Spock did not fix the Used Vespa GT-4
+Mechanic Spock did not fix the Used Vespa GT-4
+Mechanic Spock did not fix the Used Vespa GT-4
+Mechanic Spock did not fix the Used Vespa GT-4
+Mechanic Uhura did not fix the Used Hyundai Ioniq-5
+Mechanic Uhura did not fix the Used Hyundai Ioniq-5
+Mechanic Uhura did not fix the Used Hyundai Ioniq-5
+Mechanic Uhura did not fix the Used Hyundai Ioniq-5
+Mechanic Uhura did not fix the Used Hyundai Ioniq-5
+Mechanic Uhura did not fix the Used Hyundai Ioniq-5
+Mechanic Uhura did not fix the Used Hyundai Ioniq-5
+Mechanic Uhura did not fix the Used Hyundai Ioniq-5
+Mechanic Uhura did not fix the Used Hyundai Ioniq-5
+Mechanic Uhura did not fix the Used Hyundai Ioniq-5
+Mechanic Uhura did not fix the Used Hyundai Ioniq-5
+Mechanic Uhura did not fix the Used Hyundai Ioniq-5
+Mechanic Uhura did not fix the Used Hyundai Ioniq-5
+Mechanic Uhura did not fix the Used Hyundai Ioniq-5
+Mechanic Uhura did not fix the Used Hyundai Ioniq-5
+Mechanic Uhura did not fix the Used Hyundai Ioniq-5
+Mechanic Uhura did not fix the Used Hyundai Ioniq-5
+Mechanic Uhura did not fix the Used Hyundai Ioniq-5
+Mechanic Uhura got a bonus of $50.00!
+Mechanic Uhura got a bonus of $50.00!
+Mechanic Uhura got a bonus of $50.00!
+Mechanic Uhura got a bonus of $50.00!
+Mechanic Uhura got a bonus of $50.00!
+Mechanic Uhura got a bonus of $50.00!
+Mechanic Uhura got a bonus of $50.00!
+Mechanic Uhura got a bonus of $50.00!
+Mechanic Uhura got a bonus of $50.00!
+Mechanic Uhura got a bonus of $50.00!
+Mechanic Uhura got a bonus of $50.00!
+Mechanic Uhura got a bonus of $50.00!
+Mechanic Uhura got a bonus of $50.00!
+Mechanic Uhura got a bonus of $50.00!
+Mechanic Uhura got a bonus of $50.00!
+Mechanic Uhura got a bonus of $50.00!
+Mechanic Uhura got a bonus of $50.00!
+Mechanic Uhura got a bonus of $50.00!
+Mechanic Uhura fixed Vespa GT-4 Used to LikeNew
+Mechanic Uhura fixed Vespa GT-4 Used to LikeNew
+Mechanic Uhura fixed Vespa GT-4 Used to LikeNew
+Mechanic Uhura fixed Vespa GT-4 Used to LikeNew
+Mechanic Uhura fixed Vespa GT-4 Used to LikeNew
+Mechanic Uhura fixed Vespa GT-4 Used to LikeNew
+Mechanic Uhura fixed Vespa GT-4 Used to LikeNew
+Mechanic Uhura fixed Vespa GT-4 Used to LikeNew
+Mechanic Uhura fixed Vespa GT-4 Used to LikeNew
+Mechanic Uhura fixed Vespa GT-4 Used to LikeNew
+Mechanic Uhura fixed Vespa GT-4 Used to LikeNew
+Mechanic Uhura fixed Vespa GT-4 Used to LikeNew
+Mechanic Uhura fixed Vespa GT-4 Used to LikeNew
+Mechanic Uhura fixed Vespa GT-4 Used to LikeNew
+Mechanic Uhura fixed Vespa GT-4 Used to LikeNew
+Mechanic Uhura fixed Vespa GT-4 Used to LikeNew
+Mechanic Uhura fixed Vespa GT-4 Used to LikeNew
+Mechanic Uhura fixed Vespa GT-4 Used to LikeNew
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+Mechanic James fixed Corvette-2 Broken to Used
+90.0 : Staff expense
+Mechanic James fixed Corvette-2 Broken to Used
+Mechanic James fixed Corvette-2 Broken to Used
+Mechanic James fixed Corvette-2 Broken to Used
+Mechanic James fixed Corvette-2 Broken to Used
+Mechanic James fixed Corvette-2 Broken to Used
+Mechanic James fixed Corvette-2 Broken to Used
+Mechanic James fixed Corvette-2 Broken to Used
+Mechanic James fixed Corvette-2 Broken to Used
+Mechanic James fixed Corvette-2 Broken to Used
+Mechanic James fixed Corvette-2 Broken to Used
+Mechanic James fixed Corvette-2 Broken to Used
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+Mechanic James got a bonus of $300.00!

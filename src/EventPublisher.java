@@ -22,38 +22,7 @@ interface EventSubscriber {
     void receiveEvent(String event, boolean tracker);
 }
 
-
-//class Logger implements EventSubscriber {
-//    private FileWriter fileWriter;
-//    Logger(int day)  {
-//        try {
-//            fileWriter = new FileWriter("src.Logger-" + day + ".txt");
-//        } catch (IOException e) {
-//            e.printStackTrace();
-//        }
-//    }
-//
-//
-//    @Override
-//    public void receiveEvent(String event, boolean tracker) {
-//        try {
-//            fileWriter.write(event + "\n");
-//            fileWriter.flush();
-//        } catch (IOException e) {
-//            e.printStackTrace();
-//        }
-//    }
-//
-//    public void close() {
-//        try {
-//            fileWriter.close();
-//        } catch (IOException e) {
-//            e.printStackTrace();
-//        }
-//    }
-//}
 //Lazy Instantiation Singleton
-
 class Logger implements EventSubscriber {
     private static Logger instance = null;
     private FileWriter fileWriter;
@@ -71,9 +40,9 @@ class Logger implements EventSubscriber {
         if (instance == null) {
             instance = new Logger();
         }
-        instance.day = day;
+        day = day;
         try {
-            fileWriter = new FileWriter("src.Logger-" + day + ".txt");
+            fileWriter = new FileWriter("LoggerFiles/Logger-" + day + ".txt");
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -81,6 +50,7 @@ class Logger implements EventSubscriber {
 
     @Override
     public void receiveEvent(String event, boolean tracker) {
+        System.out.println((event));
         try {
             fileWriter.write(event + "\n");
             fileWriter.flush();
@@ -113,6 +83,13 @@ class Tracker implements EventSubscriber {
     public void setDay(int day) {
         instance.day = day;
     }
+    public double getFncdMoney() {
+        return instance.fncdMoney;
+    }
+
+    public double getStaffMoney() {
+        return instance.staffMoney;
+    }
 
     @Override
     public void receiveEvent(String event, boolean tracker) {
@@ -122,17 +99,18 @@ class Tracker implements EventSubscriber {
             String party = result[2];
 
             if (party.equals("Staff")) {
-                staffMoney += cash;
+                instance.staffMoney += cash;
             }
-            if (party.equals("FNCD")) {
-                fncdMoney += cash;
+            else if (party.equals("FNCD")) {
+                instance.fncdMoney += cash;
             }
         }
     }
 
     public void printSummary() {
-        System.out.println("Tracker: Day " + day);
+        System.out.println("Tracker: Day " + instance.day);
         System.out.println("Total money earned by all Staff: $" + staffMoney);
         System.out.println("Total money earned by the FNCD: $" + fncdMoney);
     }
 }
+

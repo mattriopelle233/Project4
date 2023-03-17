@@ -129,9 +129,9 @@ public class Simulator implements SysOut {
     }
     void run(FNCD fncd) {
         Tracker tracker = Tracker.getInstance();
+        Logger logger = Logger.getInstance();
         fncd.getEventPublisher().addSubscriber(tracker);
         for (int day = 1; day <= numDays; ++day) {
-            Logger logger = Logger.getInstance();
             logger.setDay(day);
             tracker.setDay(day);
             fncd.getEventPublisher().addSubscriber(logger);
