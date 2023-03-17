@@ -48,6 +48,10 @@ public class FNCD implements SysOut {
         }
     }
 
+    int getStaffSize(){
+        return staff.size();
+    }
+
     public EventPublisher getEventPublisher() {
         return eventPublisher;
     }

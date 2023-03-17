@@ -91,3 +91,55 @@ class TrackerTest {
         tracker.receiveEvent("-40.0 USD FNCD", true);
     }
 }
+
+class VehicleTest {
+    @Test
+    void testRange(){
+        //ensure that electric vehicles have the correct range
+        ElectricCar v = new ElectricCar();
+        int range = v.getRange();
+        assertTrue(range <= 400 && range >= 60);
+    }
+    @Test
+    void testCost(){
+        //assure that the cost is accurately 1/2 expensive as price
+        Pickup v = new Pickup();
+        assertTrue(v.getCost() * 2 == v.getPrice());
+    }
+}
+
+class BuyerTest {
+    Buyer b = new Buyer();
+    @Test
+    void testBuyerType(){
+        //assure that the buyer gets assigned a valid buyerType
+        assertTrue(b.getBuyerType() == Enums.BuyerType.JustLooking || b.getBuyerType() == Enums.BuyerType.NeedsOne || b.getBuyerType() == Enums.BuyerType.WantsOne);
+    }
+    Buyer c = new Buyer();
+    @Test
+    void testUniqueNames(){
+        //tests to make sure two names are not the same
+        assertFalse(b.getName() == c.getName());
+    }
+}
+
+class FNCDTest{
+    FNCD f = new FNCD();
+    @Test
+    void testBudget(){
+        //making sure our updated budget is correct
+        assertTrue(f.getBudget() == 1500000);
+    }
+    @Test
+    void testMoneyIn(){
+        //asserting that our money in works correctly
+        f.moneyIn(10);
+        assertTrue(f.getBudget() == 1500000 + 10);
+    }
+    @Test
+    void testHiringNewEmployees(){
+        //asserting that the FNCD correctly hires the correct number of staff
+        f.hireNewStaff();
+        assertTrue(f.getStaffSize() == 12);
+    }
+}

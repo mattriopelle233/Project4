@@ -14,4 +14,10 @@ public class Buyer {
         type = Utility.randomEnum(Enums.BuyerType.class);
         name = namer.getNext();
     }
+    Enums.BuyerType getBuyerType(){
+        return this.type;
+    }
+    String getName(){
+        return this.name;
+    }
 }

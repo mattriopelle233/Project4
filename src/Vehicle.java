@@ -115,6 +115,12 @@ class Pickup extends Vehicle {
         wash_bonus = 75;
         sale_bonus = 750;
     }
+    double getPrice(){
+        return this.price;
+    }
+    double getCost(){
+        return this.cost;
+    }
 }
 
 class ElectricCar extends Vehicle {
@@ -132,6 +138,10 @@ class ElectricCar extends Vehicle {
         sale_bonus = 900;
         range = Utility.rndFromRange(60, 400);
         if(condition == Enums.Condition.LikeNew) range += 100; //increase range by 100 if car is Like New
+    }
+
+    int getRange(){
+        return this.range;
     }
 }
 
