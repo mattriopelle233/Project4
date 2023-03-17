@@ -1,0 +1,879 @@
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+-11049.6 : FNCD spent on new car
+-11049.6 : FNCD spent on new car
+-11049.6 : FNCD spent on new car
+-11049.6 : FNCD spent on new car
+-11049.6 : FNCD spent on new car
+-11049.6 : FNCD spent on new car
+-11049.6 : FNCD spent on new car
+-11049.6 : FNCD spent on new car
+-11049.6 : FNCD spent on new car
+-11049.6 : FNCD spent on new car
+-11049.6 : FNCD spent on new car
+-11049.6 : FNCD spent on new car
+-11049.6 : FNCD spent on new car
+-11049.6 : FNCD spent on new car
+-11049.6 : FNCD spent on new car
+-11049.6 : FNCD spent on new car
+-11049.6 : FNCD spent on new car
+-11049.6 : FNCD spent on new car
+-11049.6 : FNCD spent on new car
+-11049.6 : FNCD spent on new car
+-11049.6 : FNCD spent on new car
+-11049.6 : FNCD spent on new car
+-11049.6 : FNCD spent on new car
+-11049.6 : FNCD spent on new car
+-11049.6 : FNCD spent on new car
+-11049.6 : FNCD spent on new car
+-11049.6 : FNCD spent on new car
+-11049.6 : FNCD spent on new car
+-11049.6 : FNCD spent on new car
+-22146.4 : FNCD spent on new car
+-22146.4 : FNCD spent on new car
+-22146.4 : FNCD spent on new car
+-22146.4 : FNCD spent on new car
+-22146.4 : FNCD spent on new car
+-22146.4 : FNCD spent on new car
+-22146.4 : FNCD spent on new car
+-22146.4 : FNCD spent on new car
+-22146.4 : FNCD spent on new car
+-22146.4 : FNCD spent on new car
+-22146.4 : FNCD spent on new car
+-22146.4 : FNCD spent on new car
+-22146.4 : FNCD spent on new car
+-22146.4 : FNCD spent on new car
+-22146.4 : FNCD spent on new car
+-22146.4 : FNCD spent on new car
+-22146.4 : FNCD spent on new car
+-22146.4 : FNCD spent on new car
+-22146.4 : FNCD spent on new car
+-22146.4 : FNCD spent on new car
+-22146.4 : FNCD spent on new car
+-22146.4 : FNCD spent on new car
+-22146.4 : FNCD spent on new car
+-22146.4 : FNCD spent on new car
+-22146.4 : FNCD spent on new car
+-22146.4 : FNCD spent on new car
+-22146.4 : FNCD spent on new car
+-22146.4 : FNCD spent on new car
+-22146.4 : FNCD spent on new car
+-6935.200000000001 : FNCD spent on new car
+-6935.200000000001 : FNCD spent on new car
+-6935.200000000001 : FNCD spent on new car
+-6935.200000000001 : FNCD spent on new car
+-6935.200000000001 : FNCD spent on new car
+-6935.200000000001 : FNCD spent on new car
+-6935.200000000001 : FNCD spent on new car
+-6935.200000000001 : FNCD spent on new car
+-6935.200000000001 : FNCD spent on new car
+-6935.200000000001 : FNCD spent on new car
+-6935.200000000001 : FNCD spent on new car
+-6935.200000000001 : FNCD spent on new car
+-6935.200000000001 : FNCD spent on new car
+-6935.200000000001 : FNCD spent on new car
+-6935.200000000001 : FNCD spent on new car
+-6935.200000000001 : FNCD spent on new car
+-6935.200000000001 : FNCD spent on new car
+-6935.200000000001 : FNCD spent on new car
+-6935.200000000001 : FNCD spent on new car
+-6935.200000000001 : FNCD spent on new car
+-6935.200000000001 : FNCD spent on new car
+-6935.200000000001 : FNCD spent on new car
+-6935.200000000001 : FNCD spent on new car
+-6935.200000000001 : FNCD spent on new car
+-6935.200000000001 : FNCD spent on new car
+-6935.200000000001 : FNCD spent on new car
+-6935.200000000001 : FNCD spent on new car
+-6935.200000000001 : FNCD spent on new car
+-6935.200000000001 : FNCD spent on new car
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+-54020.0 : FNCD spent on new car
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+-54020.0 : FNCD spent on new car
+-54020.0 : FNCD spent on new car
+-54020.0 : FNCD spent on new car
+-54020.0 : FNCD spent on new car
+-54020.0 : FNCD spent on new car
+-54020.0 : FNCD spent on new car
+-54020.0 : FNCD spent on new car
+-54020.0 : FNCD spent on new car
+-54020.0 : FNCD spent on new car
+-54020.0 : FNCD spent on new car
+-54020.0 : FNCD spent on new car
+-54020.0 : FNCD spent on new car
+-54020.0 : FNCD spent on new car
+-54020.0 : FNCD spent on new car
+-54020.0 : FNCD spent on new car
+-54020.0 : FNCD spent on new car
+-54020.0 : FNCD spent on new car
+-54020.0 : FNCD spent on new car
+-54020.0 : FNCD spent on new car
+-54020.0 : FNCD spent on new car
+-54020.0 : FNCD spent on new car
+-54020.0 : FNCD spent on new car
+-54020.0 : FNCD spent on new car
+-54020.0 : FNCD spent on new car
+-54020.0 : FNCD spent on new car
+-54020.0 : FNCD spent on new car
+-54020.0 : FNCD spent on new car
+-54020.0 : FNCD spent on new car
+-47797.0 : FNCD spent on new car
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+-47797.0 : FNCD spent on new car
+-47797.0 : FNCD spent on new car
+-47797.0 : FNCD spent on new car
+-47797.0 : FNCD spent on new car
+-47797.0 : FNCD spent on new car
+-47797.0 : FNCD spent on new car
+-47797.0 : FNCD spent on new car
+-47797.0 : FNCD spent on new car
+-47797.0 : FNCD spent on new car
+-47797.0 : FNCD spent on new car
+-47797.0 : FNCD spent on new car
+-47797.0 : FNCD spent on new car
+-47797.0 : FNCD spent on new car
+-47797.0 : FNCD spent on new car
+-47797.0 : FNCD spent on new car
+-47797.0 : FNCD spent on new car
+-47797.0 : FNCD spent on new car
+-47797.0 : FNCD spent on new car
+-47797.0 : FNCD spent on new car
+-47797.0 : FNCD spent on new car
+-47797.0 : FNCD spent on new car
+-47797.0 : FNCD spent on new car
+-47797.0 : FNCD spent on new car
+-47797.0 : FNCD spent on new car
+-47797.0 : FNCD spent on new car
+-47797.0 : FNCD spent on new car
+-47797.0 : FNCD spent on new car
+-47797.0 : FNCD spent on new car
+InternDesi made the Prius-6 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternDesi made the Prius-6 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternDesi made the Prius-6 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternDesi made the Prius-6 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternDesi made the Prius-6 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternDesi made the Prius-6 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternDesi made the Prius-6 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternDesi made the Prius-6 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternDesi made the Prius-6 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternDesi made the Prius-6 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternDesi made the Prius-6 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternDesi made the Prius-6 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternDesi made the Prius-6 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternDesi made the Prius-6 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternDesi made the Prius-6 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternDesi made the Prius-6 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternDesi made the Prius-6 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternDesi made the Prius-6 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternDesi made the Prius-6 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternDesi made the Prius-6 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternDesi made the Prius-6 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternDesi made the Prius-6 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternDesi made the Prius-6 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternDesi made the Prius-6 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternDesi made the Prius-6 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternDesi made the Prius-6 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternDesi made the Prius-6 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternDesi made the Prius-6 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternDesi made the Prius-6 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternLucy-3 made the Honda Clarity-7 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternLucy-3 made the Honda Clarity-7 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternLucy-3 made the Honda Clarity-7 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternLucy-3 made the Honda Clarity-7 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternLucy-3 made the Honda Clarity-7 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternLucy-3 made the Honda Clarity-7 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternLucy-3 made the Honda Clarity-7 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternLucy-3 made the Honda Clarity-7 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternLucy-3 made the Honda Clarity-7 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternLucy-3 made the Honda Clarity-7 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternLucy-3 made the Honda Clarity-7 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternLucy-3 made the Honda Clarity-7 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternLucy-3 made the Honda Clarity-7 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternLucy-3 made the Honda Clarity-7 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternLucy-3 made the Honda Clarity-7 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternLucy-3 made the Honda Clarity-7 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternLucy-3 made the Honda Clarity-7 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternLucy-3 made the Honda Clarity-7 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternLucy-3 made the Honda Clarity-7 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternLucy-3 made the Honda Clarity-7 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternLucy-3 made the Honda Clarity-7 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternLucy-3 made the Honda Clarity-7 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternLucy-3 made the Honda Clarity-7 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternLucy-3 made the Honda Clarity-7 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternLucy-3 made the Honda Clarity-7 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternLucy-3 made the Honda Clarity-7 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternLucy-3 made the Honda Clarity-7 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternLucy-3 made the Honda Clarity-7 go from Dirty to Sparkling. They earned a bonus of: 100.0
+InternLucy-3 made the Honda Clarity-7 go from Dirty to Sparkling. They earned a bonus of: 100.0
+Desi-5 made the Bulldozer-2 go from Dirty to Clean
+Desi-5 made the Bulldozer-2 go from Dirty to Clean
+Desi-5 made the Bulldozer-2 go from Dirty to Clean
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+Desi-5 made the Bulldozer-2 go from Dirty to Clean
+Desi-5 made the Bulldozer-2 go from Dirty to Clean
+Desi-5 made the Bulldozer-2 go from Dirty to Clean
+90.0 : Staff expense
+90.0 : Staff expense
+Desi-5 made the Bulldozer-2 go from Dirty to Clean
+Desi-5 made the Bulldozer-2 go from Dirty to Clean
+Desi-5 made the Bulldozer-2 go from Dirty to Clean
+Desi-5 made the Bulldozer-2 go from Dirty to Clean
+Desi-5 made the Bulldozer-2 go from Dirty to Clean
+Desi-5 made the Bulldozer-2 go from Dirty to Clean
+Desi-5 made the Bulldozer-2 go from Dirty to Clean
+Desi-5 made the Bulldozer-2 go from Dirty to Clean
+Desi-5 made the Bulldozer-2 go from Dirty to Clean
+Desi-5 made the Bulldozer-2 go from Dirty to Clean
+Desi-5 made the Bulldozer-2 go from Dirty to Clean
+Desi-5 made the Bulldozer-2 go from Dirty to Clean
+Desi-5 made the Bulldozer-2 go from Dirty to Clean
+Desi-5 made the Bulldozer-2 go from Dirty to Clean
+Desi-5 made the Bulldozer-2 go from Dirty to Clean
+Desi-5 made the Bulldozer-2 go from Dirty to Clean
+Desi-5 made the Bulldozer-2 go from Dirty to Clean
+Desi-5 made the Bulldozer-2 go from Dirty to Clean
+Desi-5 made the Bulldozer-2 go from Dirty to Clean
+Desi-5 made the Bulldozer-2 go from Dirty to Clean
+Desi-5 made the Bulldozer-2 go from Dirty to Clean
+Desi-5 made the Bulldozer-2 go from Dirty to Clean
+Desi-5 made the Bulldozer-2 go from Dirty to Clean
+90.0 : Staff expense
+Desi-5 made the F-250-6 go from Dirty to Clean
+Desi-5 made the F-250-6 go from Dirty to Clean
+Desi-5 made the F-250-6 go from Dirty to Clean
+60.0 : Staff expense
+Desi-5 made the F-250-6 go from Dirty to Clean
+Desi-5 made the F-250-6 go from Dirty to Clean
+Desi-5 made the F-250-6 go from Dirty to Clean
+Desi-5 made the F-250-6 go from Dirty to Clean
+Desi-5 made the F-250-6 go from Dirty to Clean
+Desi-5 made the F-250-6 go from Dirty to Clean
+Desi-5 made the F-250-6 go from Dirty to Clean
+Desi-5 made the F-250-6 go from Dirty to Clean
+Desi-5 made the F-250-6 go from Dirty to Clean
+Desi-5 made the F-250-6 go from Dirty to Clean
+Desi-5 made the F-250-6 go from Dirty to Clean
+Desi-5 made the F-250-6 go from Dirty to Clean
+Desi-5 made the F-250-6 go from Dirty to Clean
+Desi-5 made the F-250-6 go from Dirty to Clean
+Desi-5 made the F-250-6 go from Dirty to Clean
+Desi-5 made the F-250-6 go from Dirty to Clean
+Desi-5 made the F-250-6 go from Dirty to Clean
+Desi-5 made the F-250-6 go from Dirty to Clean
+Desi-5 made the F-250-6 go from Dirty to Clean
+Desi-5 made the F-250-6 go from Dirty to Clean
+Desi-5 made the F-250-6 go from Dirty to Clean
+Desi-5 made the F-250-6 go from Dirty to Clean
+Desi-5 made the F-250-6 go from Dirty to Clean
+Desi-5 made the F-250-6 go from Dirty to Clean
+Desi-5 made the F-250-6 go from Dirty to Clean
+Desi-5 made the F-250-6 go from Dirty to Clean
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+Mechanic Scotty got a bonus of $200.00!
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+100.0 : Staff expense
+Mechanic Scotty got a bonus of $200.00!
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty got a bonus of $200.00!
+100.0 : Staff expense
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed F-250-6 Used to LikeNew
+Mechanic Scotty fixed F-250-6 Used to LikeNew
+Mechanic Scotty fixed F-250-6 Used to LikeNew
+Mechanic Scotty fixed F-250-6 Used to LikeNew
+Mechanic Scotty fixed F-250-6 Used to LikeNew
+Mechanic Scotty fixed F-250-6 Used to LikeNew
+Mechanic Scotty fixed F-250-6 Used to LikeNew
+Mechanic Scotty fixed F-250-6 Used to LikeNew
+Mechanic Scotty fixed F-250-6 Used to LikeNew
+Mechanic Scotty fixed F-250-6 Used to LikeNew
+Mechanic Scotty fixed F-250-6 Used to LikeNew
+Mechanic Scotty fixed F-250-6 Used to LikeNew
+Mechanic Scotty fixed F-250-6 Used to LikeNew
+Mechanic Scotty fixed F-250-6 Used to LikeNew
+Mechanic Scotty fixed F-250-6 Used to LikeNew
+Mechanic Scotty fixed F-250-6 Used to LikeNew
+Mechanic Scotty fixed F-250-6 Used to LikeNew
+Mechanic Scotty fixed F-250-6 Used to LikeNew
+Mechanic Scotty fixed F-250-6 Used to LikeNew
+Mechanic Scotty fixed F-250-6 Used to LikeNew
+Mechanic Scotty fixed F-250-6 Used to LikeNew
+Mechanic Scotty fixed F-250-6 Used to LikeNew
+Mechanic Scotty fixed F-250-6 Used to LikeNew
+Mechanic Scotty fixed F-250-6 Used to LikeNew
+Mechanic Scotty fixed F-250-6 Used to LikeNew
+Mechanic Scotty fixed F-250-6 Used to LikeNew
+Mechanic Scotty fixed F-250-6 Used to LikeNew
+Mechanic Scotty fixed F-250-6 Used to LikeNew
+Mechanic Scotty fixed F-250-6 Used to LikeNew
+Mechanic Scotty did not fix the Used Colorado-6
+Mechanic Scotty did not fix the Used Colorado-6
+Mechanic Scotty did not fix the Used Colorado-6
+Mechanic Scotty did not fix the Used Colorado-6
+Mechanic Scotty did not fix the Used Colorado-6
+Mechanic Scotty did not fix the Used Colorado-6
+Mechanic Scotty did not fix the Used Colorado-6
+Mechanic Scotty did not fix the Used Colorado-6
+Mechanic Scotty did not fix the Used Colorado-6
+Mechanic Scotty did not fix the Used Colorado-6
+Mechanic Scotty did not fix the Used Colorado-6
+Mechanic Scotty did not fix the Used Colorado-6
+Mechanic Scotty did not fix the Used Colorado-6
+Mechanic Scotty did not fix the Used Colorado-6
+Mechanic Scotty did not fix the Used Colorado-6
+Mechanic Scotty did not fix the Used Colorado-6
+Mechanic Scotty did not fix the Used Colorado-6
+Mechanic Scotty did not fix the Used Colorado-6
+Mechanic Scotty did not fix the Used Colorado-6
+Mechanic Scotty did not fix the Used Colorado-6
+Mechanic Scotty did not fix the Used Colorado-6
+Mechanic Scotty did not fix the Used Colorado-6
+Mechanic Scotty did not fix the Used Colorado-6
+Mechanic Scotty did not fix the Used Colorado-6
+Mechanic Scotty did not fix the Used Colorado-6
+Mechanic Scotty did not fix the Used Colorado-6
+Mechanic Scotty did not fix the Used Colorado-6
+Mechanic Scotty did not fix the Used Colorado-6
+Mechanic Scotty did not fix the Used Colorado-6
+Mechanic Spock did not fix the Used Colorado-6
+Mechanic Spock did not fix the Used Colorado-6
+Mechanic Spock did not fix the Used Colorado-6
+Mechanic Spock did not fix the Used Colorado-6
+Mechanic Spock did not fix the Used Colorado-6
+Mechanic Spock did not fix the Used Colorado-6
+Mechanic Spock did not fix the Used Colorado-6
+Mechanic Spock did not fix the Used Colorado-6
+Mechanic Spock did not fix the Used Colorado-6
+Mechanic Spock did not fix the Used Colorado-6
+Mechanic Spock did not fix the Used Colorado-6
+Mechanic Spock did not fix the Used Colorado-6
+Mechanic Spock did not fix the Used Colorado-6
+Mechanic Spock did not fix the Used Colorado-6
+Mechanic Spock did not fix the Used Colorado-6
+Mechanic Spock did not fix the Used Colorado-6
+Mechanic Spock did not fix the Used Colorado-6
+Mechanic Spock did not fix the Used Colorado-6
+Mechanic Spock did not fix the Used Colorado-6
+Mechanic Spock did not fix the Used Colorado-6
+Mechanic Spock did not fix the Used Colorado-6
+Mechanic Spock did not fix the Used Colorado-6
+Mechanic Spock did not fix the Used Colorado-6
+Mechanic Spock did not fix the Used Colorado-6
+Mechanic Spock did not fix the Used Colorado-6
+Mechanic Spock did not fix the Used Colorado-6
+Mechanic Spock did not fix the Used Colorado-6
+Mechanic Spock did not fix the Used Colorado-6
+Mechanic Spock did not fix the Used Colorado-6
+Mechanic Spock got a bonus of $50.00!
+Mechanic Spock got a bonus of $50.00!
+Mechanic Spock got a bonus of $50.00!
+Mechanic Spock got a bonus of $50.00!
+Mechanic Spock got a bonus of $50.00!
+Mechanic Spock got a bonus of $50.00!
+Mechanic Spock got a bonus of $50.00!
+Mechanic Spock got a bonus of $50.00!
+Mechanic Spock got a bonus of $50.00!
+Mechanic Spock got a bonus of $50.00!
+Mechanic Spock got a bonus of $50.00!
+Mechanic Spock got a bonus of $50.00!
+Mechanic Spock got a bonus of $50.00!
+Mechanic Spock got a bonus of $50.00!
+Mechanic Spock got a bonus of $50.00!
+Mechanic Spock got a bonus of $50.00!
+Mechanic Spock got a bonus of $50.00!
+Mechanic Spock got a bonus of $50.00!
+Mechanic Spock got a bonus of $50.00!
+Mechanic Spock got a bonus of $50.00!
+Mechanic Spock got a bonus of $50.00!
+Mechanic Spock got a bonus of $50.00!
+Mechanic Spock got a bonus of $50.00!
+Mechanic Spock got a bonus of $50.00!
+Mechanic Spock got a bonus of $50.00!
+Mechanic Spock got a bonus of $50.00!
+Mechanic Spock got a bonus of $50.00!
+Mechanic Spock got a bonus of $50.00!
+Mechanic Spock got a bonus of $50.00!
+Mechanic Spock fixed Vespa GT-5 Used to LikeNew
+Mechanic Spock fixed Vespa GT-5 Used to LikeNew
+Mechanic Spock fixed Vespa GT-5 Used to LikeNew
+Mechanic Spock fixed Vespa GT-5 Used to LikeNew
+Mechanic Spock fixed Vespa GT-5 Used to LikeNew
+Mechanic Spock fixed Vespa GT-5 Used to LikeNew
+Mechanic Spock fixed Vespa GT-5 Used to LikeNew
+Mechanic Spock fixed Vespa GT-5 Used to LikeNew
+Mechanic Spock fixed Vespa GT-5 Used to LikeNew
+Mechanic Spock fixed Vespa GT-5 Used to LikeNew
+Mechanic Spock fixed Vespa GT-5 Used to LikeNew
+Mechanic Spock fixed Vespa GT-5 Used to LikeNew
+Mechanic Spock fixed Vespa GT-5 Used to LikeNew
+Mechanic Spock fixed Vespa GT-5 Used to LikeNew
+Mechanic Spock fixed Vespa GT-5 Used to LikeNew
+Mechanic Spock fixed Vespa GT-5 Used to LikeNew
+Mechanic Spock fixed Vespa GT-5 Used to LikeNew
+Mechanic Spock fixed Vespa GT-5 Used to LikeNew
+Mechanic Spock fixed Vespa GT-5 Used to LikeNew
+Mechanic Spock fixed Vespa GT-5 Used to LikeNew
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+Mechanic Spock fixed Vespa GT-5 Used to LikeNew
+Mechanic Spock fixed Vespa GT-5 Used to LikeNew
+Mechanic Spock fixed Vespa GT-5 Used to LikeNew
+Mechanic Spock fixed Vespa GT-5 Used to LikeNew
+Mechanic Spock fixed Vespa GT-5 Used to LikeNew
+Mechanic Spock fixed Vespa GT-5 Used to LikeNew
+Mechanic Spock fixed Vespa GT-5 Used to LikeNew
+Mechanic Spock fixed Vespa GT-5 Used to LikeNew
+Mechanic Spock fixed Vespa GT-5 Used to LikeNew
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+Mechanic Uhura got a bonus of $200.00!
+Mechanic Uhura got a bonus of $200.00!
+Mechanic Uhura got a bonus of $200.00!
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+Mechanic Uhura got a bonus of $200.00!
+Mechanic Uhura got a bonus of $200.00!
+Mechanic Uhura got a bonus of $200.00!
+Mechanic Uhura got a bonus of $200.00!
+Mechanic Uhura got a bonus of $200.00!
+Mechanic Uhura got a bonus of $200.00!
+Mechanic Uhura got a bonus of $200.00!
+Mechanic Uhura got a bonus of $200.00!
+Mechanic Uhura got a bonus of $200.00!
+Mechanic Uhura got a bonus of $200.00!
+Mechanic Uhura got a bonus of $200.00!
+Mechanic Uhura got a bonus of $200.00!
+Mechanic Uhura got a bonus of $200.00!
+Mechanic Uhura got a bonus of $200.00!
+Mechanic Uhura got a bonus of $200.00!
+Mechanic Uhura got a bonus of $200.00!
+Mechanic Uhura got a bonus of $200.00!
+Mechanic Uhura got a bonus of $200.00!
+Mechanic Uhura got a bonus of $200.00!
+Mechanic Uhura got a bonus of $200.00!
+Mechanic Uhura got a bonus of $200.00!
+Mechanic Uhura got a bonus of $200.00!
+Mechanic Uhura got a bonus of $200.00!
+120.0 : Staff expense
+120.0 : Staff expense
+Mechanic Uhura got a bonus of $200.00!
+Mechanic Uhura got a bonus of $200.00!
+Mechanic Uhura got a bonus of $200.00!
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+Mechanic Uhura fixed Colorado-6 Used to LikeNew
+Mechanic Uhura fixed Colorado-6 Used to LikeNew
+Mechanic Uhura fixed Colorado-6 Used to LikeNew
+Mechanic Uhura fixed Colorado-6 Used to LikeNew
+Mechanic Uhura fixed Colorado-6 Used to LikeNew
+Mechanic Uhura fixed Colorado-6 Used to LikeNew
+Mechanic Uhura fixed Colorado-6 Used to LikeNew
+Mechanic Uhura fixed Colorado-6 Used to LikeNew
+Mechanic Uhura fixed Colorado-6 Used to LikeNew
+Mechanic Uhura fixed Colorado-6 Used to LikeNew
+Mechanic Uhura fixed Colorado-6 Used to LikeNew
+Mechanic Uhura fixed Colorado-6 Used to LikeNew
+Mechanic Uhura fixed Colorado-6 Used to LikeNew
+Mechanic Uhura fixed Colorado-6 Used to LikeNew
+Mechanic Uhura fixed Colorado-6 Used to LikeNew
+Mechanic Uhura fixed Colorado-6 Used to LikeNew
+Mechanic Uhura fixed Colorado-6 Used to LikeNew
+Mechanic Uhura fixed Colorado-6 Used to LikeNew
+Mechanic Uhura fixed Colorado-6 Used to LikeNew
+Mechanic Uhura fixed Colorado-6 Used to LikeNew
+Mechanic Uhura fixed Colorado-6 Used to LikeNew
+Mechanic Uhura fixed Colorado-6 Used to LikeNew
+Mechanic Uhura fixed Colorado-6 Used to LikeNew
+Mechanic Uhura fixed Colorado-6 Used to LikeNew
+Mechanic Uhura fixed Colorado-6 Used to LikeNew
+Mechanic Uhura fixed Colorado-6 Used to LikeNew
+Mechanic Uhura fixed Colorado-6 Used to LikeNew
+Mechanic Uhura fixed Colorado-6 Used to LikeNew
+Mechanic Uhura fixed Colorado-6 Used to LikeNew
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+Buyer Han-45 is buying! Salesperson Desi-2 gets a bonus of $500.00!
+Buyer Han-45 is buying! Salesperson Desi-2 gets a bonus of $500.00!
+Buyer Han-45 is buying! Salesperson Desi-2 gets a bonus of $500.00!
+Buyer Han-45 is buying! Salesperson Desi-2 gets a bonus of $500.00!
+Buyer Han-45 is buying! Salesperson Desi-2 gets a bonus of $500.00!
+Buyer Han-45 is buying! Salesperson Desi-2 gets a bonus of $500.00!
+Buyer Han-45 is buying! Salesperson Desi-2 gets a bonus of $500.00!
+Buyer Han-45 is buying! Salesperson Desi-2 gets a bonus of $500.00!
+Buyer Han-45 is buying! Salesperson Desi-2 gets a bonus of $500.00!
+Buyer Han-45 is buying! Salesperson Desi-2 gets a bonus of $500.00!
+Buyer Han-45 is buying! Salesperson Desi-2 gets a bonus of $500.00!
+Buyer Han-45 is buying! Salesperson Desi-2 gets a bonus of $500.00!
+Buyer Han-45 is buying! Salesperson Desi-2 gets a bonus of $500.00!
+Buyer Han-45 is buying! Salesperson Desi-2 gets a bonus of $500.00!
+Buyer Han-45 is buying! Salesperson Desi-2 gets a bonus of $500.00!
+Buyer Han-45 is buying! Salesperson Desi-2 gets a bonus of $500.00!
+Buyer Han-45 is buying! Salesperson Desi-2 gets a bonus of $500.00!
+Buyer Han-45 is buying! Salesperson Desi-2 gets a bonus of $500.00!
+Buyer Han-45 is buying! Salesperson Desi-2 gets a bonus of $500.00!
+Buyer Han-45 is buying! Salesperson Desi-2 gets a bonus of $500.00!
+Buyer Han-45 is buying! Salesperson Desi-2 gets a bonus of $500.00!
+Buyer Han-45 is buying! Salesperson Desi-2 gets a bonus of $500.00!
+Buyer Han-45 is buying! Salesperson Desi-2 gets a bonus of $500.00!
+Buyer Han-45 is buying! Salesperson Desi-2 gets a bonus of $500.00!
+Buyer Han-45 is buying! Salesperson Desi-2 gets a bonus of $500.00!
+Buyer Han-45 is buying! Salesperson Desi-2 gets a bonus of $500.00!
+Buyer Han-45 is buying! Salesperson Desi-2 gets a bonus of $500.00!
+Buyer Han-45 is buying! Salesperson Desi-2 gets a bonus of $500.00!
+Buyer Han-45 is buying! Salesperson Desi-2 gets a bonus of $500.00!
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+Buyer Han-45 is buying Escort for $33,495.00
+Buyer Han-45 is buying Escort for $33,495.00
+Buyer Han-45 is buying Escort for $33,495.00
+Buyer Han-45 is buying Escort for $33,495.00
+Buyer Han-45 is buying Escort for $33,495.00
+Buyer Han-45 is buying Escort for $33,495.00
+Buyer Han-45 is buying Escort for $33,495.00
+Buyer Han-45 is buying Escort for $33,495.00
+Buyer Han-45 is buying Escort for $33,495.00
+Buyer Han-45 is buying Escort for $33,495.00
+Buyer Han-45 is buying Escort for $33,495.00
+Buyer Han-45 is buying Escort for $33,495.00
+Buyer Han-45 is buying Escort for $33,495.00
+Buyer Han-45 is buying Escort for $33,495.00
+Buyer Han-45 is buying Escort for $33,495.00
+Buyer Han-45 is buying Escort for $33,495.00
+Buyer Han-45 is buying Escort for $33,495.00
+Buyer Han-45 is buying Escort for $33,495.00
+Buyer Han-45 is buying Escort for $33,495.00
+Buyer Han-45 is buying Escort for $33,495.00
+Buyer Han-45 is buying Escort for $33,495.00
+Buyer Han-45 is buying Escort for $33,495.00
+Buyer Han-45 is buying Escort for $33,495.00
+Buyer Han-45 is buying Escort for $33,495.00
+Buyer Han-45 is buying Escort for $33,495.00
+Buyer Han-45 is buying Escort for $33,495.00
+Buyer Han-45 is buying Escort for $33,495.00
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+Buyer Han-45 is buying Escort for $33,495.00
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+Buyer Han-45 is buying Escort for $33,495.00
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+Buyer Han-45 bought Sparkling LikeNew Escort for $33,495.00
+Buyer Han-45 bought Sparkling LikeNew Escort for $33,495.00
+Buyer Han-45 bought Sparkling LikeNew Escort for $33,495.00
+Buyer Han-45 bought Sparkling LikeNew Escort for $33,495.00
+Buyer Han-45 bought Sparkling LikeNew Escort for $33,495.00
+Buyer Han-45 bought Sparkling LikeNew Escort for $33,495.00
+Buyer Han-45 bought Sparkling LikeNew Escort for $33,495.00
+100.0 : Staff expense
+Buyer Han-45 bought Sparkling LikeNew Escort for $33,495.00
+Buyer Han-45 bought Sparkling LikeNew Escort for $33,495.00
+Buyer Han-45 bought Sparkling LikeNew Escort for $33,495.00
+Buyer Han-45 bought Sparkling LikeNew Escort for $33,495.00
+Buyer Han-45 bought Sparkling LikeNew Escort for $33,495.00
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+Buyer Han-45 bought Sparkling LikeNew Escort for $33,495.00
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+Buyer Han-45 bought Sparkling LikeNew Escort for $33,495.00
+Buyer Han-45 bought Sparkling LikeNew Escort for $33,495.00
+Buyer Han-45 bought Sparkling LikeNew Escort for $33,495.00
+Buyer Han-45 bought Sparkling LikeNew Escort for $33,495.00
+Buyer Han-45 bought Sparkling LikeNew Escort for $33,495.00
+Buyer Han-45 bought Sparkling LikeNew Escort for $33,495.00
+Buyer Han-45 bought Sparkling LikeNew Escort for $33,495.00
+Buyer Han-45 bought Sparkling LikeNew Escort for $33,495.00
+Buyer Han-45 bought Sparkling LikeNew Escort for $33,495.00
+Buyer Han-45 bought Sparkling LikeNew Escort for $33,495.00
+Buyer Han-45 bought Sparkling LikeNew Escort for $33,495.00
+Buyer Han-45 bought Sparkling LikeNew Escort for $33,495.00
+Buyer Han-45 bought Sparkling LikeNew Escort for $33,495.00
+Buyer Han-45 bought Sparkling LikeNew Escort for $33,495.00
+Buyer Han-45 bought Sparkling LikeNew Escort for $33,495.00
+Buyer Han-45 bought Sparkling LikeNew Escort for $33,495.00
+33495.0 : FNCD made money
+33495.0 : FNCD made money
+33495.0 : FNCD made money
+33495.0 : FNCD made money
+33495.0 : FNCD made money
+33495.0 : FNCD made money
+33495.0 : FNCD made money
+33495.0 : FNCD made money
+33495.0 : FNCD made money
+33495.0 : FNCD made money
+33495.0 : FNCD made money
+33495.0 : FNCD made money
+33495.0 : FNCD made money
+33495.0 : FNCD made money
+33495.0 : FNCD made money
+33495.0 : FNCD made money
+33495.0 : FNCD made money
+33495.0 : FNCD made money
+33495.0 : FNCD made money
+33495.0 : FNCD made money
+33495.0 : FNCD made money
+33495.0 : FNCD made money
+33495.0 : FNCD made money
+33495.0 : FNCD made money
+33495.0 : FNCD made money
+33495.0 : FNCD made money
+33495.0 : FNCD made money
+33495.0 : FNCD made money
+33495.0 : FNCD made money

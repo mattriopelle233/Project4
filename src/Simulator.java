@@ -128,16 +128,18 @@ public class Simulator implements SysOut {
         }
     }
     void run(FNCD fncd) {
-        Tracker tracker = new Tracker();
+        Tracker tracker = Tracker.getInstance();
+        Logger logger = Logger.getInstance();
         fncd.getEventPublisher().addSubscriber(tracker);
         for (int day = 1; day <= numDays; ++day) {
-            Logger logger = new Logger(day);
+            logger.setDay(day);
+            tracker.setDay(day);
             fncd.getEventPublisher().addSubscriber(logger);
             out(">>> Start Simulation Day "+day+" "+dayOfWeek);
             if (dayOfWeek == Enums.DayOfWeek.Sun || dayOfWeek == Enums.DayOfWeek.Wed) fncd.raceDay(dayOfWeek);
             else fncd.normalDay(dayOfWeek);  // normal stuff on other days
             out(">>> End Simulation Day "+day+" "+dayOfWeek+"\n");
-            tracker.printSummary(day);
+            tracker.printSummary();
             dayOfWeek = getNextDay(dayOfWeek);  // increment to the next day
         }
     }

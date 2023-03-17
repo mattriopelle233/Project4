@@ -1,0 +1,178 @@
+-8932.0 : FNCD spent on new car
+-14621.0 : FNCD spent on new car
+-7555.5 : FNCD spent on new car
+-14625.0 : FNCD spent on new car
+-15131.2 : FNCD spent on new car
+-12322.0 : FNCD spent on new car
+-11838.0 : FNCD spent on new car
+-7886.0 : FNCD spent on new car
+-6868.0 : FNCD spent on new car
+-6784.0 : FNCD spent on new car
+-28710.0 : FNCD spent on new car
+-14007.0 : FNCD spent on new car
+-30578.0 : FNCD spent on new car
+-12168.800000000001 : FNCD spent on new car
+-27271.2 : FNCD spent on new car
+-21514.4 : FNCD spent on new car
+-32232.0 : FNCD spent on new car
+-15085.5 : FNCD spent on new car
+-14390.5 : FNCD spent on new car
+-21841.600000000002 : FNCD spent on new car
+-11271.5 : FNCD spent on new car
+-15357.0 : FNCD spent on new car
+-9574.4 : FNCD spent on new car
+-38896.0 : FNCD spent on new car
+-25445.600000000002 : FNCD spent on new car
+-37822.0 : FNCD spent on new car
+-19565.0 : FNCD spent on new car
+-7077.0 : FNCD spent on new car
+-20973.600000000002 : FNCD spent on new car
+-32695.0 : FNCD spent on new car
+-8869.0 : FNCD spent on new car
+-11972.0 : FNCD spent on new car
+-32642.0 : FNCD spent on new car
+-14643.5 : FNCD spent on new car
+-13837.0 : FNCD spent on new car
+-13020.0 : FNCD spent on new car
+-6019.5 : FNCD spent on new car
+-34763.0 : FNCD spent on new car
+-29976.0 : FNCD spent on new car
+-16734.4 : FNCD spent on new car
+-25772.0 : FNCD spent on new car
+-15468.0 : FNCD spent on new car
+-8809.0 : FNCD spent on new car
+-16407.0 : FNCD spent on new car
+-24908.0 : FNCD spent on new car
+-31577.0 : FNCD spent on new car
+-18780.5 : FNCD spent on new car
+-36531.200000000004 : FNCD spent on new car
+-30555.2 : FNCD spent on new car
+-21677.0 : FNCD spent on new car
+-18941.0 : FNCD spent on new car
+-37630.4 : FNCD spent on new car
+-22505.0 : FNCD spent on new car
+-25493.600000000002 : FNCD spent on new car
+-10556.0 : FNCD spent on new car
+-23507.5 : FNCD spent on new car
+-18662.0 : FNCD spent on new car
+-36471.200000000004 : FNCD spent on new car
+-16927.5 : FNCD spent on new car
+-14652.0 : FNCD spent on new car
+-29143.0 : FNCD spent on new car
+-54138.0 : FNCD spent on new car
+-7657.5 : FNCD spent on new car
+-21757.5 : FNCD spent on new car
+-31483.0 : FNCD spent on new car
+-9792.0 : FNCD spent on new car
+-20281.600000000002 : FNCD spent on new car
+-14469.0 : FNCD spent on new car
+-25935.0 : FNCD spent on new car
+-4164.8 : FNCD spent on new car
+-17174.5 : FNCD spent on new car
+-4317.0 : FNCD spent on new car
+-31713.0 : FNCD spent on new car
+-8967.0 : FNCD spent on new car
+-12377.5 : FNCD spent on new car
+-23447.0 : FNCD spent on new car
+-9444.800000000001 : FNCD spent on new car
+-46077.0 : FNCD spent on new car
+-24463.0 : FNCD spent on new car
+-3327.5 : FNCD spent on new car
+-38084.0 : FNCD spent on new car
+-8064.0 : FNCD spent on new car
+-50295.0 : FNCD spent on new car
+-7200.0 : FNCD spent on new car
+-7261.0 : FNCD spent on new car
+-47457.0 : FNCD spent on new car
+-4476.5 : FNCD spent on new car
+-35429.6 : FNCD spent on new car
+-26721.0 : FNCD spent on new car
+-8000.0 : FNCD spent on new car
+-32869.0 : FNCD spent on new car
+-34496.8 : FNCD spent on new car
+-24197.600000000002 : FNCD spent on new car
+-23731.5 : FNCD spent on new car
+-28468.0 : FNCD spent on new car
+-37912.8 : FNCD spent on new car
+-20628.800000000003 : FNCD spent on new car
+-32498.4 : FNCD spent on new car
+-22186.4 : FNCD spent on new car
+-42574.4 : FNCD spent on new car
+-23696.800000000003 : FNCD spent on new car
+-42526.4 : FNCD spent on new car
+-15880.0 : FNCD spent on new car
+-24252.800000000003 : FNCD spent on new car
+-13149.0 : FNCD spent on new car
+-25428.0 : FNCD spent on new car
+-12705.5 : FNCD spent on new car
+-26950.0 : FNCD spent on new car
+Ethel made the Taurus go from Dirty to Clean
+Fred made the Probe go from Dirty to Clean
+Fred-2 made the Corvette go from Dirty to Clean
+Mechanic James got a bonus of $100.00!
+Mechanic James fixed Probe-3 Broken to Used
+Mechanic James got a bonus of $100.00!
+Mechanic James fixed Escort-3 Broken to Used
+Mechanic James-2 got a bonus of $100.00!
+Mechanic James-2 fixed Probe-3 Used to LikeNew
+Mechanic James-2 got a bonus of $100.00!
+Mechanic James-2 fixed Escort-3 Used to LikeNew
+Mechanic Scotty-2 got a bonus of $300.00!
+Mechanic Scotty-2 fixed Corvette Used to LikeNew
+Mechanic Scotty-2 got a bonus of $300.00!
+Mechanic Scotty-2 fixed Cayman-2 Broken to Used
+InternDesi made the Taurus-2 go from Dirty to Sparkling. They earned a bonus of: 20.0
+InternDesi made the Honda Insight-3 go from Dirty to Sparkling. They earned a bonus of: 100.0
+Fred-2 made the Taurus-3 go from Dirty to Clean
+InternFred-2 made the Europa-2 go from Dirty to Sparkling. They earned a bonus of: 100.0
+Mechanic Scotty got a bonus of $100.00!
+Mechanic Scotty fixed Escort Broken to Used
+Mechanic Scotty got a bonus of $100.00!
+Mechanic Scotty fixed Taurus Broken to Used
+Mechanic Spock got a bonus of $100.00!
+Mechanic Spock fixed Escort Used to LikeNew
+Mechanic Spock got a bonus of $100.00!
+Mechanic Spock fixed Taurus Used to LikeNew
+Buyer Luke is buying! Salesperson Phoebe gets a bonus of $875.00!
+Mechanic Uhura did not fix the Used Probe-2
+Buyer Luke is buying Hyundai Ioniq for $65,738.00
+Mechanic Uhura got a bonus of $100.00!
+Mechanic Uhura fixed Taurus-2 Broken to Used
+Buyer Luke bought Dirty LikeNew Hyundai Ioniq for $82,829.88
+82829.88 : FNCD made money
+Buyer Leia is buying! Salesperson Chandler gets a bonus of $600.00!
+Buyer Leia is buying Harley Davidson-2 for $61,110.40
+Buyer Leia bought Clean Used Harley Davidson-2 for $64,165.92
+Montez placed 11 out of 20 driving the Mustang
+64165.92 : FNCD made money
+Jessica placed 4 out of 20 driving the Europa-2
+Rohan placed 15 out of 20 driving the Cayman-3
+60.0 : Staff expense
+Eddie placed 20 out of 20 driving the Europa
+60.0 : Staff expense
+60.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+90.0 : Staff expense
+Eddie placed bottom 5.
+90.0 : Staff expense
+90.0 : Staff expense
+Europa has become broken as a result of poor placement in the race!
+100.0 : Staff expense
+100.0 : Staff expense
+Kim placed 9 out of 20 driving the Cayman
+Victoria placed 4 out of 20 driving the Corvette
+100.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+60.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+120.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+90.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
+100.0 : Staff expense
